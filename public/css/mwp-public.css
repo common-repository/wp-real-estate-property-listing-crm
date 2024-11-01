@@ -1,0 +1,145 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+/**
+ * Pagination
+ * */
+.mwp-pagination {
+clear:both;
+padding:20px 0;
+position:relative;
+font-size:11px;
+line-height:13px;
+}
+.ui-autocomplete { height: 200px; overflow-y: scroll; overflow-x: hidden;}
+.mwp-pagination span, .mwp-pagination a {
+display:block;
+float:left;
+margin: 2px 2px 2px 0;
+padding:6px 9px 5px 9px;
+text-decoration:none;
+width:auto;
+color:#fff;
+background: #555;
+}
+ 
+.mwp-pagination a:hover{
+color:#fff;
+background: #3279BB;
+}
+ 
+.mwp-pagination .current{
+padding:6px 9px 5px 9px;
+background: #3279BB;
+color:#fff;
+}
+#search-result-map-left .row{
+	margin-right:5px;
+}
+#search-result-map-left .mwp-thumbnail{
+	padding-right:0;
+	padding-left:10px;
+}
+#search-result-map-left .mwp-thumbnail .md-listing-img{
+
+}
+#search-result-map-left .mwp-thumbnail .md-listing-img img{
+	height:180px;
+	width:100%;
+}
+#search-result-map-left .mwp-thumbnail .caption{
+
+}
+.mwp-thumbnail{
+	/*margin:20px 0;*/
+}
+.mwp-thumbnail .thumbnail{
+	position: relative;
+}
+.mwp-thumbnail .caption{
+	position: absolute;
+	margin-top:-100px;
+	left:0px;  
+	/* styling bellow */  
+    background-color:black;  
+    color:white;  
+    opacity:0.6; /* transparency */  
+    filter:alpha(opacity=60); /* IE transparency */  
+    width:100%;
+    font-weight:bold;
+    font-size:13px;
+    height:100px;
+}
+.mwp-thumbnail .caption a{
+	color:#fff;
+	font-weight:bold;
+}
+.mwp-thumbnail .caption .mwp-price{
+	font-size:24px;
+	margin:0px;
+}
+.mwp-thumbnail .footer{
+	padding:10px 0;
+	display:block;
+}
+.mwp-switch-view{
+	/*margin-top:170px;*/
+}
+.search_property{
+}
+.search_property .row{
+	margin-bottom:1px;
+}
+.search_property .form-control{
+	width:100% !important;
+	margin:5px 0;
+}
+.mwp-search-result-page .mwp-list-properties{
+margin-top:175px;
+}
+#search-result-map-left{
+
+}
+#md-details .md-details-list {
+	background-color: #f8f8f8;
+	margin-top: 2px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+#md-details .md-details-list::before {
+	content:"";
+	display:table;
+}
+#md-details .md-details-list::after {
+	content:"";
+	display:table;
+	clear:both;
+}
+#md-details h3 {
+	float: left;
+	max-width: 34%;
+	margin: 0px;
+	font-size: 18px;
+}
+#md-details ul {
+	float: right;
+	max-width: 66%;
+}
+#md-details ul li {
+	display:inline;
+	padding-left: 7px;
+}
+#md-details ul li::after {
+	content:","
+}
+.photos-single-container{
+	padding:7px 0;
+}
+.md-photo-cat{
+	padding:10px 0;
+}
+.mwp-search-result-page .search-result-list {width: 1300px;}
+@media only screen and (max-width: 1024px) {
+.mwp-search-result-page .search-result-list {width: 100%;}
+}

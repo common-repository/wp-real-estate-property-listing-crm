@@ -1,0 +1,126 @@
+html,body{
+  	height:100%;
+}
+body{}
+.navbar-custom .icon-bar {
+	background-color:#fff;
+}
+.mwp-navbar-header{
+	background-color:#fff;
+}
+.navbar-custom .form-control:focus {
+	outline: 0;
+	-webkit-box-shadow: inset 0 0 0;
+	box-shadow: inset 0 0 0;
+}
+.navbar-custom .navbar-brand {}
+.navbar-custom .row {
+	width: 100%;
+}
+.navbar-custom .mwp-search-form {
+	margin-top: 20px;
+}
+.navbar-custom .form-control {
+	width: 100%;
+	margin:3px 0;
+}
+.navbar-custom select.transaction {
+	width: 100px !important;
+}
+#main, #main>.row {
+	height:100%;
+}
+#left {
+	height:100%;
+}
+.ui-autocomplete { z-index:1031 !important;} 
+.thumbnail{
+	cursor:pointer;
+}
+.mwp-marker{
+	background: #0d3965;
+    border: 2px solid #fff;
+	padding: 3px;
+	cursor:pointer;
+}
+.mwp-marker .marker-price{
+	color:#fff;
+	font-size:14px;
+}
+.mwp-infowindow .thumbnail img.media-object{
+	max-height: 100px;
+    max-width: 150px;
+}
+.mwp-infowindow .thumbnail .caption{
+
+}
+.marker-mobile{
+	background:yellow;
+	position:fixed;
+	width:100%;
+	height:100px;
+}
+.property-details-row{
+	margin:10px;
+}
+.mwp-wp-navmenu{
+}
+.mwp-navbar-header .navbar-brand {
+  padding: 0px;
+  height: 100px;
+}
+.mwp-navbar-header .navbar-brand a >img {
+  height: 100%;
+  padding: 15px;
+  width: auto;
+}
+.mwp-property-details-page .navbar-fixed-top{
+	position:static;
+}
+/*for mobile*/
+@media only screen and (min-width : 768px) {
+	.navbar-fixed-top{
+		position:static;
+	}
+	.mwp-list-properties{
+		margin-top:1px;
+	}
+	.page-header small{
+		display:block;
+	}
+	.mwp-navbar-header{
+		max-height:100% !important;
+	}
+}
+/*non mobile*/
+@media only screen and (max-width : 768px) {
+	.navbar-fixed-top{
+		position:static;
+	}
+	.mwp-list-properties{
+		margin-top:1px;
+	}
+	.page-header small{
+		display:block;
+	}
+	.mwp-navbar-header{
+		max-height:100% !important;
+	}
+}
+@media only screen and (min-width : 992px) {
+	.mwp-wp-navmenu .menu-item-has-children:hover > .dropdown-menu{
+		display:block;
+	}
+	.navbar-fixed-top{
+		position:fixed;
+	}
+	.mwp-search-result-page .mwp-list-properties{
+		margin-top:150px;
+	}
+	.page-header small{
+		display:inline;
+	}
+}
+@media only screen and (max-width : 992px) {
+
+}

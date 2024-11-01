@@ -1,0 +1,2122 @@
+# Copyright (C) 2014 Masterdigm
+# This file is distributed under the same license as the Masterdigm Package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Masterdigm v1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-01-15 16:30+0800\n"
+"PO-Revision-Date: 2016-01-15 16:33+0800\n"
+"Last-Translator: Allan <allan.paul.casilum@gmail.com>\n"
+"Language-Team: Masterdigm <support@masterdigm.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: pre-install.php:82
+msgid "Folder wp-content/uploads doesn't exists, please create and make it writeable"
+msgstr "Carpeta wp-content / uploads no existe, por favor, crean y hacen que sea escribible"
+
+#: pre-install.php:97
+msgid "Thank you for installing Masterdigm API, to use and obtain a KEY, please click right link"
+msgstr "Gracias por instalar API Masterdigm, de usar y obtener una clave, por favor haga clic en enlace de la derecha"
+
+#: pre-install.php:99
+msgid "Plugin Dashboard page"
+msgstr "Página Panel Plugin"
+
+#: enfold-function.php:40
+msgid "Homes for Sale And Rent in"
+msgstr "Viviendas en venta y alquiler en"
+
+#: config.php:103
+msgid "Property Details"
+msgstr "Detalles de la propiedad"
+
+#: config.php:104
+msgid "Map and Directions"
+msgstr "Mapa y Direcciones"
+
+#: config.php:105
+msgid "School and Information"
+msgstr "La escuela y la información"
+
+#: config.php:106
+msgid "Walk Score"
+msgstr "Walk Score"
+
+#: config.php:107
+msgid "Photos"
+msgstr "Fotos"
+
+#: config.php:108
+msgid "Video"
+msgstr "Vídeo"
+
+#: config.php:109
+msgid "School"
+msgstr "Colegio"
+
+#: config.php:110
+#: config.php:120
+msgid "Price"
+msgstr "Precio"
+
+#: config.php:111
+msgid "Baths"
+msgstr "Baños"
+
+#: config.php:112
+msgid "Beds"
+msgstr "Camas"
+
+#: config.php:113
+msgid "Year Built"
+msgstr "Año de construcción"
+
+#: config.php:115
+msgid "Find your Home"
+msgstr "Encuentra tu casa"
+
+#: config.php:116
+msgid "Garage"
+msgstr "cochera"
+
+#: config.php:117
+msgid "Next"
+msgstr "Siguiente"
+
+#: config.php:118
+msgid "Previous"
+msgstr "previo"
+
+#: config.php:119
+msgid "Property Code"
+msgstr "Código de la Propiedad"
+
+#: config.php:121
+msgid "Min Price"
+msgstr "Precio mínimo"
+
+#: config.php:122
+msgid "Max Price"
+msgstr "Precio máximo"
+
+#: config.php:123
+msgid "Type"
+msgstr "Escribe"
+
+#: config.php:124
+msgid "Any Bed"
+msgstr "cualquier cama"
+
+#: config.php:125
+msgid "Any Bath"
+msgstr "cualquier Bath"
+
+#: config.php:126
+msgid "Enter Location here"
+msgstr "Introduzca la ubicación aquí"
+
+#: config.php:127
+msgid "Type any Keyword here"
+msgstr "Escriba cualquier palabra clave aquí"
+
+#: config.php:128
+msgid "Search"
+msgstr "mirar"
+
+#: config.php:129
+msgid "More Search Options"
+msgstr "Más opciones de búsqueda"
+
+#: config.php:130
+msgid "Min Floor Area"
+msgstr "Superficie mínima de suelo"
+
+#: config.php:131
+msgid "Min Lot Area"
+msgstr "Mínimo Área del lote"
+
+#: config.php:132
+msgid "Lot Area"
+msgstr "Área del lote"
+
+#: config.php:133
+msgid "Floor Area"
+msgstr "Superficie del piso"
+
+#: admin/class-masterdigm-api-admin.php:110
+msgid "Warning! Do not interrupt, Updating / Creating page by location now, please wait"
+msgstr "¡Advertencia! No interrumpa, Actualización / Creación de página por ubicación ahora, por favor espere"
+
+#: admin/components/styling/class-styling-entity.php:61
+#: admin/components/styling/class-styling-entity.php:62
+msgid "Styling"
+msgstr "Styling"
+
+#: admin/components/dashboard/view/cache-property.php:5
+msgid "Delete All Cache"
+msgstr "eliminar todos caché"
+
+#: admin/components/createlocationpage/class-createlocationpage.php:45
+#: admin/components/createlocationpage/class-createlocationpage.php:46
+msgid "Create page base on location"
+msgstr "crear página basada en la ubicación"
+
+#: admin/components/createlocationpage/class-createlocationpage.php:88
+msgid "It seems you have already create pages by location."
+msgstr "Parece que ya ha crear páginas de ubicación."
+
+#: admin/components/createlocationpage/class-createlocationpage.php:89
+msgid "you can set status of the pages, If you want to update the pages re-run it and it will auto detect those locations you add in the CRM"
+msgstr "se puede establecer el estado de las páginas, si desea actualizar las páginas de volver a ejecutarlo y detectará automáticamente esos lugares se agregan en el CRM"
+
+#: admin/components/createlocationpage/class-createlocationpage.php:90
+msgid "You can also set status or delete it ( not the delete is force, it will not mark as trash ) it will remove those last pages you created ( check the date below \"last activity\" )"
+msgstr "También puede establecer el estado o borrarlo (no el de eliminación es la fuerza, no marcará como basura) se eliminará esas últimas páginas que ha creado (verifique la fecha de abajo \"última actividad \")"
+
+#: admin/components/createlocationpage/class-createlocationpage.php:91
+msgid "Update Page"
+msgstr "actualización de la página"
+
+#: admin/components/createlocationpage/class-createlocationpage.php:93
+msgid "Publish"
+msgstr "Publicar"
+
+#: admin/components/createlocationpage/class-createlocationpage.php:94
+msgid "Draft"
+msgstr "calado"
+
+#: admin/components/createlocationpage/class-createlocationpage.php:95
+msgid "Trash"
+msgstr "Trash"
+
+#: admin/components/settings/class-settings.php:185
+msgid "Turn on, show popup after certain clicks?"
+msgstr "Encienda, mostrar emergente después de ciertos clics?"
+
+#: admin/components/settings/class-settings.php:186
+msgid "Turn off, do not show popup after certain clicks?"
+msgstr "Apague, no muestran emergente después de ciertos clics?"
+
+#: admin/components/settings/class-settings.php:192
+#: admin/components/settings/class-settings.php:199
+#: admin/components/settings/class-settings.php:206
+msgid "No"
+msgstr "Sin"
+
+#: admin/components/settings/class-settings.php:193
+#: admin/components/settings/class-settings.php:200
+#: admin/components/settings/class-settings.php:207
+msgid "Yes"
+msgstr "Sí"
+
+#: admin/components/settings/class-settings.php:223
+msgid "Photo"
+msgstr "foto"
+
+#: admin/components/settings/class-settings.php:224
+msgid "Map"
+msgstr "Mapa"
+
+#: admin/components/settings/class-settings.php:230
+msgid "Address"
+msgstr "Dirección"
+
+#: admin/components/settings/class-settings.php:231
+msgid "Tag Line"
+msgstr "Lema"
+
+#: admin/components/settings/view/index.php:18
+msgid "Popup"
+msgstr "Surgir"
+
+#: admin/components/settings/view/index.php:19
+#: admin/components/settings/view/index.php:67
+msgid "Property"
+msgstr "Propiedad"
+
+#: admin/components/settings/view/index.php:20
+msgid "Search Form / Result Page"
+msgstr "Formulario de búsqueda / Página de resultados"
+
+#: admin/components/settings/view/index.php:21
+msgid "JS Plugin / Library"
+msgstr "JS enchufar / biblioteca"
+
+#: admin/components/settings/view/index.php:22
+#: admin/components/settings/view/index.php:144
+msgid "Client Lead"
+msgstr "plomo Cliente"
+
+#: admin/components/settings/view/index.php:23
+#: admin/components/settings/view/index.php:136
+msgid "Mail"
+msgstr "Correo"
+
+#: admin/components/settings/view/index.php:24
+msgid "Template"
+msgstr "Plantilla"
+
+#: admin/components/settings/view/index.php:28
+msgid "Show pop-up on certain clicks?"
+msgstr "Mostrar emergente en algunos clics?"
+
+#: admin/components/settings/view/index.php:31
+msgid "How this works? When a visitor visits your website, you can "
+msgstr "¿Cómo funciona esto? Cuando un usuario visita su sitio web, puede"
+
+#: admin/components/settings/view/index.php:32
+msgid "select how many properties they can view before forcing them "
+msgstr "seleccionar el número de propiedades que se pueden ver antes de obligarlos"
+
+#: admin/components/settings/view/index.php:33
+msgid "to sign-up. When the visitors signs up the lead will "
+msgstr "para inscribirse. cuando los visitantes se inscribe el plomo se"
+
+#: admin/components/settings/view/index.php:34
+msgid "automatically enter into your CRM account. You can "
+msgstr "entrará automáticamente en su cuenta de CRM. Usted puede"
+
+#: admin/components/settings/view/index.php:35
+msgid "automatically create marketing campaigns within the CRM. "
+msgstr "crear automáticamente las campañas de marketing dentro de la CRM."
+
+#: admin/components/settings/view/index.php:44
+msgid "Display close button? do you want the ability to close the popup?"
+msgstr "Mostrar botón de cierre? Qué quiere la posibilidad de cerrar la ventana emergente?"
+
+#: admin/components/settings/view/index.php:52
+msgid "Show popup after certain clicks. This will show popup after certain click or view of individual property"
+msgstr "Mostrar emergente después de ciertos clics. Esto mostrará emergente después de cierto clic o vista de la propiedad individual"
+
+#: admin/components/settings/view/index.php:63
+msgid "Enable "
+msgstr "Habilitar"
+
+#: admin/components/settings/view/index.php:68
+msgid "Search property by default search criteria, Default status, when visitor search property, they will see this search criteria status"
+msgstr "Buscar propiedad mediante criterios de búsqueda por defecto, el estado por defecto, cuando la propiedad de búsqueda visitante, se verá este estatus criterios de búsqueda"
+
+#: admin/components/settings/view/index.php:74
+msgid "Display property address or tag-line"
+msgstr "Pantalla dirección de la propiedad o eslogan"
+
+#: admin/components/settings/view/index.php:87
+msgid "Search Result Page"
+msgstr "Búsqueda Página de resultados"
+
+#: admin/components/settings/view/index.php:88
+msgid "Display view"
+msgstr "vista de la pantalla"
+
+#: admin/components/settings/view/index.php:94
+msgid "Search Title"
+msgstr "Buscar el título"
+
+#: admin/components/settings/view/index.php:95
+msgid "display search title in the search form"
+msgstr "título de búsqueda en el formulario de búsqueda"
+
+#: admin/components/settings/view/index.php:97
+msgid "Show For Sale Button"
+msgstr "Mostrar Venta Botón"
+
+#: admin/components/settings/view/index.php:103
+msgid "Show For Rent Button"
+msgstr "Mostrar Renta Botón"
+
+#: admin/components/settings/view/index.php:111
+msgid "Search Form"
+msgstr "Formulario de búsqueda"
+
+#: admin/components/settings/view/index.php:113
+msgid "Price Range"
+msgstr "Rango de precios"
+
+#: admin/components/settings/view/index.php:137
+msgid "Outgoing email.  Use this mail system to send an email from the mail server."
+msgstr "Correo electrónico saliente. Utilice este sistema electrónico para enviar un correo electrónico desde el servidor de correo"
+
+#: admin/components/settings/view/index.php:147
+msgid "This is use for the following lead forms"
+msgstr "Este es el uso de las siguientes formas de plomo"
+
+#: admin/components/settings/view/index.php:149
+msgid "User register form"
+msgstr "Formulario de registro de Usuario"
+
+#: admin/components/settings/view/index.php:150
+msgid "Inquire form"
+msgstr "formulario de consulta"
+
+#: admin/components/settings/view/index.php:151
+msgid "Email to form"
+msgstr "Enviar a formar"
+
+#: admin/components/settings/view/index.php:156
+msgid "This plugin uses the following javascript plugin / library"
+msgstr "Este plugin utiliza el siguiente plugin de Javascript / biblioteca"
+
+#: admin/components/settings/view/index.php:157
+msgid "Warning! Uncheck them at your own risk!"
+msgstr "¡Advertencia! Ellos sin control a su propio riesgo"
+
+#: admin/components/settings/view/index.php:158
+msgid "The below are part of the MD plugin framework. The purpose is to disallow two instances of plugin/library which can cause conflicts."
+msgstr "Los siguientes son parte del marco plugin de MD. El objetivo es no permitir dos instancias de Programas / biblioteca que puede causar conflictos"
+
+#: admin/components/settings/view/index.php:159
+msgid "Template plugin / library"
+msgstr "Plugin de plantilla / biblioteca"
+
+#: admin/components/settings/view/index.php:177
+msgid "Update"
+msgstr "actualización"
+
+#: admin/components/settings/view/lead.php:2
+msgid "Choose lead status"
+msgstr "Elija estado de plomo"
+
+#: admin/components/settings/view/lead.php:3
+msgid "This will be the status of the lead in the CRM"
+msgstr "Este será el estado de la iniciativa en el CRM"
+
+#: admin/components/settings/view/lead.php:11
+msgid "Choose lead type"
+msgstr "Elija los tipos de plomo"
+
+#: admin/components/settings/view/lead.php:12
+msgid "This will be the type of the lead in the CRM"
+msgstr "Este será el tipo de la iniciativa en el CRM"
+
+#: admin/components/shortcodes/class-mls-list-properties.php:321
+#: admin/components/shortcodes/class-crm-list-properties.php:314
+msgid "List Properties"
+msgstr "Lista de Propiedades"
+
+#: admin/components/shortcodes/class-mls-list-properties.php:327
+msgid "Insert Property by search criteria - MLS"
+msgstr "Insertar propiedad por criterios de búsqueda - MLS"
+
+#: admin/components/shortcodes/class-md-search-form.php:107
+#: admin/components/shortcodes/class-md-search-form.php:110
+msgid "Search Property Form"
+msgstr "Formulario de búsqueda de la propiedad"
+
+#: admin/components/shortcodes/class-md-search-form.php:117
+msgid "Choose template UI"
+msgstr "Elija la interfaz de usuario de plantilla"
+
+#: admin/components/shortcodes/class-mls-lastupdate-property.php:60
+msgid "Last Update Property"
+msgstr "Ultima actualización de la propiedad"
+
+#: admin/components/shortcodes/class-crm-list-properties.php:320
+#: admin/components/shortcodes/class-flexmls-listings.php:226
+msgid "Insert Property by search criteria API"
+msgstr "Inserte la propiedad según los criterios de búsqueda de la API"
+
+#: admin/components/shortcodes/class-flexmls-listings.php:220
+msgid "Flexmls List Properties"
+msgstr "Lista de Propiedades Flexmls"
+
+#: admin/components/shortcodes/class-mls-get-locations.php:158
+msgid "List Locations"
+msgstr "Lista de Ubicaciones"
+
+#: admin/components/shortcodes/class-mls-get-locations.php:164
+msgid "Insert locations"
+msgstr "Insertar ubicaciones"
+
+#: admin/components/shortcodes/class-md-search-result.php:149
+#: admin/components/shortcodes/class-md-search-result.php:152
+msgid "Search Property Result"
+msgstr "Buscar Resultado Propiedades"
+
+#: admin/components/shortcodes/class-md-search-result.php:159
+#: admin/components/shortcodes/class-md-single-property.php:226
+msgid "Choose Template"
+msgstr "Elegir plantilla"
+
+#: admin/components/shortcodes/class-md-search-result.php:165
+msgid "Set property per columns ( should be divided by 12 )"
+msgstr "Propiedad Set por columnas (se debe dividir por 12)"
+
+#: admin/components/shortcodes/class-md-search-result.php:171
+msgid "Show Infinite Scroll? this will show the scrolling ajax instead of tix \"how many display\""
+msgstr "Mostrar Infinito Scroll? Esto mostrará el ajax de desplazamiento en lugar de tix  cuántos pantalla "
+
+#: admin/components/shortcodes/class-md-single-property.php:122
+msgid "I would like to get more information regarding"
+msgstr "Me gustaría obtener más información sobre"
+
+#: admin/components/shortcodes/class-md-single-property.php:210
+msgid "Single Property"
+msgstr "La propiedad individual"
+
+#: admin/components/shortcodes/class-md-single-property.php:213
+msgid "Single Property page"
+msgstr "La página de propiedad individual"
+
+#: admin/components/shortcodes/class-md-single-property.php:220
+msgid "Choose carousel gallery"
+msgstr "Elegir galería carrusel"
+
+#: admin/components/shortcodes/class-md-single-property.php:232
+msgid "Show Nearby properties?"
+msgstr "Mostrar propiedades cercanas?"
+
+#: admin/components/shortcodes/class-md-single-property.php:238
+msgid "Nearby Property, how many column to display ( should be divided by 12 )"
+msgstr "Cerca de la propiedad, el número de la columna para mostrar (se debe dividir por 12)"
+
+#: admin/components/shortcodes/class-crm-unsubscribe.php:69
+msgid "Unsubscribe Process"
+msgstr "Proceso Darse de baja"
+
+#: admin/components/shortcodes/class-mls-list-property-by.php:49
+msgid "List Property By"
+msgstr "Lista de propiedades por"
+
+#: admin/components/shortcodes/class-subscriber-shortcode.php:84
+msgid "Subscriber Dashboard"
+msgstr "Dashboard Suscriptor"
+
+#: admin/components/shortcodes/class-crm-single-property.php:102
+#: admin/components/shortcodes/class-mls-single-property.php:49
+msgid "Display Single Property"
+msgstr "Muestra individual de la propiedad"
+
+#: admin/components/shortcodes/class-crm-single-property.php:107
+#: admin/components/shortcodes/class-mls-single-property.php:54
+msgid "Property id"
+msgstr "Identificación de la propiedad"
+
+#: admin/components/shortcodes/class-crm-single-property.php:112
+msgid "Enter property id, for multiple id seperate it by comma (1,2,3)"
+msgstr "Enter Identificación propiedad, por Identificación múltiples separan por comas (1,2,3)"
+
+#: admin/components/shortcodes/class-crm-featured-properties.php:139
+msgid "Featured Properties"
+msgstr "Propiedades destacadas"
+
+#: admin/components/shortcodes/class-crm-featured-properties.php:149
+#: admin/components/shortcodes/view/flexmls-list-properties.php:58
+#: admin/components/shortcodes/view/list-properties.php:57
+#: admin/components/shortcodes/view/mls-list-properties.php:55
+msgid "Choose template to display"
+msgstr "Elegir plantilla para mostrar"
+
+#: admin/components/shortcodes/class-crm-featured-properties.php:161
+msgid "How many to display (zero means all)"
+msgstr "¿Cuántos de mostrar (cero significa todos)"
+
+#: admin/components/shortcodes/class-crm-featured-properties.php:167
+msgid "Choose Transaction"
+msgstr "Elegir Transacción"
+
+#: admin/components/shortcodes/class-md-list-property-by.php:117
+msgid "List Property By Breadcrumb"
+msgstr "Lista de propiedades Por Breadcrumb"
+
+#: admin/components/shortcodes/class-md-list-property-by.php:120
+msgid "Display properties base on breadcrumb url landing page or url filter by breadcrumb."
+msgstr "Propiedades de pantalla base en la página de aterrizaje url breadcrumb o filtro url por pan rallado."
+
+#: admin/components/shortcodes/class-md-list-property-by.php:134
+msgid "Show child location? If the location is state it will show list of city, if its city it will show list of communities"
+msgstr "Mostrar ubicación niño? Si la ubicación es estado en el que se mostrará la lista de la ciudad, si su ciudad se mostrará la lista de las comunidades"
+
+#: admin/components/shortcodes/view/get-locations.php:31
+#: admin/components/shortcodes/view/mls-get-locations.php:31
+msgid "List community locations base on City"
+msgstr "Lugares de la comunidad lista basada en la ciudad"
+
+#: admin/components/shortcodes/view/get-locations.php:39
+#: admin/components/shortcodes/view/flexmls-list-properties.php:63
+#: admin/components/shortcodes/view/list-properties.php:62
+#: admin/components/shortcodes/view/mls-list-properties.php:61
+#: admin/components/shortcodes/view/mls-get-locations.php:38
+msgid "Insert Shortcode"
+msgstr "Insertar Código corto"
+
+#: admin/components/shortcodes/view/flexmls-list-properties.php:33
+#: admin/components/shortcodes/view/list-properties.php:32
+#: admin/components/shortcodes/view/mls-list-properties.php:32
+#: admin/components/shortcodes/view/mls-get-locations.php:33
+msgid "Type Location"
+msgstr "Tipo de ubicación"
+
+#: admin/components/shortcodes/view/flexmls-list-properties.php:39
+#: admin/components/shortcodes/view/list-properties.php:38
+#: admin/components/shortcodes/view/mls-list-properties.php:38
+msgid "List by how many Bathrooms in property"
+msgstr "Lista por el número de baños en la propiedad"
+
+#: admin/components/shortcodes/view/flexmls-list-properties.php:40
+#: admin/components/shortcodes/view/list-properties.php:39
+#: admin/components/shortcodes/view/mls-list-properties.php:39
+msgid "List by how many Bedrooms in property"
+msgstr "Lista de cuántas habitaciones en propiedad"
+
+#: admin/components/shortcodes/view/flexmls-list-properties.php:41
+#: admin/components/shortcodes/view/list-properties.php:40
+#: admin/components/shortcodes/view/mls-list-properties.php:40
+msgid "List by minimum listprice in property (number format only, example: 123456)"
+msgstr "Lista por precio lista mínima en propiedad (formato de número solamente, ejemplo: 123456)"
+
+#: admin/components/shortcodes/view/flexmls-list-properties.php:42
+#: admin/components/shortcodes/view/list-properties.php:41
+#: admin/components/shortcodes/view/mls-list-properties.php:41
+msgid "List by maximum listprice in property (number format only, example: 123456)"
+msgstr "Lista de precios máximos mencionados de propiedad (formato de número solamente, ejemplo: 123456)"
+
+#: admin/components/shortcodes/view/flexmls-list-properties.php:43
+#: admin/components/shortcodes/view/list-properties.php:42
+#: admin/components/shortcodes/view/mls-list-properties.php:42
+msgid "Status"
+msgstr "Estado"
+
+#: admin/components/shortcodes/view/flexmls-list-properties.php:48
+#: admin/components/shortcodes/view/list-properties.php:47
+#: admin/components/shortcodes/view/mls-list-properties.php:47
+msgid "Transaction"
+msgstr "Transacción"
+
+#: admin/components/shortcodes/view/flexmls-list-properties.php:50
+#: admin/components/shortcodes/view/list-properties.php:49
+#: admin/components/shortcodes/view/mls-list-properties.php:49
+msgid "For Sale"
+msgstr "A la venta"
+
+#: admin/components/shortcodes/view/flexmls-list-properties.php:51
+#: admin/components/shortcodes/view/list-properties.php:50
+msgid "For Rent"
+msgstr "En renta"
+
+#: admin/components/shortcodes/view/flexmls-list-properties.php:52
+#: admin/components/shortcodes/view/list-properties.php:51
+msgid "Foreclosure"
+msgstr "Foreclosure"
+
+#: admin/components/shortcodes/view/flexmls-list-properties.php:55
+#: admin/components/shortcodes/view/list-properties.php:54
+#: admin/components/shortcodes/view/mls-list-properties.php:52
+msgid "How many property to display"
+msgstr "¿Cuántas propiedad para mostrar"
+
+#: admin/components/shortcodes/view/flexmls-list-properties.php:57
+#: admin/components/shortcodes/view/list-properties.php:56
+#: admin/components/shortcodes/view/mls-list-properties.php:54
+msgid "Show Pagination?"
+msgstr "Mostrar paginación?"
+
+#: admin/components/shortcodes/view/mls-list-properties.php:57
+msgid "Include Office List?"
+msgstr "Incluir Lista de oficina?"
+
+#: admin/components/template/view/index.php:1
+msgid "Template settings"
+msgstr "Configuración de plantilla"
+
+#: admin/components/greatschool/class-md-greatschool-entity.php:38
+#: admin/components/greatschool/class-md-greatschool-entity.php:39
+msgid "Greatschool API"
+msgstr "Greatschool API"
+
+#: admin/components/wizard/class-wizard.php:46
+msgid "Folder wp-content/uploads doesn't exists, please create and make it writable"
+msgstr "Carpeta wp-content / uploads no existe, por favor, crean y hacen que sea escribible"
+
+#: admin/components/wizard/class-wizard.php:51
+msgid "The permalinks, need to set up so the url will work in property pages"
+msgstr "Los enlaces permanentes, es necesario establecer lo que la url funcionará en las páginas de propiedades"
+
+#: admin/components/wizard/class-wizard.php:57
+msgid " page already exists, please check or rename the page title and the url"
+msgstr " página ya existe, por favor revise o cambie el nombre del título de la página y la URL"
+
+#: admin/components/wizard/view/step-one.php:2
+msgid "Welcome to"
+msgstr "Bienvenido a"
+
+#: admin/components/wizard/view/step-one.php:4
+msgid "Thank you for choosing Masterdigm CRM as your property solutions"
+msgstr "Gracias por elegir Masterdigm CRM como sus soluciones de propiedad"
+
+#: admin/components/wizard/view/step-one.php:7
+msgid "Before signing-up for API Keys, we would like you to check on these issues below and please fix them :"
+msgstr "Antes de firmar a punto para la API de llaves, nos gustaría comprobar en estos temas por debajo y por favor arreglarlos"
+
+#: admin/components/wizard/view/step-one.php:12
+msgid "The upload folder is needed so the cache can put data in there"
+msgstr "Se necesita la carpeta de carga por lo que la caché puede poner los datos en ese país"
+
+#: admin/components/wizard/view/step-one.php:19
+msgid "The permalinks, need to setup so the url will work in property pages"
+msgstr "Los enlaces permanentes, es necesario establecer lo que la url funcionará en las páginas de propiedades"
+
+#: admin/components/wizard/view/step-one.php:26
+msgid "Those pages are needed to display property data from CRM, those hold as placeholder and contain shortcodes"
+msgstr "Se necesitan esas páginas para mostrar los datos de propiedad de CRM, los mantienen como marcador de posición y contienen códigos cortos"
+
+#: admin/components/wizard/view/step-one.php:30
+msgid "Refresh"
+msgstr "Actualizar"
+
+#: admin/components/socialapi/class-social-api.php:52
+#: admin/components/socialapi/class-social-api.php:53
+msgid "Social API"
+msgstr "API Social"
+
+#: admin/components/socialapi/view/add.php:5
+msgid "Provide social api credentials."
+msgstr "Proporcionar credenciales api sociales."
+
+#: admin/components/socialapi/view/add.php:25
+msgid "Link to create facebook app"
+msgstr "Enlace a crear facebook aplicación"
+
+#: admin/components/tagcontent/class-tag-content.php:60
+#: admin/components/tagcontent/class-tag-content.php:61
+msgid "Tag Content"
+msgstr "Contenido de la Etiqueta"
+
+#: admin/components/tagcontent/class-tag-content.php:88
+#: admin/components/tagcontent/class-tag-content.php:111
+msgid "Please provide property or location data"
+msgstr "Sírvanse proporcionar datos de propiedad o ubicación"
+
+#: admin/components/tagcontent/class-tag-content.php:167
+#: admin/components/tagcontent/class-tag-content.php:210
+msgid "Single property ( provide URL )"
+msgstr "Propiedad individual (proporcionar URL)"
+
+#: admin/components/tagcontent/class-tag-content.php:168
+#: admin/components/tagcontent/class-tag-content.php:211
+msgid "State ( provide ID or state name)"
+msgstr "Estado (proporcionar identificación o nombre del estado)"
+
+#: admin/components/tagcontent/class-tag-content.php:169
+#: admin/components/tagcontent/class-tag-content.php:212
+msgid "City ( provide ID or city name)"
+msgstr "Ciudad (proporcionar identificación o el nombre de la ciudad)"
+
+#: admin/components/tagcontent/class-tag-content.php:170
+#: admin/components/tagcontent/class-tag-content.php:213
+msgid "Community ( provide ID or community name)"
+msgstr "Comunidad (proporcionar identificación o el nombre de la comunidad)"
+
+#: admin/components/tagcontent/class-tag-content.php:182
+#: admin/components/tagcontent/class-tag-content.php:194
+#: admin/components/tagcontent/class-tag-content.php:224
+#: admin/components/tagcontent/class-tag-content.php:236
+msgid "Display Title only"
+msgstr "Sólo Pantalla Título"
+
+#: admin/components/tagcontent/class-tag-content.php:183
+#: admin/components/tagcontent/class-tag-content.php:195
+#: admin/components/tagcontent/class-tag-content.php:225
+#: admin/components/tagcontent/class-tag-content.php:237
+msgid "Display Title with Excerpt"
+msgstr "Pantalla Título con Extracto"
+
+#: admin/components/tagcontent/class-tag-content.php:188
+#: admin/components/tagcontent/class-tag-content.php:230
+msgid "name"
+msgstr "nombre"
+
+#: admin/components/tagcontent/class-tag-content.php:217
+#: admin/components/tagcontent/class-tag-content.php:411
+msgid "any"
+msgstr "alguna"
+
+#: admin/components/tagcontent/view/add.php:5
+#: admin/components/tagcontent/view/edit.php:5
+msgid "Add new content to tag in property."
+msgstr "Añadir nuevo contenido para etiquetar en propiedad."
+
+#: admin/components/tagcontent/view/add.php:19
+#: admin/components/tagcontent/view/edit.php:19
+msgid "Choose what property you want to associate with content, single property / location (city, state or cummunity )"
+msgstr "Elija lo que la propiedad que desea asociar con el contenido, la propiedad individual / ubicación (ciudad, estado o comunidad)"
+
+#: admin/components/tagcontent/view/add.php:31
+#: admin/components/tagcontent/view/edit.php:31
+msgid "Provide URL if you choose single property, else ID or location name if you choose locations"
+msgstr "Proporcionar URL si usted elige la propiedad individual, otra identificación o nombre de la ubicación si elige ubicaciones"
+
+#: admin/components/tagcontent/view/add.php:35
+#: admin/components/tagcontent/view/edit.php:35
+msgid "Choose which page to associate with the property, To select multiple content, hold down shift and choose any content"
+msgstr "Elija qué página de asociarse con la propiedad, Para seleccionar el contenido múltiple, mantenga pulsada la tecla de desplazamiento y seleccione cualquier contenido"
+
+#: admin/components/tagcontent/view/add.php:49
+#: admin/components/tagcontent/view/edit.php:50
+msgid "Display featured image on the choosen content?"
+msgstr "Visualización de la imagen aparece en el contenido elegido?"
+
+#: admin/components/tagcontent/view/add.php:54
+#: admin/components/tagcontent/view/edit.php:55
+msgid "Choose how to display the content list"
+msgstr "Elija cómo mostrar la lista de contenidos"
+
+#: admin/components/tagcontent/view/add.php:65
+#: admin/components/tagcontent/view/edit.php:66
+msgid "Choose category to associate"
+msgstr "Seleccionar una categoría para asociar"
+
+#: admin/components/tagcontent/view/add.php:79
+#: admin/components/tagcontent/view/edit.php:81
+msgid "Display category, content featured image?"
+msgstr "Mostrar categoría, el contenido ofrecido imagen?"
+
+#: admin/components/tagcontent/view/add.php:84
+#: admin/components/tagcontent/view/edit.php:86
+msgid "Choose how to display the category content list"
+msgstr "Elija cómo mostrar la lista Contenido de categoría"
+
+#: admin/components/tagcontent/view/add.php:94
+msgid "Add Tag Content"
+msgstr "Añadir etiqueta contenido"
+
+#: admin/components/tagcontent/view/edit.php:96
+msgid "Update Tag Content"
+msgstr "Actualizar contenido Tag"
+
+#: admin/components/tagcontent/view/list.php:10
+msgid "Add New Tag Content"
+msgstr "Añadir nueva etiqueta de contenido"
+
+#: admin/components/tagcontent/view/list.php:19
+msgid "Property Address / Location"
+msgstr "Dirección de la Propiedad / Ubicación"
+
+#: admin/components/tagcontent/view/list.php:22
+msgid "Property / Location ( Name / ID )"
+msgstr "Propiedad / Ubicación (Nombre / ID)"
+
+#: admin/components/tagcontent/view/list.php:25
+msgid "Action"
+msgstr "Acción"
+
+#: admin/components/tagcontent/view/list.php:41
+msgid "Edit"
+msgstr "Editar"
+
+#: admin/components/tagcontent/view/list.php:42
+msgid "Delete"
+msgstr "Borrar"
+
+#: admin/components/propertyalert/class-admin-property-alert.php:49
+#: admin/components/propertyalert/class-admin-property-alert.php:50
+msgid "Property Alert API"
+msgstr "Alerta Propiedad"
+
+#: admin/components/propertyalert/view/index_page.php:5
+msgid "Property Alert Settings"
+msgstr "Configuración de alertas Propiedad"
+
+#: admin/components/propertyalert/view/index_page.php:19
+msgid "Add Message for successfully un-subscribe"
+msgstr "Añadir Mensaje para darse de baja con éxito"
+
+#: admin/components/propertyalert/view/index_page.php:24
+msgid "Add Message for fail un-subscribe"
+msgstr "Añadir Mensaje para fallar anular la suscripción"
+
+#: admin/components/mailcontent/view/index.php:2
+msgid "Mail Content"
+msgstr "contenido correo"
+
+#: admin/components/mailcontent/view/index.php:4
+msgid "The email content below is the email the user receives upon subscribing.  Be sure to include the string variable, e.g., %username% and %password% so they will receive their log in credentials."
+msgstr "El contenido del correo electrónico a continuación es el correo electrónico que el usuario recibe por la suscripción. Asegúrese de incluir la variable de cadena, por ejemplo,% username% y% password% en lo que van a recibir su registro de credenciales"
+
+#: admin/components/mailcontent/view/index.php:7
+msgid "Use the below string variables to create your email below."
+msgstr "Utilice las variables de cadena a continuación para crear tu email"
+
+#: admin/components/subscribeapi/class-subscribe-api.php:222
+msgid "Please provide valid email address"
+msgstr "Proporcione email válido"
+
+#: admin/components/subscribeapi/class-subscribe-api.php:253
+msgid "Error in activation key"
+msgstr "Error en la clave de activación"
+
+#: admin/components/subscribeapi/class-subscribe-api.php:276
+msgid "Error in masterdigm code activation "
+msgstr "Error en la activación de código masterdigm"
+
+#: admin/components/subscribeapi/view/index.php:45
+msgid "Activate Code"
+msgstr "activar el código"
+
+#: admin/components/subscribeapi/view/index.php:51
+msgid "The simple and powerful real estate plugin"
+msgstr "El sencillo y potente plugin de bienes raíces"
+
+#: admin/components/subscribeapi/view/index.php:53
+msgid "Masterdigm Wordpress plugin is unlike other simple WP plugins.  Within minutes you will see demo properties on your site!   Easy to use, packed with features and awesome plugin support.  Start today and see the Masterdigm WP Plugin difference.  We respect your privacy and can opt-out anytime.   Simply add your email below.. we will send you a verification link and you are ready to go!"
+msgstr "Masterdigm Wordpress plugin es a diferencia de otros plugins WP simples. En cuestión de minutos podrás ver las propiedades de demostración en su sitio! Fácil de usar, lleno de características y soporte increíble plugin. Comience hoy mismo y vea la diferencia Masterdigm WP Plugin. Respetamos su privacidad y podemos optar por dejar en cualquier momento. Sólo tienes que añadir su correo electrónico debajo .. le enviaremos un enlace de verificación y ya está listo para ir!"
+
+#: admin/components/subscribeapi/view/index.php:58
+msgid "Email"
+msgstr "Email"
+
+#: admin/components/subscribeapi/view/index.php:62
+msgid "please provide email, or change email address, this will be use to signup an account in masterdigm"
+msgstr "por favor proporcione de correo electrónico, o cambiar dirección de correo electrónico, esta será utilizada para firmar una cuenta en masterdigm"
+
+#: admin/components/subscribeapi/view/index.php:67
+msgid "Company"
+msgstr "Compañía"
+
+#: admin/components/subscribeapi/view/index.php:71
+msgid "First Name"
+msgstr "Nombre de pila"
+
+#: admin/components/subscribeapi/view/index.php:75
+msgid "Last Name"
+msgstr "Apellido"
+
+#: admin/components/subscribeapi/view/index.php:82
+msgid "Subscribe"
+msgstr "suscribir"
+
+#: admin/components/subscribeapi/view/index.php:85
+msgid "Important! Username and password will be sent to you're email address you provide, please check your email inbox or in spam"
+msgstr "Importante! Nombre de usuario y la contraseña serán enviados a usted estamos dirección de correo electrónico que nos ha facilitado, por favor revise su bandeja de entrada de correo electrónico o en el spam"
+
+#: admin/components/subscribeapi/view/index.php:90
+msgid "Or if you already have API keys, fill up the fields below"
+msgstr "O si usted ya tiene las llaves de la API, llenar los campos de abajo"
+
+#: admin/components/subscribeapi/view/index.php:93
+msgid "To complete your installation, you need to choose default property status ( found in CRM > Tools and Setting > Manage Property Status Field )"
+msgstr "Para completar la instalación, tiene que elegir el estado propiedad predeterminada (que se encuentra en CRM> Herramientas y configuración> Administrar Estado la propiedad de campo)"
+
+#: admin/components/subscribeapi/view/credentials_form.php:17
+msgid "Choose property status"
+msgstr "Elija estatus de propiedad"
+
+#: admin/components/subscribeapi/view/credentials_form.php:24
+msgid "Choose property status to finish installation"
+msgstr "Elija estatus de propiedad para finalizar la instalación"
+
+#: admin/components/subscribeapi/view/credentials_form.php:29
+msgid "Property Data Feed"
+msgstr "Alerta Propiedad"
+
+#: admin/components/subscribeapi/view/credentials_form.php:32
+msgid "Select Data Feed"
+msgstr "Seleccione Alimentación de Datos"
+
+#: admin/components/faq/class-faq.php:45
+#: admin/components/faq/class-faq.php:46
+msgid "FAQ"
+msgstr "PF"
+
+#: admin/components/faq/view/faq.php:10
+#: admin/components/faq/view/faq.php:41
+msgid "Is Masterdigm CRM a Saas? (Software as a Service)"
+msgstr "Es Masterdigm CRM SaaS? (Software as a Service)"
+
+#: admin/components/faq/view/faq.php:11
+#: admin/components/faq/view/faq.php:46
+msgid "Does Masterdigm offer automated auto responders?"
+msgstr "¿El Masterdigm ofrecen autoresponders automatizadas?"
+
+#: admin/components/faq/view/faq.php:12
+#: admin/components/faq/view/faq.php:55
+msgid "Does Masterdigm send out property alerts?"
+msgstr "¿Envía Masterdigm alertas de propiedad?"
+
+#: admin/components/faq/view/faq.php:13
+#: admin/components/faq/view/faq.php:60
+msgid "Can I manage my documents inside of the CRM?"
+msgstr "Puedo manejar mis documentos dentro del CRM?"
+
+#: admin/components/faq/view/faq.php:14
+#: admin/components/faq/view/faq.php:29
+#: admin/components/faq/view/faq.php:66
+#: admin/components/faq/view/faq.php:140
+msgid "Can I change Plans or cancel at any time?"
+msgstr "¿Puedo cambiar de planes o cancelar en cualquier momento?"
+
+#: admin/components/faq/view/faq.php:15
+#: admin/components/faq/view/faq.php:27
+#: admin/components/faq/view/faq.php:71
+#: admin/components/faq/view/faq.php:129
+msgid "Support Included?"
+msgstr "Soporte Incluido"
+
+#: admin/components/faq/view/faq.php:16
+#: admin/components/faq/view/faq.php:77
+msgid "Does Masterdigm handle Franchises?"
+msgstr "¿Maneja Masterdigm Franquicias?"
+
+#: admin/components/faq/view/faq.php:17
+#: admin/components/faq/view/faq.php:82
+msgid "How many emails can I send out of Masterdigm per month for Free?"
+msgstr "¿Cuántos emails puedo enviar fuera de Masterdigm al mes de forma gratuita?"
+
+#: admin/components/faq/view/faq.php:18
+#: admin/components/faq/view/faq.php:88
+msgid "Want to know even more about Masterdigm?"
+msgstr "¿Quieres saber más sobre Masterdigm?"
+
+#: admin/components/faq/view/faq.php:19
+#: admin/components/faq/view/faq.php:94
+msgid "Is there a Partnership/Affiliate program?"
+msgstr "¿Hay un programa de asociación / afiliado?"
+
+#: admin/components/faq/view/faq.php:22
+msgid "About Masterdigm WordPress Plugin"
+msgstr "Sobre Masterdigm WordPress Plugin"
+
+#: admin/components/faq/view/faq.php:23
+#: admin/components/faq/view/faq.php:100
+msgid "Is the WordPress Listings Plugin Mobile friendly?"
+msgstr "Es el WordPress Listados Plugin móvil amigable?"
+
+#: admin/components/faq/view/faq.php:24
+#: admin/components/faq/view/faq.php:105
+msgid "Are there any pages I must not delete?"
+msgstr "¿Hay alguna página no debo borrar?"
+
+#: admin/components/faq/view/faq.php:25
+#: admin/components/faq/view/faq.php:119
+msgid "Can the site work with Commercial properties?"
+msgstr "¿Puede el sitio de trabajar con propiedades comerciales?"
+
+#: admin/components/faq/view/faq.php:26
+#: admin/components/faq/view/faq.php:124
+msgid "Can I host the website on any server?"
+msgstr "¿Puedo alojar el sitio Web en cualquier servidor?"
+
+#: admin/components/faq/view/faq.php:28
+#: admin/components/faq/view/faq.php:135
+msgid "How much does the system cost?"
+msgstr "¿Cuánto cuesta el sistema?"
+
+#: admin/components/faq/view/faq.php:30
+#: admin/components/faq/view/faq.php:145
+msgid "What themes does Masterdigm Listing plugin work with?"
+msgstr "¿Qué temas ¿Funciona el plugin Masterdigm anuncio?"
+
+#: admin/components/faq/view/faq.php:31
+#: admin/components/faq/view/faq.php:150
+msgid "Where are property listings managed?"
+msgstr "¿Dónde se gestionan anuncios inmobiliarios?"
+
+#: admin/components/faq/view/faq.php:32
+#: admin/components/faq/view/faq.php:155
+msgid "I am getting a 404 error when reviewing the property page?"
+msgstr "Estoy recibiendo un error 404 al revisar la página de propiedades?"
+
+#: admin/components/faq/view/faq.php:33
+#: admin/components/faq/view/faq.php:160
+msgid "Are there additional costs?"
+msgstr "¿Existen costos adicionales?"
+
+#: admin/components/faq/view/faq.php:34
+#: admin/components/faq/view/faq.php:166
+msgid "Do you hold Masterdigm Webinars?"
+msgstr "¿Tiene usted Masterdigm Webinars?"
+
+#: admin/components/faq/view/faq.php:35
+#: admin/components/faq/view/faq.php:172
+msgid "Does Masterdigm have an Affiliate Program?"
+msgstr "¿Tiene Masterdigm un Programa de Afiliados?"
+
+#: admin/components/faq/view/faq.php:36
+#: admin/components/faq/view/faq.php:178
+msgid "Does the listings plugin have property alert capability?"
+msgstr "Hace los anuncios Plugin de tener la propiedad la capacidad de alarma"
+
+#: admin/components/faq/view/faq.php:42
+msgid "Yes, Masterdigm is a cloud based CRM!  You can be anywhere and access your leads and properties and anytime.  Masterdigm has been around since 2007 and is happy to announce continued integrations throughout the last few years.  Some are Mailgun and Mailgun to name just two."
+msgstr "Sí, Masterdigm es una nube basada CRM! Usted puede estar en cualquier lugar y acceder a sus clientes potenciales y propiedades y en cualquier momento. Masterdigm ha existido desde 2007 y es feliz de anunciar integraciones continuas a lo largo de los últimos años. Algunos son Mailgun y Mailgun por nombrar sólo dos \"."
+
+#: admin/components/faq/view/faq.php:43
+#: admin/components/faq/view/faq.php:52
+#: admin/components/faq/view/faq.php:57
+#: admin/components/faq/view/faq.php:63
+#: admin/components/faq/view/faq.php:68
+#: admin/components/faq/view/faq.php:74
+#: admin/components/faq/view/faq.php:79
+#: admin/components/faq/view/faq.php:85
+#: admin/components/faq/view/faq.php:91
+#: admin/components/faq/view/faq.php:97
+#: admin/components/faq/view/faq.php:102
+#: admin/components/faq/view/faq.php:116
+#: admin/components/faq/view/faq.php:121
+#: admin/components/faq/view/faq.php:126
+#: admin/components/faq/view/faq.php:132
+#: admin/components/faq/view/faq.php:137
+#: admin/components/faq/view/faq.php:142
+#: admin/components/faq/view/faq.php:147
+#: admin/components/faq/view/faq.php:152
+#: admin/components/faq/view/faq.php:157
+#: admin/components/faq/view/faq.php:163
+#: admin/components/faq/view/faq.php:169
+#: admin/components/faq/view/faq.php:175
+#: admin/components/faq/view/faq.php:180
+msgid "Go to top"
+msgstr "Ir al inicio"
+
+#: admin/components/faq/view/faq.php:47
+msgid "Yes, we have a few ways the clients receive their updates."
+msgstr "Sí, tenemos algunas maneras los clientes reciben sus actualizaciones."
+
+#: admin/components/faq/view/faq.php:49
+msgid "Once they sign up, you create a marketing campaign that kicks of any emails you would like."
+msgstr "Una vez que se inscriban, se crea una campaña de marketing que se activa de cualquier correo electrónico que le gustaría."
+
+#: admin/components/faq/view/faq.php:50
+msgid "If you have a website with Masterdigm, i.e, utilizing the WordPress listing plugin, once a client saves a search, the system will automatically send out any new properties that match their criteria."
+msgstr "Si usted tiene un sitio web con Masterdigm, es decir, la utilización de la lista de WordPress plugin, una vez que un cliente guarda una búsqueda, el sistema enviará automáticamente las nuevas propiedades que coincidan con sus criterios."
+
+#: admin/components/faq/view/faq.php:56
+msgid "Yes!  And the user can actually set up their own saved searches when the log into the website itself."
+msgstr "¡Sí! Y el usuario puede realmente crear sus propias búsquedas guardadas cuando el registro en el sitio web en sí."
+
+#: admin/components/faq/view/faq.php:61
+msgid "Yes, Masterdigm is designed to allow you an Intranet of sorts. You can upload your company documents and share them with your team. You can also keep your documents private and/or share them!"
+msgstr "Sí, Masterdigm está diseñado para permitir a una Intranet de deportes. Puedes subir tus documentos de la empresa y compartirlas con su equipo. También puede guardar sus documentos privados y / o compartirlos!"
+
+#: admin/components/faq/view/faq.php:62
+msgid "Document types:"
+msgstr "tipos de documentos"
+
+#: admin/components/faq/view/faq.php:67
+msgid "Absolutely, we run month to month!"
+msgstr "Absolutamente, corremos mes a mes!"
+
+#: admin/components/faq/view/faq.php:72
+msgid "Support is included for issues, bugs, etc.. Use the Support link inside the CRM. Needing support for your website? Blogs? Content writing? Email Marketing Materials?"
+msgstr "Se incluye soporte para temas, insectos, etc .. Utilice el vínculo Soporte dentro de la CRM. Necesidad de apoyo para su sitio web? Blogs? Contenido de la escritura? Enviar materiales de marketing?"
+
+#: admin/components/faq/view/faq.php:73
+msgid "Please contact us or your Project/Web Design team."
+msgstr "Por favor, póngase en contacto con nosotros o con su equipo de diseño del proyecto / Web\"."
+
+#: admin/components/faq/view/faq.php:78
+msgid "Yes, Masterdigm is designed around a brokerage firm.  You can share leads via the share leads tab to other Franchises in your network.  Also, any properties within each Franchisees account can be shared to other franchisees websites.  Leads will flow into the site that is showing the property."
+msgstr "Sí, Masterdigm está diseñado en torno a una firma de corretaje. Puede compartir clientes potenciales a través de la participación conduce ficha a otras franquicias en su red. Además, las propiedades dentro de cada franquiciados cuenta puede ser compartida con otros franquiciados sitios web. Leads fluirán en el sitio que se muestra la propiedad \"."
+
+#: admin/components/faq/view/faq.php:83
+msgid "We use Mailgun to send out emails. They have a 10,000/month limit for free. 20,000 emails for 5.00/month. Great deal!"
+msgstr "Utilizamos Mailgun para enviar mensajes de correo electrónico. Tienen un límite de 10.000 / mes de forma gratuita. 20.000 emails sobre 5.00 / mes. Gran oferta!"
+
+#: admin/components/faq/view/faq.php:84
+msgid "Contact us more about helping you set up www.mailgun.com but they have great updates to help you too!"
+msgstr "Contáctenos más sobre ayudándole a configurar www.mailgun.com pero tienen grandes cambios a ayudar a usted también!"
+
+#: admin/components/faq/view/faq.php:89
+msgid "Click on our youtube channel and learn all about the Masterdigm CRM"
+msgstr "Haga clic en nuestro canal de youtube y aprender todo acerca de la Masterdigm CRM"
+
+#: admin/components/faq/view/faq.php:90
+msgid "Masterdigm Training Videos"
+msgstr "Videos Masterdigm formación"
+
+#: admin/components/faq/view/faq.php:95
+msgid "Yes, we actually do have one.. please review:"
+msgstr "Sí, en realidad tiene uno .. por favor revise:"
+
+#: admin/components/faq/view/faq.php:96
+msgid "Learn more about Masterdigm Partnership program"
+msgstr "Más información sobre el programa de Masterdigm Alianza"
+
+#: admin/components/faq/view/faq.php:101
+msgid "Yes, we are built on bootstrap, so the Masterdigm real estate listings plugin will render accordingly."
+msgstr "Sí, estamos hechos de arranque, por lo que la lista de inmuebles plugin de Masterdigm a rendir en consecuencia."
+
+#: admin/components/faq/view/faq.php:106
+msgid "Yes.. Do not delete the following pages"
+msgstr "Sí .. No eliminar las páginas que siguen"
+
+#: admin/components/faq/view/faq.php:108
+msgid "display the single or full details of property."
+msgstr "visualizar los detalles de una o de pleno derecho de propiedad\"."
+
+#: admin/components/faq/view/faq.php:109
+msgid "Display the result of the searched properties"
+msgstr "Muestra el resultado de las propiedades buscadas"
+
+#: admin/components/faq/view/faq.php:110
+msgid "Display list of properties base in City"
+msgstr "Mostrar el listado de propiedades basadas en la Ciudad"
+
+#: admin/components/faq/view/faq.php:111
+msgid "Display list of properties base in State"
+msgstr "Mostrar la lista de propiedades de base en el Estado"
+
+#: admin/components/faq/view/faq.php:112
+msgid "Display list of properties base in Community"
+msgstr "Mostrar el listado de propiedades basadas en la comunidad"
+
+#: admin/components/faq/view/faq.php:113
+msgid "Display list of properties base in Count"
+msgstr "Mostrar el listado de propiedades en base a Contador"
+
+#: admin/components/faq/view/faq.php:115
+msgid "If you do, the property pages, city pages, etc. will not show! If you messed up, then re-add them!"
+msgstr "Si lo hace, las páginas de propiedades, las páginas de la ciudad, etc., no se mostrarán Si usted mal estado, a continuación, volver a agregar ellos!"
+
+#: admin/components/faq/view/faq.php:120
+msgid "Absolutely!  When you log into Masterdigm CRM, you will add your properties in there.  When you do, you will tag them as a commercial or residential property. Once you do this, the gallery on your website will show commercial aspects of the property."
+msgstr "¡Por supuesto! Al iniciar sesión en Masterdigm CRM, agregará a sus propiedades allí. Cuando lo haga, se le etiqueta como una propiedad comercial o residencial. Una vez hecho esto, la galería en su sitio web mostrará los aspectos comerciales de la propiedad \"."
+
+#: admin/components/faq/view/faq.php:125
+msgid "Yes!  You can host the site or you we can host it for you!  Our cost to maintain your site is 18.00/month.  We keep care of your site and maintain your plugins and your WP revision."
+msgstr "¡Sí! Puede alojar el sitio o si nos puede alojar por usted! Nuestro costo de mantener su sitio es 18.00 / mes. Mantenemos el cuidado de su sitio y mantener sus plugins y su revisión WP."
+
+#: admin/components/faq/view/faq.php:130
+msgid "We do support the Masterdigm users! We have a support link inside the CRM to help! We also have Youtube videos we have made to help you through support issues. "
+msgstr "Apoyamos los usuarios Masterdigm! Tenemos un vínculo de apoyo dentro de la CRM para ayudar! También tenemos videos de Youtube que hemos hecho para ayudar a usted a través de problemas de soporte técnico."
+
+#: admin/components/faq/view/faq.php:131
+msgid "Regarding the plugin, if you need help with colors, fonts, and any layout issue, you can ask us to assist you. Are normal charges are 65.00/hour. We did design the plugin, however, to render on most WP Themes."
+msgstr "En cuanto al plugin, si usted necesita ayuda con colores, fuentes, y cualquier tema de diseño, usted puede pedirnos que ayudarle. ¿Son los cargos normales son 65.00 / hora. Hicimos diseñar el plugin, sin embargo, para hacer que en la mayoría de WP Temas. "
+
+#: admin/components/faq/view/faq.php:136
+msgid "If you go to our page"
+msgstr "Si vas a la página"
+
+#: admin/components/faq/view/faq.php:136
+msgid "it will show you our pricing!"
+msgstr "le mostrará nuestros precios!"
+
+#: admin/components/faq/view/faq.php:141
+msgid "Yes, the nice thing about Masterdigm CRM and the WP listings plugin is that you are only paying month to month.  We believe in no yearly contracts!  Looking to cancel?  Contact us through the Support link inside the CRM.  We will respond immediately."
+msgstr "Sí, lo bueno de Masterdigm CRM y el plugin listados WP es que sólo está pagando mes a mes. Creemos en sin contratos anuales! Buscando cancelar, contacte con nosotros a través del enlace de soporte dentro de la CRM. Nosotros respondemos inmediatamente. "
+
+#: admin/components/faq/view/faq.php:146
+msgid "We work well on the Enfold theme!  Though many clients are utilizing Avada, and many others!"
+msgstr "Trabajamos bien en el tema Enfold! Aunque muchos clientes están utilizando Avada, y muchos otros!"
+
+#: admin/components/faq/view/faq.php:151
+msgid "They are managed inside the CRM as opposed to the back of the WordPress CMS.  Why do we believe this is a much superior choice?  Because brokers and agents need to be in one platform, i.e., a customer relationship manager that manages leads, documents, contacts, properties and more!  Masterdigm does all that!  We believe that to have a regular agent log into the backend of the WordPress plugin is counterproductive to the workflow of a real estate agency.  Keeping the properties with the agents leads, documents, etc.. is forward thinking."
+msgstr "Ellos se manejan dentro de la CRM en oposición a la parte posterior de la CMS WordPress. ¿Por qué creemos que esta es una opción muy superior? Porque corredores y agentes necesitan estar en una plataforma, es decir, un gerente de relaciones con los clientes que administra los plomos, los documentos , contactos, propiedades y otras más Masterdigm hace todo eso! Creemos que para tener un agente regular de registrar en el backend del plugin de WordPress es contraproducente para el flujo de trabajo de una agencia inmobiliaria. Mantener las propiedades con los agentes potenciales, documentos, etc. .. es visión de futuro \"."
+
+#: admin/components/faq/view/faq.php:156
+msgid "If you are initially setting up the site, you will want to refresh your permalinks.  We have built our plugin now to no longer have this issue, but if for some reason it occurs, then refresh permalinks."
+msgstr "Si la configuración inicial del sitio, tendrá que actualizar sus enlaces permanentes. Hemos construido nuestro plugin ahora ya no tienen este problema, pero si por alguna razón se produce, a continuación, actualice enlaces permanentes."
+
+#: admin/components/faq/view/faq.php:161
+msgid "Costs are by user seats."
+msgstr "Los costos son por asientos de los usuarios."
+
+#: admin/components/faq/view/faq.php:162
+msgid "Now, if you are a broker or agent needing the CRM to be fully built out for you, we have a one time setup fee depending on what level of service.  Please contact us for more details!  You'll be glad you did."
+msgstr "Ahora, si usted es un corredor o agente que necesita el CRM para estar completamente construido para usted, tenemos una cuota de instalación de un tiempo, dependiendo de qué nivel de servicio. Por favor, póngase en contacto con nosotros para más detalles! Se le alegra que usted lo hizo. "
+
+#: admin/components/faq/view/faq.php:167
+msgid "We sure do!  Sign up for one of our webinar's today!"
+msgstr "Estamos seguros de que hacemos! Inscríbete uno de nuestros seminarios en línea hoy!"
+
+#: admin/components/faq/view/faq.php:168
+msgid "Sign up for one of our webinars!"
+msgstr "Inscríbete uno de nuestros seminarios web!"
+
+#: admin/components/faq/view/faq.php:173
+msgid "Glad you asked!  We do! We would love to work with Web Developers around the world!  Great ideas come from you!"
+msgstr "Me alegra que lo preguntes! Lo hacemos! Nos encantaría trabajar con desarrolladores Web de todo el mundo! Las grandes ideas vienen de ti!"
+
+#: admin/components/faq/view/faq.php:174
+msgid "Please contact us via the Vcita pop up box and make an appointment."
+msgstr "Por favor, póngase en contacto con nosotros a través del cuadro emergente Vcita y hacer una cita."
+
+#: admin/components/faq/view/faq.php:179
+msgid "Yes, when a client signs up through the website pop up box, they will have access to Saving properties that meet a certain criteria.  If a property matches the criteria, the system will automatically send out the property with a link back to your website!"
+msgstr "Sí, cuando un cliente se suscribe a través de la página web de pop-up cuadro, tendrán acceso a Ahorrar propiedades que cumplan determinados criterios. Si una propiedad coincide con los criterios, el sistema enviará automáticamente la propiedad con un enlace a su sitio web ! "
+
+#: admin/components/general/class-general.php:95
+#: admin/components/general/class-general.php:96
+msgid "Settings"
+msgstr "Ajuste"
+
+#: admin/components/flexmls/class-md-flexmls-entity.php:36
+#: admin/components/flexmls/class-md-flexmls-entity.php:37
+msgid "Flex MLS"
+msgstr "Flexmls"
+
+#: admin/components/credentials/class-credentials.php:64
+msgid "Please provide property CRM api token / key"
+msgstr "Proporcione propiedad api CRM símbolo / clave"
+
+#: admin/components/credentials/class-credentials.php:71
+msgid "You must have a CRM API key"
+msgstr "Usted debe tener una clave de API de CRM"
+
+#: admin/components/credentials/class-credentials.php:80
+msgid "Please provide API credentials"
+msgstr "Sírvanse proporcionar credenciales de la API"
+
+#: admin/components/credentials/class-credentials.php:89
+msgid "Please choose data to feed"
+msgstr "Por favor seleccione los datos para alimentar"
+
+#: admin/components/credentials/class-credentials.php:105
+msgid "Error in API key / token"
+msgstr "Error en la clave de API / ficha"
+
+#: admin/components/credentials/view/notice.php:3
+msgid "It seems you have no CRM API Key, please "
+msgstr "Parece que no tienes clave de API de CRM, por favor"
+
+#: admin/components/credentials/view/notice.php:4
+msgid "click here to get api key"
+msgstr "haga clic aquí para obtener la clave api"
+
+#: admin/components/credentials/view/tab-getting-started.php:2
+msgid "Step 1"
+msgstr "Paso 1"
+
+#: admin/components/credentials/view/tab-getting-started.php:6
+msgid "Step 2"
+msgstr "Paso 2"
+
+#: admin/components/credentials/view/tab-getting-started.php:10
+msgid "Step 3"
+msgstr "Paso 3"
+
+#: admin/components/credentials/view/tab-webinar.php:2
+msgid "Want to join into a webinar?"
+msgstr "¿Quieres unirte a un seminario?"
+
+#: admin/components/credentials/view/tab-webinar.php:3
+msgid "Sign up and become a VIP Masterdigmer!"
+msgstr "Regístrate y llegar a ser un VIP Masterdigmer!"
+
+#: admin/components/credentials/view/tab-first.php:3
+msgid "Hello"
+msgstr "Hola"
+
+#: admin/components/credentials/view/tab-first.php:5
+msgid "Welcome to Masterdigm!  A full Real Estate plugin highly integrated with Masterdigm real estate CRM!"
+msgstr "Bienvenido a Masterdigm! A Real Estate completa Plugin altamente integrado con bienes raíces Masterdigm CRM!"
+
+#: admin/components/credentials/view/tab-first.php:7
+msgid "You will notice several tabs above, i.e., CRM, Webinars, etc.. That will guide you through the Masterdigm processes."
+msgstr "Usted se dará cuenta varias pestañas arriba, es decir, CRM, Webinars, etc .. Eso le guiará a través de los procesos Masterdigm."
+
+#: admin/components/credentials/view/tab-first.php:9
+msgid "We want to see you succeed as a Broker, Agent or Web Development Team!  Therefore, we have a \"support\" tab to connect with us to ensure your success!"
+msgstr "Queremos que usted tenga éxito como un corredor, agente o equipo de desarrollo Web! Por lo tanto, tenemos una pestaña  \"ayuda \" para conectarse con nosotros para asegurar su éxito!"
+
+#: admin/components/credentials/view/tab-first.php:11
+msgid "Cheers, and we look forward to hearing from you."
+msgstr "Saludos, y esperamos con interés escuchar de usted."
+
+#: admin/components/credentials/view/tab-first.php:16
+msgid "Plugin is fully setup"
+msgstr "Plugin es totalmente configuración"
+
+#: admin/components/credentials/view/tab-first.php:18
+msgid "Setup Mail"
+msgstr "Configuración de correo"
+
+#: admin/components/credentials/view/tab-first.php:19
+msgid "Setup mail settings to update subscription content"
+msgstr "Configuración de correo de configuración para actualizar el contenido de suscripción"
+
+#: admin/components/credentials/view/tab-first.php:21
+msgid "Setup Lead"
+msgstr "El plomo de instalación"
+
+#: admin/components/credentials/view/tab-first.php:22
+msgid "Setup lead status and type"
+msgstr "Estado de plomo de configuración y el tipo"
+
+#: admin/components/credentials/view/tab-first.php:24
+msgid "See Properties"
+msgstr "ver Propiedades"
+
+#: admin/components/credentials/view/tab-first.php:28
+msgid "Click to see properties!"
+msgstr "Haga clic para ver las propiedades!"
+
+#: admin/components/credentials/view/tab-first.php:33
+msgid "Watch this video first!"
+msgstr "Vea este vídeo primero!"
+
+#: admin/components/credentials/view/tab-first.php:44
+msgid "PLEASE NOTE | CAUTION: Do not delete the following pages OR the Masterdigm plugin will not work!"
+msgstr "TENGA EN CUENTA | PRECAUCIÓN: No elimine las siguientes páginas O el plugin Masterdigm no va a funcionar!"
+
+#: admin/components/credentials/view/tab-first.php:46
+msgid "Property - display the single or full details of property."
+msgstr "Propiedad - visualizar los detalles de una o de pleno derecho de propiedad."
+
+#: admin/components/credentials/view/tab-first.php:47
+msgid "Search Properties - Display the result of the searched properties"
+msgstr "Buscar Propiedades - Muestra el resultado de las propiedades buscadas"
+
+#: admin/components/credentials/view/tab-first.php:48
+msgid "City - Display list of properties base in City"
+msgstr "Ciudad - Mostrar la lista de propiedades con base en la Ciudad"
+
+#: admin/components/credentials/view/tab-first.php:49
+msgid "State - Display list of properties base in State"
+msgstr "Estado - Mostrar la lista de propiedades de base en el Estado"
+
+#: admin/components/credentials/view/tab-first.php:50
+msgid "Community - Display list of properties base in Community"
+msgstr "Comunidad - Mostrar la lista de propiedades con sede en la Comunidad"
+
+#: admin/components/credentials/view/tab-first.php:51
+msgid "County - Display list of properties base in County"
+msgstr "Condado - Mostrar la lista de propiedades de base en el Condado"
+
+#: admin/components/credentials/view/tab-first.php:56
+msgid "And you want to know more of our plugin and CRM?"
+msgstr "Y quieres saber más de nuestro plugin y CRM?"
+
+#: admin/components/credentials/view/tab-first.php:57
+msgid "Want to discuss anything else? We offer a free 30 minute Gotomeeting screen-share where we go into answering questions you may have."
+msgstr "¿Quieres discutir cualquier otra cosa? Ofrecemos a 30 minutos Gotomeeting pantalla-acción gratuita donde vamos a responder a las preguntas que pueda tener."
+
+#: admin/components/credentials/view/tab-support.php:5
+msgid "Stuck?  Have an issue with Masterdigm or its premium plugins?"
+msgstr "¿Atascado? Tener un problema con Masterdigm o sus plugins premium?"
+
+#: admin/components/credentials/view/tab-support.php:6
+msgid "Click here and you will be redirected to our FAQ page."
+msgstr "Haga clic aquí y usted será redirigido a nuestra página de preguntas frecuentes."
+
+#: admin/components/credentials/view/tab-support.php:9
+msgid "Any other issues?"
+msgstr "Otras cuestiones?"
+
+#: admin/components/credentials/view/tab-support.php:10
+msgid "You have many other ways to connect with us."
+msgstr "Usted tiene muchas otras formas de conectar con nosotros"
+
+#: admin/components/credentials/view/tab-support.php:11
+msgid "Zopim live chat within the CRM"
+msgstr "Chat Zopim dentro del CRM"
+
+#: admin/components/credentials/view/tab-support.php:12
+msgid "Vcita: on our home page.. Set up a meeting"
+msgstr "Vcita: en nuestra página principal .. Configurar una reunión"
+
+#: admin/components/credentials/view/tab-support.php:13
+msgid "Support tab inside the CRM."
+msgstr "Ficha Soporte dentro de la CRM."
+
+#: admin/components/credentials/view/tab-connect-with-us.php:4
+msgid "Are you a Real Estate Brokerage?"
+msgstr "¿Es usted un corretaje de bienes raíces?"
+
+#: admin/components/credentials/view/tab-connect-with-us.php:6
+msgid "If you are a Real Estate Brokerage, we look forward to training you on the ins-and-outs on utilizing the CRM in conjunction with the Wordpress plugin.  Start here to learn the Level 1, Level 2, etc.. of managing real estate leads effectively!"
+msgstr "Si usted es un Estate Brokerage real, esperamos que la capacitación en las ins-y-outs en la utilización de la CRM en conjunto con el plugin de Wordpress. Haga clic aquí para aprender el Nivel 1, Nivel 2, etc .. de la gestión de bienes raíces conduce efectivamente!"
+
+#: admin/components/credentials/view/tab-connect-with-us.php:11
+msgid "Are you an Independent Agent?"
+msgstr "¿Es usted un Agente Independiente?"
+
+#: admin/components/credentials/view/tab-connect-with-us.php:13
+msgid "If you are an Agent, and are part of a real estate brokerage,"
+msgstr "Si usted es un agente, es parte de un corretaje de bienes raíces"
+
+#: admin/components/credentials/view/tab-connect-with-us.php:14
+msgid "start here"
+msgstr "empieza aqui"
+
+#: admin/components/credentials/view/tab-connect-with-us.php:22
+msgid "Are you a proffesional website development team?"
+msgstr "¿Es usted un equipo de desarrollo web profesional"
+
+#: admin/components/credentials/view/tab-connect-with-us.php:24
+msgid "First of all, we look forward to working with you!  Your clients are always your clients.  Be part our affiliate program where you can receive a monthly recurring billing!  Just stay active with us, and receive 5,10,15% monthly revenues based on your clients CRM usage!"
+msgstr "En primer lugar, esperamos con interés trabajar con usted! Sus clientes son siempre sus clientes. Sea parte de nuestro programa de afiliados donde se puede recibir una facturación recurrente mensual! Sólo mantenerse activo con nosotros, y recibir 5,10,15% los ingresos mensuales en función de su uso de los clientes CRM!"
+
+#: admin/components/credentials/view/tab-connect-with-us.php:25
+msgid "Learn more here!"
+msgstr "Obtenga más información aquí"
+
+#: admin/components/credentials/view/tab-connect-with-us.php:29
+msgid "Social Links"
+msgstr "Enlaces Sociales"
+
+#: admin/components/credentials/view/index.php:2
+msgid "Welcome to "
+msgstr "Bienvenido a"
+
+#: admin/components/credentials/view/tab-crm.php:18
+msgid "choose property status to finish installation"
+msgstr "elegir estatus de propiedad para finalizar la instalación"
+
+#: admin/components/credentials/view/tab-crm.php:33
+msgid "Search Property, Choose which default data to get properties feed, mostly the default is CRM ( unless masterdigm setup a MLS data on your account )"
+msgstr "Buscar Propiedad, elegir los datos por defecto para obtener propiedades alimentan, sobre todo el valor predeterminado es de CRM (a menos masterdigm estableció un conjunto de datos de la MLS en su cuenta)"
+
+#: admin/components/credentials/view/notice-welcome.php:1
+msgid "An All-in-One Real Estate Plugin Solution for Brokerages and Agents Integrated with a High Powered Real Estate CRM Solution."
+msgstr "Un Plugin solución All-in-One Bienes Raíces Corredores y Agentes Integrado con un Powered Solución CRM de alta Bienes Raíces."
+
+#: components/showpopup/view/signup.php:11
+msgid "Sign-up now, to continue browsing properties"
+msgstr "Regístrese ahora para continuar propiedades de navegación"
+
+#: components/pdf/class-pdf.php:84
+msgid "Bed"
+msgstr "Camas"
+
+#: components/pdf/class-pdf.php:99
+msgid "Agent"
+msgstr "Agente"
+
+#: components/pdf/class-pdf.php:105
+msgid "Phone"
+msgstr "Teléfono"
+
+#: components/pdf/class-pdf.php:106
+msgid "Mobile"
+msgstr "móvil"
+
+#: components/buttonactions/class-action-buttons.php:117
+msgid "Favorite"
+msgstr "Favoritos"
+
+#: components/buttonactions/class-action-buttons.php:157
+msgid "Must register or login to mark as favorite"
+msgstr "Debe registrarse o iniciar sesión para marcar como favorito"
+
+#: components/buttonactions/class-action-buttons.php:217
+msgid "Must register or login to mark as x-out"
+msgstr "Debe registrarse o iniciar sesión para marcar como x de salida"
+
+#: components/buttonactions/class-action-buttons.php:237
+msgid "Print PDF"
+msgstr "Imprimir PDF"
+
+#: components/buttonactions/class-action-buttons.php:292
+msgid "Share"
+msgstr "Compartir"
+
+#: components/buttonactions/view/share-button.php:7
+msgid "Email to friend"
+msgstr "Correo electrónico a un amigo"
+
+#: components/buttonactions/view/xout-button.php:37
+msgid "Register or login to Xout property"
+msgstr "Regístrese o acceda a X fuera propiedad"
+
+#: components/buttonactions/view/favorite-button.php:10
+msgid "Remove to favorite"
+msgstr "Retire al favorito"
+
+#: components/buttonactions/view/favorite-button.php:23
+msgid "Add to favorite"
+msgstr "Agregar a \"Favoritos"
+
+#: components/buttonactions/view/favorite-button.php:37
+msgid "Register or login to add as favorites"
+msgstr "Regístrese o acceda a añadir como favoritos"
+
+#: components/buttonactions/view/sort.php:4
+msgid "Sort"
+msgstr "Especie"
+
+#: components/buttonactions/view/sort.php:7
+msgid "Price (Highest)"
+msgstr "Precio (más alto)"
+
+#: components/buttonactions/view/sort.php:8
+msgid "Price (Lowest)"
+msgstr "Precio (más bajo)"
+
+#: components/buttonactions/view/sort.php:9
+msgid "Days on Site (Newest)"
+msgstr "Días en el sitio (la más reciente)"
+
+#: components/buttonactions/view/sort.php:10
+msgid "Days on Site (Oldest)"
+msgstr "Días en el sitio (la más antigua)"
+
+#: components/emailto/class-email-to.php:45
+msgid "Send to friend Form"
+msgstr "Enviar a un amigo Formulario"
+
+#: components/emailto/class-email-to.php:79
+msgid "Please input your name"
+msgstr "Por favor ingrese su nombre"
+
+#: components/emailto/class-email-to.php:84
+msgid "Please input friends email"
+msgstr "Email del amigo de entrada Por favor,"
+
+#: components/emailto/class-email-to.php:88
+#: components/emailto/class-email-to.php:102
+msgid "Email Address is invalid"
+msgstr "Dirección de correo electrónico es inválida"
+
+#: components/emailto/class-email-to.php:92
+msgid "Please input your email"
+msgstr "Por favor, introduzca su correo electrónico"
+
+#: components/emailto/class-email-to.php:133
+msgid "Successfully Send Email to Friend. Thank You."
+msgstr "Con éxito Enviar por correo electrónico a un amigo. Gracias."
+
+#: components/emailto/class-email-to.php:138
+msgid "Send to friend from "
+msgstr "Enviar a un amigo desde"
+
+#: components/emailto/view/emailto.php:9
+msgid "Send this to a Friend"
+msgstr "Mándale esto a un amigo"
+
+#: components/emailto/view/emailto.php:13
+msgid "Error"
+msgstr "Error"
+
+#: components/emailto/view/emailto.php:15
+msgid "Friends Email Address"
+msgstr "Amigos Dirección de correo electrónico"
+
+#: components/emailto/view/emailto.php:22
+msgid "Your Name"
+msgstr "Su nombre"
+
+#: components/emailto/view/emailto.php:28
+msgid "Your Email Address"
+msgstr "Su dirección de correo electrónico"
+
+#: components/emailto/view/emailto.php:42
+msgid "Close"
+msgstr "Cerca"
+
+#: components/emailto/view/emailto.php:43
+msgid "Send"
+msgstr "Enviar"
+
+#: components/inquireform/class-inquire.php:102
+msgid "Inquiry from"
+msgstr "Su mensaje de"
+
+#: components/inquireform/class-inquire.php:104
+msgid "Name"
+msgstr "Nombre"
+
+#: components/inquireform/class-inquire.php:114
+msgid "Please input your  last name"
+msgstr "Por favor introduzca su apellido"
+
+#: components/inquireform/class-inquire.php:118
+msgid "Please input your Email Address"
+msgstr "Por favor, introduzca su dirección de Email"
+
+#: components/inquireform/class-inquire.php:127
+msgid "Inquiry successfully sent. Our staff will review it as soon as possible. Thank You."
+msgstr "Su mensaje enviado con éxito. Nuestro personal revisará tan pronto como sea posible. Gracias."
+
+#: components/inquireform/class-inquire.php:129
+msgid "From"
+msgstr "De"
+
+#: components/inquireform/view/inquire.php:2
+msgid "Inquiry Form"
+msgstr "Formulario de consulta"
+
+#: components/inquireform/view/inquire.php:5
+msgid "Your First Name"
+msgstr "Su nombre"
+
+#: components/inquireform/view/inquire.php:8
+msgid "Your Last Name"
+msgstr "Tu apellido"
+
+#: components/inquireform/view/inquire.php:11
+msgid "Your Valid Email"
+msgstr "Su Válido Enviar"
+
+#: components/inquireform/view/inquire.php:14
+msgid "Your (Area Code) + Phone Number"
+msgstr "Su (código de área) + número de teléfono"
+
+#: components/signupform/class-signup-sign.php:118
+msgid "Please input your last name"
+msgstr "Por favor introduzca su apellido"
+
+#: components/signupform/class-signup-sign.php:173
+msgid "Successfully Registered. Thank You."
+msgstr "Con éxito registrado. Gracias."
+
+#: components/signupform/class-signup-sign.php:226
+msgid "Successfully Loged In. Wait while we redirect you."
+msgstr "Con éxito se ha conectado. Espere mientras lo dirigimos."
+
+#: components/signupform/view/form.php:10
+msgid "Register"
+msgstr "Registro"
+
+#: components/signupform/view/form.php:18
+msgid "Enter email"
+msgstr "Ingrese correo electrónico"
+
+#: components/signupform/view/form.php:21
+msgid "Phone Number"
+msgstr "Número de teléfono"
+
+#: components/signupform/view/form.php:25
+msgid "Sign Up"
+msgstr "Contratar"
+
+#: components/signupform/view/form.php:32
+msgid "Email Address"
+msgstr "Dirección de correo electrónico"
+
+#: components/signupform/view/form.php:35
+msgid "Password"
+msgstr "Contraseña"
+
+#: components/signupform/view/form.php:38
+msgid "Forgot password"
+msgstr "Se te olvidó tu contraseña"
+
+#: components/signupform/view/form.php:42
+msgid "Login"
+msgstr "Iniciar sesión"
+
+#: components/signupform/view/signup.php:10
+msgid "No Account Yet? Sign Up Now!"
+msgstr "Sin cuenta aun? ¡Regístrese ahora!"
+
+#: components/savesearch/class-save-search.php:472
+msgid "Need to login or register before saving this search"
+msgstr "Necesitas hacer login o registrarse antes de guardar esta búsqueda"
+
+#: components/savesearch/class-save-search.php:531
+msgid "Save This Search"
+msgstr "Guardar esta búsqueda"
+
+#: components/savesearch/class-save-search.php:533
+msgid "Saved Search"
+msgstr "Guardado Buscar"
+
+#: components/account/class-profile.php:221
+msgid "Please Confirm password"
+msgstr "Por favor Confirmar contraseña"
+
+#: components/account/class-profile.php:225
+msgid "Successfully Change Password"
+msgstr "Exitosamente Cambiar contraseña"
+
+#: components/account/class-dashboard.php:248
+msgid "Edit Profile"
+msgstr "Editar perfil"
+
+#: components/account/class-dashboard.php:255
+msgid "Log Out"
+msgstr "cerrar sesión"
+
+#: components/account/class-dashboard.php:278
+msgid "Favorites"
+msgstr "favoritos"
+
+#: components/account/class-dashboard.php:294
+msgid "Save Search"
+msgstr "Guardar búsqueda"
+
+#: public/class-masterdigm-api-public.php:180
+msgid "Please wait while we get current location coordinates"
+msgstr "Por favor espere mientras obtenemos ubicación actuales coordenadas"
+
+#: public/class-masterdigm-api-public.php:181
+msgid "Check this property located at"
+msgstr "Marque esta propiedad ubicada en"
+
+#: public/class-masterdigm-api-public.php:183
+msgid "Saving search"
+msgstr "Guardar búsqueda"
+
+#: public/class-masterdigm-api-public.php:186
+msgid "Please wait signing-up"
+msgstr "Por favor, espera firmar en marcha"
+
+#: public/class-masterdigm-api-public.php:187
+msgid "Processing"
+msgstr "Procesamiento"
+
+#: public/class-masterdigm-api-public.php:188
+msgid "Loading"
+msgstr "Cargando"
+
+#: public/class-masterdigm-api-public.php:189
+msgid "Fetching property details, please wait"
+msgstr "Obtención de detalles de la propiedad, por favor espere"
+
+#: public/class-masterdigm-api-public.php:190
+msgid "Please wait while getting data"
+msgstr "Por favor Espere mientras la obtención de datos"
+
+#: public/class-masterdigm-api-public.php:191
+msgid "Sending Inquiry"
+msgstr "Enviando mensaje"
+
+#: public/class-masterdigm-api-public.php:193
+msgid "Please wait, updating profile"
+msgstr "Por favor espere, actualizar el perfil"
+
+#: public/class-masterdigm-api-public.php:194
+msgid "Please wait, updating password"
+msgstr "Por favor espere, la actualización de la contraseña"
+
+#: public/templates/single/single-property-page.php:104
+msgid "Map on"
+msgstr "Casas en Venta"
+
+#: public/templates/single/partials/property-details/right-content.php:23
+msgid "Similar Homes"
+msgstr "Casas similares"
+
+#: public/templates/single/partials/property-details/left-content.php:7
+msgid "Listing Information"
+msgstr "Información de Listing"
+
+#: public/templates/agent/html-agent.php:10
+msgid "Real Estate Agent"
+msgstr "Agente de bienes raíces"
+
+#: public/templates/agent/html-agent.php:15
+msgid "Click to Email"
+msgstr "Haga clic para Enviar"
+
+#: public/templates/agent/html-agent.php:17
+msgid "Work Phone"
+msgstr "Teléfono de trabajo"
+
+#: public/templates/agent/html-agent.php:18
+msgid "Mobile Phone"
+msgstr "Celular"
+
+#: public/templates/agent/html-agent.php:22
+msgid "Connect With Us"
+msgstr "Conectate con nosotros"
+
+#: public/templates/list/default/list-default.php:64
+#: public/templates/list/default/featured-list-default.php:62
+msgid "No Properties Found"
+msgstr "No se encontraron inmuebles"
+
+#: public/templates/list/default/get-locations.php:2
+msgid "List of Communities"
+msgstr "Lista de Comunidades"
+
+#: public/templates/crm/template/single/single-property-more-details.php:5
+msgid "Transaction Type"
+msgstr "tipo de transacción"
+
+#: public/templates/crm/template/single/single-property-more-details.php:7
+msgid "Location"
+msgstr "Localización"
+
+#: public/templates/crm/template/single/single-property-more-details.php:9
+msgid "Community"
+msgstr "Comunidad"
+
+#: public/templates/crm/template/single/single-property-more-details.php:23
+msgid "Bedroom"
+msgstr "Cuarto"
+
+#: public/templates/crm/template/single/single-property-more-details.php:26
+msgid "Bathroom"
+msgstr "Baño"
+
+#: public/templates/crm/template/single/single-property-more-details.php:44
+msgid "Details on"
+msgstr "Los detalles de"
+
+#: public/templates/mls/template/single/single-property-more-details.php:4
+msgid "Property ID"
+msgstr "Propiedad ID"
+
+#: public/templates/mls/template/single/single-property-more-details.php:8
+msgid "Living Sq. Ft"
+msgstr "Vivir cuadrados. Fort"
+
+#: public/templates/mls/template/single/single-property-more-details.php:30
+msgid "Location Information"
+msgstr "Información de localización"
+
+#: public/templates/mls/template/single/single-property-more-details.php:32
+msgid "County"
+msgstr "Condado"
+
+#: public/templates/mls/template/single/single-property-more-details.php:34
+msgid "Subdivision"
+msgstr "Barrio"
+
+#: public/templates/mls/template/single/single-property-more-details.php:40
+#: public/templates/mls/template/single/single-property-more-details.php:42
+msgid "Interior Features"
+msgstr "Características del interior"
+
+#: public/templates/mls/template/single/single-property-more-details.php:43
+msgid "Fireplace"
+msgstr "Chimenea"
+
+#: public/templates/mls/template/single/single-property-more-details.php:44
+msgid "Heating and Fuel"
+msgstr "Calefacción y Combustible"
+
+#: public/templates/mls/template/single/single-property-more-details.php:45
+msgid "Flooring"
+msgstr "Suelos"
+
+#: public/templates/mls/template/single/single-property-more-details.php:46
+msgid "Full Baths"
+msgstr "Baños Completos"
+
+#: public/templates/mls/template/single/single-property-more-details.php:47
+msgid "Air Conditioning"
+msgstr "Aire acondicionado"
+
+#: public/templates/mls/template/single/single-property-more-details.php:48
+msgid "Heat / Air Conditioning"
+msgstr "Calor / Aire Acondicionado"
+
+#: public/templates/mls/template/single/single-property-more-details.php:49
+msgid "Appliances Included"
+msgstr "Electrodomésticos Incluido"
+
+#: public/templates/mls/template/single/single-property-more-details.php:55
+#: public/templates/mls/template/single/single-property-more-details.php:62
+msgid "Exterior Features"
+msgstr "Características del exterior"
+
+#: public/templates/mls/template/single/single-property-more-details.php:57
+msgid "Construction"
+msgstr "Construcción"
+
+#: public/templates/mls/template/single/single-property-more-details.php:58
+msgid "Foundation"
+msgstr "fundamento"
+
+#: public/templates/mls/template/single/single-property-more-details.php:59
+msgid "Garage Features"
+msgstr "Características Garaje"
+
+#: public/templates/mls/template/single/single-property-more-details.php:60
+msgid "Garage / Carport"
+msgstr "Garaje / Porche"
+
+#: public/templates/mls/template/single/single-property-more-details.php:61
+msgid "Lot Size Sq Ft"
+msgstr "Tamaño de la Parcela pies cuadrados"
+
+#: public/templates/mls/template/single/single-property-more-details.php:63
+msgid "Roof"
+msgstr "Techo"
+
+#: public/templates/mls/template/single/single-property-more-details.php:64
+msgid "Utilities"
+msgstr "Utilidades"
+
+#: public/templates/mls/template/single/single-property-more-details.php:65
+msgid "Lot Size Acres"
+msgstr "Tamaño Acres Lote"
+
+#: public/templates/mls/template/single/single-property-more-details.php:66
+msgid "Water Frontage"
+msgstr "un cuerpo de agua"
+
+#: public/templates/mls/template/single/single-property-more-details.php:67
+msgid "Pool"
+msgstr "piscina"
+
+#: public/templates/mls/template/single/single-property-more-details.php:68
+msgid "Pool Type"
+msgstr "Tipo de piscina"
+
+#: public/templates/mls/template/single/single-property-more-details.php:74
+msgid "Additional Information"
+msgstr "Información Adicional"
+
+#: public/templates/mls/template/single/single-property-more-details.php:77
+msgid "Property SubType"
+msgstr "Subclase de la propiedad"
+
+#: public/templates/mls/template/single/single-property-more-details.php:78
+msgid "Taxes"
+msgstr "impuestos"
+
+#: public/templates/mls/template/single/single-property-more-details.php:79
+msgid "Tax Year"
+msgstr "Año Fiscal"
+
+#: public/templates/mls/template/single/single-property-more-details.php:80
+msgid "Listing Office"
+msgstr "Oficina de listado"
+
+#: public/templates/account/partials/profileform.php:3
+#: public/templates/account/partials/emailform.php:3
+msgid "Personal Info"
+msgstr "Información personal"
+
+#: public/templates/account/partials/profileform.php:39
+#: public/templates/account/partials/passwordform.php:9
+msgid "New Password"
+msgstr "Nueva contraseña"
+
+#: public/templates/account/partials/profileform.php:42
+#: public/templates/account/partials/passwordform.php:12
+msgid "Confirm New Password"
+msgstr "Confirmar nueva contraseña"
+
+#: public/templates/account/partials/passwordform.php:15
+msgid "Save"
+msgstr "Guardar"
+
+#: public/templates/account/partials/save-search-list.php:1
+msgid "You have"
+msgstr "Tienes"
+
+#: public/templates/account/partials/save-search-list.php:10
+msgid "delete"
+msgstr "Borrar"
+
+#: public/templates/account/partials/save-search-list.php:13
+msgid "Subscribe to property alert"
+msgstr "Suscríbete a alerta propiedad"
+
+#: public/templates/account/partials/save-search-list.php:16
+msgid "Run this search"
+msgstr "Ejecutar esta búsqueda"
+
+#: public/templates/account/partials/accessform.php:2
+#: public/templates/account/partials/nav.php:3
+msgid "Profile"
+msgstr "perfilar"
+
+#: includes/md-search-result.php:79
+msgid "Show Map Full Screen"
+msgstr "Ver mapa en pantalla completa"
+
+#: includes/md-search-result.php:85
+msgid "Show normal map screen"
+msgstr "Mostrar pantalla normal mapa"
+
+#: includes/md-search-result.php:97
+msgid "Map View"
+msgstr "Vista del mapa"
+
+#: includes/md-search-result.php:99
+msgid "Photo View"
+msgstr "foto Ver"
+
+#: includes/md-query.php:88
+msgid "Call for pricing"
+msgstr "Solicitud de cotización"
+
+#: includes/md-single.php:110
+msgid "Homes for Sale"
+msgstr "Casas en Venta"
+
+#~ msgid "if 'turn on' it will display after certain click of property pages"
+#~ msgstr ""
+#~ "si 'encender' se mostrará después de cierto clic de páginas de "
+#~ "propiedades "
+
+#~ msgid ""
+#~ "these are the individual property page. The popup will force the visitor "
+#~ "to register to continue browsing."
+#~ msgstr ""
+#~ "estos son la página de propiedad individual. El emergente obligará al "
+#~ "visitante a registrarse para continuar buscando."
+
+#~ msgid ""
+#~ "Outgoing email.  Use this mail system to send an email from the mail "
+#~ "server"
+#~ msgstr ""
+#~ "Correo electrónico saliente. Utilice este sistema electrónico para enviar "
+#~ "un correo electrónico desde el servidor de correo"
+
+#~ msgid "Your Mobile Phone"
+#~ msgstr "Su Teléfono Móvil"
+
+#~ msgid "Permalinks should be enable, go to Settings and Permalinks"
+#~ msgstr ""
+#~ "Carpeta wp-content / uploads no existe, por favor, crean y hacen que sea "
+#~ "escribible"
+
+#~ msgid "your name"
+#~ msgstr "Su nombre"
+
+#~ msgid "your lastname"
+#~ msgstr "tu apellido"
+
+#~ msgid "Set Up your Masterdigm Real Estate in CRM"
+#~ msgstr "Configure su Masterdigm Inmobiliaria en CRM"
+
+#~ msgid ""
+#~ "Check your email (2nd email) since you Activated the plugin..  It will "
+#~ "contain your username and password to Masterdigm!"
+#~ msgstr ""
+#~ "Revise su correo electrónico (e-mail segundo) ya activar el plugin "
+#~ "Contendrá su nombre de usuario y contraseña para Masterdigm"
+
+#~ msgid "Do you want to see demo properties? please click the link below."
+#~ msgstr ""
+#~ "¿Quieres ver las propiedades de demostración? por favor haga clic en el "
+#~ "enlace de abajo"
+
+#~ msgid ""
+#~ "If you update properties inside the CRM, and the update didn't show up, "
+#~ "please reset the cache"
+#~ msgstr ""
+#~ "Si actualiza las propiedades dentro de la CRM y la actualización no se "
+#~ "presentó, por favor, restablecer la memoria caché"
+
+#~ msgid "Reset Cache"
+#~ msgstr "caché de reinicio"
+
+#~ msgid ""
+#~ "Check your email we sent username and password, go ahead check it out and "
+#~ "login to "
+#~ msgstr ""
+#~ "Revise su correo electrónico que le enviamos nombre de usuario y "
+#~ "contraseña, adelante échale un vistazo y acceder a"
+
+#~ msgid "There was an error please contact"
+#~ msgstr "Hubo un error por favor contacte"
+
+#~ msgid ""
+#~ "User %s , cannot activate the code, please advise the one who requested "
+#~ "the activation of Masterdigm api code"
+#~ msgstr ""
+#~ "Usuario %s, no se puede activar el código, por favor avise el que "
+#~ "solicitó la activación de Masterdigm código api"
+
+#~ msgid "X-Out"
+#~ msgstr "x-cabo"
+
+#~ msgid "Type - All"
+#~ msgstr "Tipo - Todo"
+
+#~ msgid "API KEY: "
+#~ msgstr "clave api"
+
+#~ msgid "API TOKEN: "
+#~ msgstr "símbolo api"
+
+#~ msgid "Broker ID: "
+#~ msgstr "Identificación del agente"

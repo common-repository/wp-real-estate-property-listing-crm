@@ -1,0 +1,316 @@
+/*--------------------------
+property page style starts here
+----------------------------*/
+
+.md-property-page {
+	font-family: Arial, Helvetica, sans-serif;
+}
+.md-property-page .mobile {
+	display: none;
+}
+.md-property-page .desktop {
+	display: inherit;
+}
+.md-property-page .mgt-100 {
+	margin-top: 100px;
+}
+.md-property-page .mgt-20 {
+	margin-top: 20px;
+}
+.md-property-page .float-left {
+	float: left;
+}
+.md-property-page .wd-50 {
+	width: 50%;
+}
+.md-property-page .wd-100 {
+	width: 100%;
+}
+.md-property-page .ft-blue {
+	color: #02b8ea;
+}
+.md-property-page .bdr-clr-right {
+	width: 100%;
+}
+.md-property-page .hdr1 {
+	font-size: 25px;
+	font-weight: bold;
+}
+.md-property-page .p {
+	text-align: justify;
+}
+.md-property-section {
+	display: block;
+	width: 100%;
+	position: relative;
+	/*z-index: -99999;*/
+	margin-top: 20px;
+}
+.md-property-contain {
+	width: 1300px;
+	margin: 0 auto;
+}
+
+/*----------- property header style starts here -----------*/
+.md-property-header-contain {
+}
+.md-property-header {
+	width: 1300px;
+	margin: 20px auto;
+}
+.md-property-title {
+}
+.md-property-title ul {
+	margin: 0px;
+	padding: 0px;
+}
+.md-property-title ul li {
+	list-style: none;
+	display: inline-block;
+	padding-right: 20px;
+	font-size: 13px;
+}
+.md-property-title .price {
+	color: #02b8ea;
+	font-size: 20px;
+	font-weight: bold;
+}
+.md-property-title span {
+	font-weight: bold;
+}
+.md-property-title .address h1 {
+	color: #000;
+	font-size: 20px;
+	font-weight: bold;
+	padding: 0px;
+	margin: 0px;
+}
+.md-header-btn {
+	text-align: right;
+}
+.md-header-btn .md-more-btn {
+	color: #fff;
+	background-color: #02b8ea;
+	padding: 10px 20px;
+	border-radius: 5px;
+	text-decoration: none;
+}
+.md-header-btn .md-more-btn:hover {
+	background-color: #019fca;
+}
+.md-header-btn .md-property-btn {
+	margin: 13px 0;
+}
+.md-header-btn .md-property-btn .glyphicon {
+	font-size: 17px;
+	padding: 0 18px;
+}
+.md-header-btn .md-property-btn a {
+	color: #02b8ea;
+}
+.md-header-btn .md-property-btn a:hover {
+	color: #019fca;
+}
+.navbar-collapse {
+	background-color: #004c61;
+}
+.nav-bar {
+	background-color:#f2f2f2;
+}
+/*----------- property header style ends here -----------*/
+
+/*----------- property left style starts here -----------*/
+.md-property-page .nav-pills > li > a {
+	background-color: #02b8ea;
+	color: #fff;
+}
+.md-property-page .nav-pills > li > a:hover {
+	background-color: #019fca;
+}
+.md-property-page .nav-pills > li.active > a, .md-property-page .nav-pills > li.active > a:focus {
+	background-color: #019fca;
+}
+.md-property-page .dropdown {
+	display: block;
+	width: 100% !important;
+	text-align: center;
+}
+.md-property-page .dropdown-menu {
+	width: 100%;
+}
+
+/*----------- property left style ends here -----------*/
+
+/*----------- property right style starts here -----------*/
+.md-propdtr {
+	margin-top: 0px;
+}
+.md-propdtr .md-propdtr-box {
+	min-height:84px;
+	border: 1px #CCC solid;
+	margin-top: 1px;
+}
+.md-propdtr .md-propdtr-stats {
+	text-align: center;
+	margin: 10px 0;
+}
+.md-propdtr .md-propdtr-stats .value {
+	font-size: 30px;
+	font-weight: bold;
+}
+.md-propdtr .md-propdtr-stats .label {
+	color: #333;
+	font-size: 12px;
+	font-weight: normal;
+	text-transform: uppercase;
+}
+.md-propdtr .md-propdtr-prof {
+	padding: 10px;
+}
+.md-propdtr .md-propdtr-prof .profpic {
+	width: 40%;
+	height: auto;
+	float: left;
+	overflow: hidden;
+}
+.md-propdtr .md-propdtr-prof .details {
+	width: 60%;
+	float: left;
+}
+.profname, .proftag, .profmail, .profphone, .profmob {
+	padding-left: 10px;
+	font-size: 12px;
+}
+.profname {
+	font-size: 15px;
+	font-weight: bold;
+}
+.profmail a {
+	color: #fff;
+	background-color: #02b8ea;
+	padding: 2px 5px;
+	margin: 2px 0;
+	display: inline-block;
+	border-radius: 3px;
+}
+.md-propdtr .md-propdtr-details {
+	font-size: 15px;
+	line-height: 30px;
+}
+.md-propdtr .md-propdtr-details ul li {
+	font-size: 13px;
+	line-height: normal;
+	display: block;
+	background-color: #eeeeee;
+	padding: 10px 20px;
+	margin-bottom: 1px;
+}
+.md-propdtr .md-propdtr-details ul li span {
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.md-property-page .md-property-btn > div{
+float:right;
+}
+.md-property-header {
+	width: 100%;
+}
+.md-property-contain {
+	width: 100%;
+}
+.md-property-title {
+	padding-bottom: 15px;
+}
+footer {
+	clear: both;
+	padding: 20px;
+}
+.md-form-contract {
+	margin: auto;
+	padding: 10px;
+}
+.mwp-property-details-page-search-form {
+	padding-top: 20px;
+}
+.mwp-property-details-page-search-form .navbar-form .form-group {
+	text-align: center;
+}
+.mwp-property-details-page-search-form .navbar-form #location {
+	width: 100%;
+	margin-bottom: 5px;
+}
+.mwp-property-details-page-search-form .navbar-form select {
+	margin: 0px;
+}
+.mwp-property-details-page-search-form .navbar-form form input {
+	margin: 0px;
+}
+#more-search-options select {
+	margin: 5px 0;
+	width: 100%;
+}
+.galleria-theme-classic {background-color: transparent;}
+.mwp-property-details-page .md-property-contain {width: 1300px;}
+.mwp-property-details-page .md-property-header {width: 1300px;}
+.mwp-header-contain {width:1300px; margin:auto;}
+/*----------- property right style ends here -----------*/
+
+@media only screen and (max-width: 768px) {
+  /* Add your Mobile Styles here */
+.md-property-page .mgt-100 {
+	margin-top: 10px;
+}
+.md-property-page .mobile {
+	display: inherit;
+}
+.md-property-page .dropdown {
+	margin-top: 20px;
+}
+.md-property-page .desktop {
+	display: none;
+}
+#map-directions .desktop {
+	display: inherit;
+}
+.md-property-title ul li {
+	display: block;
+}
+.md-property-header {
+	margin: 0;
+	padding-top: 20px;
+}
+.md-property-header, .md-property-contain {
+	width: 100%;
+}
+.md-property-title {
+	text-align: center;
+}
+.md-header-btn {
+	margin: 10px 0;
+}
+.md-property-header-contain {
+}
+.md-property-section {
+	position: inherit;
+}
+.md-header-btn {
+	text-align: center;
+}
+.md-propdtr {
+	margin-top: 20px;
+}
+}
+@media only screen and (max-width: 1024px) {
+  /* Add your Mobile Styles here */
+.md-property-header {
+	margin: 0;
+	padding-top: 20px;
+}
+.md-property-header, .md-property-contain {
+	width: 100%;
+}
+.mwp-property-details-page .md-property-contain {width: 100%;}
+.mwp-property-details-page .md-property-header {width: 100%;}
+.mwp-property-details-page .mwp-header-contain {width: 100%;}
+}

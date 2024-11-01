@@ -1,0 +1,2193 @@
+# Copyright (C) 2014 Masterdigm
+# This file is distributed under the same license as the Masterdigm Package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Masterdigm v1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-06-29 11:02+0800\n"
+"PO-Revision-Date: 2016-06-29 12:30+0800\n"
+"Last-Translator: Allan <allan.paul.casilum@gmail.com>\n"
+"Language-Team: Masterdigm <support@masterdigm.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: config.php:223
+msgid "Book a viewing"
+msgstr "Réservez un visionnement"
+
+#: config.php:238 admin/partials/theme/settings/color-style.php:81
+msgid "Property Details"
+msgstr "Description de la propriété"
+
+#: config.php:239
+msgid "Map and Directions"
+msgstr "Carte et Itinéraire"
+
+#: config.php:240
+msgid "School and Information"
+msgstr "Ecole et de l'information"
+
+#: config.php:241
+msgid "Walk Score"
+msgstr "Marche Score"
+
+#: config.php:242
+msgid "Photos"
+msgstr "Photos"
+
+#: config.php:243
+msgid "Video"
+msgstr "Vidéo"
+
+#: config.php:244
+msgid "School"
+msgstr "École"
+
+#: config.php:245 config.php:254 includes/mwp-property-query.php:223
+#: includes/Mwp/Actions/SaveSearch.php:117 includes/Mwp/Actions/PDF.php:84
+#: public/partials/template/default/crm/listing-information.php:23
+#: public/partials/template/default/flexmls/listing-information.php:17
+#: public/partials/template/default/mls/listing-information.php:17
+#: public/partials/template/default/partials/part-content-map.php:16
+#: public/partials/template/default/hji/listing-information.php:16
+msgid "Price"
+msgstr "Prix"
+
+#: config.php:246 includes/Mwp/Actions/SaveSearch.php:155
+msgid "Baths"
+msgstr "Thermes"
+
+#: config.php:247
+msgid "Beds"
+msgstr "Des lits"
+
+#: config.php:248 includes/Mwp/Actions/PDF.php:95
+#: public/partials/template/default/crm/listing-information.php:39
+#: public/partials/template/default/flexmls/listing-information.php:19
+#: public/partials/template/default/flexmls/listing-information.php:79
+#: public/partials/template/default/mls/listing-information.php:19
+#: public/partials/template/default/mls/listing-information.php:79
+#: public/partials/template/default/hji/listing-information.php:18
+msgid "Year Built"
+msgstr "Année de construction"
+
+#: config.php:250
+msgid "Garage"
+msgstr "Garage"
+
+#: config.php:251
+msgid "Next"
+msgstr "Prochain"
+
+#: config.php:252
+msgid "Previous"
+msgstr "précédent"
+
+#: config.php:253
+msgid "Property Code"
+msgstr "code de la propriété"
+
+#: config.php:255
+msgid "Min Price"
+msgstr "Prix ​​Min"
+
+#: config.php:256
+msgid "Max Price"
+msgstr "Prix ​​Max"
+
+#: config.php:257
+msgid "Find your Home"
+msgstr "Trouvez votre maison"
+
+#: config.php:258 admin/partials/shortcode/crm/list-property.php:43
+#: admin/partials/shortcode/flexmls/list-property.php:43
+#: public/partials/template/default/crm/listing-information.php:6
+msgid "Type"
+msgstr "Type"
+
+#: config.php:259
+msgid "Any Bed"
+msgstr "Tous les Bed"
+
+#: config.php:260
+msgid "Any Bath"
+msgstr "Tout Bath"
+
+#: config.php:261
+msgid "Enter Location here"
+msgstr "Entrez Lieu ici"
+
+#: config.php:262
+msgid "Type any Keyword here"
+msgstr "Tapez un mot clé ici"
+
+#: config.php:263
+msgid "Search"
+msgstr "Chercher"
+
+#: config.php:264
+msgid "More Search Options"
+msgstr "Plus d'options de recherche"
+
+#: config.php:265
+msgid "Min Floor Area"
+msgstr "Min Surface de plancher"
+
+#: config.php:266
+msgid "Min Lot Area"
+msgstr "Min Superficie du terrain"
+
+#: config.php:267
+msgid "For Sale / Rent"
+msgstr "Pour Vente / Location"
+
+#: config.php:268
+#: public/partials/template/default/flexmls/listing-information.php:13
+#: public/partials/template/default/mls/listing-information.php:13
+#: public/partials/template/default/hji/listing-information.php:13
+msgid "Lot Area"
+msgstr "Superficie du terrain"
+
+#: config.php:269
+msgid "Floor Area"
+msgstr "Surface de plancher"
+
+#: config.php:270
+msgid "Real Estate Agent"
+msgstr "Agent immobilier"
+
+#: config.php:271
+msgid "Favorite"
+msgstr "Préféré"
+
+#: config.php:272 includes/Mwp/MyAccount/Dashboard.php:286
+msgid "X-Out"
+msgstr "X - Out"
+
+#: config.php:273
+msgid "Print PDF"
+msgstr "Imprimer PDF"
+
+#: config.php:274
+msgid "Share"
+msgstr "Partager"
+
+#: config.php:275
+msgid "No Account Yet? Sign Up Now!"
+msgstr "Pas encore de compte? S'inscrire maintenant!"
+
+#: config.php:276 includes/mwp-helper-function.php:96
+#: public/partials/template/default/modal/form.php:43
+msgid "Login"
+msgstr "S'identifier"
+
+#: config.php:277
+msgid "Register"
+msgstr "registre"
+
+#: includes/mwp-property-query.php:218
+msgid "Call for pricing"
+msgstr "Appel à prix"
+
+#: includes/mwp-helper-function.php:91
+msgid "Please wait while we get current location coordinates"
+msgstr ""
+"S'il vous plaît patienter pendant que nous obtenons les coordonnées "
+"actuelles de localisation"
+
+#: includes/mwp-helper-function.php:92
+msgid "Check this property located at"
+msgstr "Cochez cette propriété située au"
+
+#: includes/mwp-helper-function.php:93 includes/Mwp/Actions/SaveSearch.php:540
+msgid "Saved Search"
+msgstr "recherche enregistrée"
+
+#: includes/mwp-helper-function.php:94
+msgid "Saving search"
+msgstr "recherche Enregistrement"
+
+#: includes/mwp-helper-function.php:95
+#: public/partials/template/default/modal/form.php:26
+msgid "Sign Up"
+msgstr "S'inscrire"
+
+#: includes/mwp-helper-function.php:97
+msgid "Please wait signing-up"
+msgstr "S'il vous plaît attendre la signature-up"
+
+#: includes/mwp-helper-function.php:98
+msgid "Processing"
+msgstr "En traitement"
+
+#: includes/mwp-helper-function.php:99
+msgid "Loading"
+msgstr "Chargement"
+
+#: includes/mwp-helper-function.php:100
+msgid "Fetching property details, please wait"
+msgstr "Récupérer les détails de propriété, s'il vous plaît patienter"
+
+#: includes/mwp-helper-function.php:101
+msgid "Please wait while getting data"
+msgstr "S'il vous plaît patienter pendant que l'obtention de données"
+
+#: includes/mwp-helper-function.php:102
+msgid "Sending Inquiry"
+msgstr "Envoi d'enquête"
+
+#: includes/mwp-helper-function.php:103
+#: public/partials/template/default/actionbuttons/emailto.php:43
+#: public/partials/template/default/inquire/inquire.php:19
+msgid "Send"
+msgstr "Envoyer"
+
+#: includes/mwp-helper-function.php:104
+msgid "Please wait, updating profile"
+msgstr "S'il vous plaît attendre, la mise à jour le profil"
+
+#: includes/mwp-helper-function.php:105
+msgid "Please wait, updating password"
+msgstr "S'il vous plaît attendre, mettre à jour le mot de passe"
+
+#: includes/mwp-search-settings.php:378
+#: admin/partials/shortcode/crm/list-property.php:49
+#: admin/partials/shortcode/flexmls/list-property.php:49
+#: admin/partials/shortcode/mls/list-property.php:50
+#: public/partials/template/default/searchform/search-form-v2.php:21
+#: public/partials/template/default/searchform/raw-search-form-v4.php:18
+#: public/partials/template/default/searchform/search-form-v4.php:22
+#: public/partials/template/default/searchform/mwp-search-form-crm.php:17
+#: public/partials/template/default/searchform/mwp-search-form-v1.php:17
+#: public/partials/template/default/searchform/raw-search-form-v2.php:17
+#: public/partials/template/default/searchform/raw-search-form-v3.php:17
+#: public/partials/template/default/searchform/search-form-v3.php:21
+msgid "For Sale"
+msgstr "À vendre"
+
+#: includes/mwp-search-settings.php:415
+#: admin/partials/shortcode/crm/list-property.php:50
+#: admin/partials/shortcode/flexmls/list-property.php:50
+#: public/partials/template/default/searchform/search-form-v2.php:26
+#: public/partials/template/default/searchform/raw-search-form-v4.php:23
+#: public/partials/template/default/searchform/search-form-v4.php:27
+#: public/partials/template/default/searchform/mwp-search-form-crm.php:22
+#: public/partials/template/default/searchform/mwp-search-form-v1.php:22
+#: public/partials/template/default/searchform/raw-search-form-v2.php:22
+#: public/partials/template/default/searchform/raw-search-form-v3.php:22
+#: public/partials/template/default/searchform/search-form-v3.php:26
+msgid "For Rent"
+msgstr "A louer"
+
+#: includes/Mwp/API/Greatschool/Entity.php:46
+#: includes/Mwp/API/Greatschool/Entity.php:47
+msgid "Greatschool API"
+msgstr "Greatschool API"
+
+#: includes/Mwp/Install/Notice.php:87
+msgid ""
+"Folder wp-content/uploads doesn't exists, please create and make it writable"
+msgstr ""
+"Dossier wp-content / uploads n'existe, s'il vous plaît créer et de le rendre "
+"inscriptible"
+
+#: includes/Mwp/Install/Notice.php:92
+msgid "The permalinks, need to set up so the url will work in property pages"
+msgstr ""
+"Les permaliens, ont besoin de mettre en place de sorte que le URL "
+"travaillera dans les pages de propriété"
+
+#: includes/Mwp/Install/Notice.php:98
+msgid " page already exists, please check or rename the page title and the url"
+msgstr ""
+"page existe déjà, s'il vous plaît vérifier ou renommer le titre de la page "
+"et l'URL"
+
+#: includes/Mwp/Theme/Inquire.php:125
+msgid "Inquiry from"
+msgstr "Demande de"
+
+#: includes/Mwp/Theme/Inquire.php:127
+msgid "Name"
+msgstr "prénom"
+
+#: includes/Mwp/Theme/Inquire.php:128 includes/Mwp/Actions/PDF.php:114
+#: admin/partials/subscribe/forms.php:10
+msgid "Email"
+msgstr "Email"
+
+#: includes/Mwp/Theme/Inquire.php:129 includes/Mwp/Actions/PDF.php:112
+#: public/partials/template/default/account/profileform.php:22
+msgid "Phone"
+msgstr "Téléphone"
+
+#: includes/Mwp/Theme/Inquire.php:133 includes/Mwp/Actions/SignupForm.php:121
+#: includes/Mwp/Actions/EmailTo.php:83
+msgid "Please input your name"
+msgstr "Veuillez saisir votre nom"
+
+#: includes/Mwp/Theme/Inquire.php:137
+msgid "Please input your  last name"
+msgstr "Veuillez saisir votre nom de famille"
+
+#: includes/Mwp/Theme/Inquire.php:141
+msgid "Please input your Email Address"
+msgstr "Veuillez saisir votre adresse e-mail"
+
+#: includes/Mwp/Theme/Inquire.php:150
+msgid ""
+"Inquiry successfully sent. Our staff will review it as soon as possible. "
+"Thank You."
+msgstr ""
+"Demande envoyée avec succès. Notre personnel examinera dès que possible. Je "
+"vous remercie."
+
+#: includes/Mwp/Theme/Inquire.php:152
+msgid "From"
+msgstr "De"
+
+#: includes/Mwp/MLS/Hook.php:113 includes/Mwp/HomeJunction/Hook.php:275
+#: includes/Mwp/CRM/Hook.php:112 includes/Mwp/Flexmls/Hook.php:121
+#: includes/Mwp/Actions/Buttons.php:174
+msgid "Must register or login to mark as favorite"
+msgstr "Vous devez vous inscrire ou vous identifier pour marquer comme favori"
+
+#: includes/Mwp/MLS/Hook.php:122 includes/Mwp/HomeJunction/Hook.php:284
+#: includes/Mwp/CRM/Hook.php:121 includes/Mwp/Flexmls/Hook.php:130
+#: includes/Mwp/Actions/Buttons.php:242
+msgid "Must register or login to mark as x-out"
+msgstr "Vous devez vous inscrire ou vous identifier pour marquer comme x-out"
+
+#: includes/Mwp/MyAccount/Dashboard.php:248
+msgid "Edit Profile"
+msgstr "Modifier le profil"
+
+#: includes/Mwp/MyAccount/Dashboard.php:255
+msgid "Log Out"
+msgstr "Se déconnecter"
+
+#: includes/Mwp/MyAccount/Dashboard.php:278
+#: public/partials/template/default/account/nav.php:6
+msgid "Favorites"
+msgstr "Favoris"
+
+#: includes/Mwp/MyAccount/Dashboard.php:294
+#: public/partials/template/default/save-search/save-search-list.php:1
+#: public/partials/template/default/account/save-search-list.php:1
+#: public/partials/template/default/account/nav.php:12
+msgid "Save Search"
+msgstr "Sauvegarder la recherche"
+
+#: includes/Mwp/MyAccount/Profile.php:225
+msgid "Please Confirm password"
+msgstr "S'il vous plaît Confirmer mot de passe"
+
+#: includes/Mwp/MyAccount/Profile.php:229
+msgid "Successfully Change Password"
+msgstr "Changer mot de passe avec succès"
+
+#: includes/Mwp/Settings/Property/Entity.php:35
+#: admin/Mwp/Admin/Theme/Property/Entity.php:39
+msgid "Address"
+msgstr "Adresse"
+
+#: includes/Mwp/Settings/Property/Entity.php:36
+#: admin/Mwp/Admin/Theme/Property/Entity.php:40
+msgid "Tag Line"
+msgstr "Tag ligne"
+
+#: includes/Mwp/Actions/SaveSearch.php:136 includes/Mwp/Actions/PDF.php:91
+#: public/partials/template/default/partials/part-content-map.php:17
+msgid "Bed"
+msgstr "Lit"
+
+#: includes/Mwp/Actions/SaveSearch.php:480
+msgid "Need to login or register before saving this search"
+msgstr ""
+"Vous devez vous identifier ou vous inscrire avant de sauvegarder cette "
+"recherche"
+
+#: includes/Mwp/Actions/SaveSearch.php:538
+msgid "Save This Search"
+msgstr "Enregistrer cette recherche"
+
+#: includes/Mwp/Actions/SignupForm.php:124
+msgid "Please input your last name"
+msgstr "Veuillez saisir votre nom de famille"
+
+#: includes/Mwp/Actions/SignupForm.php:127 includes/Mwp/Actions/EmailTo.php:96
+msgid "Please input your email"
+msgstr "Veuillez saisir votre e-mail"
+
+#: includes/Mwp/Actions/SignupForm.php:130 includes/Mwp/Actions/EmailTo.php:92
+#: includes/Mwp/Actions/EmailTo.php:106
+msgid "Email Address is invalid"
+msgstr "Adresse email invalide"
+
+#: includes/Mwp/Actions/SignupForm.php:181
+msgid "Successfully Registered. Thank You."
+msgstr "Enregistré avec succès. Je vous remercie."
+
+#: includes/Mwp/Actions/SignupForm.php:235
+msgid "Successfully Loged In. Wait while we redirect you."
+msgstr "Réussir loged In. Attendez que nous vous redirigeons."
+
+#: includes/Mwp/Actions/PDF.php:106
+msgid "Agent"
+msgstr "Agent"
+
+#: includes/Mwp/Actions/PDF.php:113
+msgid "Mobile"
+msgstr "Mobile"
+
+#: includes/Mwp/Actions/EmailTo.php:48
+msgid "Send to friend Form"
+msgstr "Envoyer à un ami Formulaire"
+
+#: includes/Mwp/Actions/EmailTo.php:88
+msgid "Please input friends email"
+msgstr "Veuillez saisir amis email"
+
+#: includes/Mwp/Actions/EmailTo.php:138
+msgid "Successfully Send Email to Friend. Thank You."
+msgstr "Réussir Envoyer un email à un ami. Je vous remercie."
+
+#: includes/Mwp/Actions/EmailTo.php:143
+msgid "Send to friend from "
+msgstr "Envoyer à un ami de"
+
+#: includes/Mwp/Subscribe/Entity.php:182
+msgid "Please check your email for your API Access and login"
+msgstr ""
+"S'il vous plaît vérifier votre e-mail pour votre accès API et connexion"
+
+#: includes/Mwp/Subscribe/Entity.php:183
+msgid "Or you can input your CRM credentials on the right side form"
+msgstr ""
+"Ou vous pouvez entrer vos informations d'identification de CRM sur le "
+"formulaire de droite"
+
+#: includes/Mwp/Subscribe/Entity.php:184
+msgid "Here is your API Credentials:"
+msgstr "Voici vos informations d'identification de l'API :"
+
+#: includes/Mwp/Subscribe/Entity.php:185
+msgid "CRM Key"
+msgstr "CRM Key"
+
+#: includes/Mwp/Subscribe/Entity.php:186
+msgid "CRM Token"
+msgstr "CRM Token"
+
+#: includes/Mwp/Subscribe/Entity.php:187
+msgid "CRM Broker Id"
+msgstr "CRM Broker Id"
+
+#: admin/class-mwp-admin.php:131
+msgid ""
+"Warning! Do not interrupt, Updating / Creating page by location now, please "
+"wait"
+msgstr ""
+"Attention! Ne pas interrompre, Mise à jour / Créer la page par emplacement "
+"maintenant, s'il vous plaît attendre"
+
+#: admin/class-mwp-admin.php:146
+msgid ""
+"Thank you for installing Masterdigm API, to use and obtain a KEY, please "
+"click right link"
+msgstr ""
+"Merci d'avoir installé API Masterdigm, à utiliser et obtenir une clé, s'il "
+"vous plaît cliquer sur le lien à droite"
+
+#: admin/class-mwp-admin.php:148
+msgid "Plugin Dashboard page"
+msgstr "page Tableau de bord Plugin"
+
+#: admin/Mwp/Controllers/SubscribeCRM.php:59
+msgid "Please provide valid email address"
+msgstr "S'il vous plaît fournir l'adresse e-mail valide"
+
+#: admin/Mwp/Controllers/SubscribeCRM.php:110
+msgid "Error in transaction key, please try again"
+msgstr "Erreur dans la clé de transaction, s'il vous plaît essayer à nouveau"
+
+#: admin/Mwp/Controllers/CreatePageByLocation/Init.php:66
+msgid "It seems you have already create pages by location."
+msgstr "Il semble que vous avez déjà créer des pages par emplacement."
+
+#: admin/Mwp/Controllers/CreatePageByLocation/Init.php:67
+msgid ""
+"you can set status of the pages, If you want to update the pages re-run it "
+"and it will auto detect those locations you add in the CRM"
+msgstr ""
+"vous pouvez définir le statut des pages, Si vous souhaitez mettre à jour les "
+"pages ré-exécuter et il va détecter automatiquement les endroits que vous "
+"ajoutez dans le CRM"
+
+#: admin/Mwp/Controllers/CreatePageByLocation/Init.php:68
+msgid ""
+"You can also set status or delete it ( not the delete is force, it will not "
+"mark as trash ) it will remove those last pages you created ( check the date "
+"below \"last activity\" )"
+msgstr ""
+"Vous pouvez également définir le statut ou le supprimer (pas la suppression "
+"est la force, il ne marquera pas comme des déchets), il va supprimer ces "
+"dernières pages que vous avez créées (vérifier la date ci-dessous \"dernière "
+"activité \")"
+
+#: admin/Mwp/Controllers/CreatePageByLocation/Init.php:69
+msgid "Update Page"
+msgstr "Mise à jour de la page"
+
+#: admin/Mwp/Controllers/CreatePageByLocation/Init.php:71
+msgid "Publish"
+msgstr "Publier"
+
+#: admin/Mwp/Controllers/CreatePageByLocation/Init.php:72
+msgid "Draft"
+msgstr "Brouillon"
+
+#: admin/Mwp/Controllers/CreatePageByLocation/Init.php:73
+msgid "Trash"
+msgstr "Poubelle"
+
+#: admin/Mwp/Controllers/Settings/CRMkey.php:54
+msgid "Please provide property CRM api token / key"
+msgstr "S'il vous plaît fournir des biens CRM api jeton / clé"
+
+#: admin/Mwp/Controllers/Settings/CRMkey.php:61
+msgid "Please choose data to feed"
+msgstr "S'il vous plaît choisir les données à nourrir"
+
+#: admin/Mwp/Controllers/Settings/CRMkey.php:68
+msgid "Please provide Broker ID"
+msgstr "S'il vous plaît fournir Broker ID"
+
+#: admin/Mwp/Admin/Theme/Property/Entity.php:46
+#: admin/Mwp/Admin/Theme/Property/Entity.php:53
+#: admin/Mwp/Admin/Theme/Property/Entity.php:60
+#: admin/Mwp/Admin/Search/Settings.php:68
+#: admin/Mwp/Admin/Search/Settings.php:75
+#: admin/Mwp/Admin/Settings/Popup/Entity.php:47
+msgid "Yes"
+msgstr "Oui"
+
+#: admin/Mwp/Admin/Theme/Property/Entity.php:47
+#: admin/Mwp/Admin/Theme/Property/Entity.php:54
+#: admin/Mwp/Admin/Theme/Property/Entity.php:61
+#: admin/Mwp/Admin/Search/Settings.php:69
+#: admin/Mwp/Admin/Search/Settings.php:76
+#: admin/Mwp/Admin/Settings/Popup/Entity.php:48
+msgid "No"
+msgstr "Non"
+
+#: admin/Mwp/Admin/Theme/Property/Entity.php:67
+msgid "Left"
+msgstr "À gauche"
+
+#: admin/Mwp/Admin/Theme/Property/Entity.php:68
+msgid "Center"
+msgstr "centre"
+
+#: admin/Mwp/Admin/Theme/Property/Entity.php:69
+msgid "Right"
+msgstr "Droite"
+
+#: admin/Mwp/Admin/Settings/CRMkeyEntity.php:87
+msgid "CRM Credentials mismatch"
+msgstr "Pouvoirs CRM inadéquation"
+
+#: admin/Mwp/Admin/Settings/Popup/Entity.php:40
+msgid "Turn on, show popup after certain clicks?"
+msgstr "Allumez, montrer le popup après certains clics?"
+
+#: admin/Mwp/Admin/Settings/Popup/Entity.php:41
+msgid "Turn off, do not show popup after certain clicks?"
+msgstr "Éteignez, ne pas montrer le popup après certains clics?"
+
+#: admin/Mwp/Admin/ShortCode/UnSubscriber.php:69
+msgid "Unsubscribe Process"
+msgstr "Se désabonner processus"
+
+#: admin/Mwp/Admin/ShortCode/Subscriber.php:91
+msgid "Subscriber Dashboard"
+msgstr "abonné Dashboard"
+
+#: admin/Mwp/Admin/ShortCode/Breadcrumb.php:82
+msgid "List Property By Location"
+msgstr "Liste des propriétés par Emplacement"
+
+#: admin/Mwp/Admin/ShortCode/Breadcrumb.php:85
+msgid ""
+"Display properties base on breadcrumb url landing page or url filter by "
+"breadcrumb."
+msgstr ""
+"Les propriétés d'affichage fondent sur breadcrumb url page de destination ou "
+"filtre url par breadcrumb."
+
+#: admin/Mwp/Admin/ShortCode/Breadcrumb.php:92
+#: admin/Mwp/Admin/ShortCode/Crm/FeaturedProperty.php:106
+#: admin/partials/shortcode/crm/list-property.php:57
+#: admin/partials/shortcode/homejunction/list-property.php:58
+#: admin/partials/shortcode/flexmls/list-property.php:57
+#: admin/partials/shortcode/mls/list-property.php:56
+msgid "Set property per columns ( should be divided by 12 )"
+msgstr "proprieté par colonnes (devrait être divisé par 12)"
+
+#: admin/Mwp/Admin/ShortCode/Breadcrumb.php:99
+msgid ""
+"Show child location? If the location is state it will show list of city, if "
+"its city it will show list of communities"
+msgstr ""
+"Montrer situation de l'enfant? Si l'emplacement est l'état il affichera la "
+"liste de la ville, si sa ville, il affichera la liste des communautés"
+
+#: admin/Mwp/Admin/ShortCode/Breadcrumb.php:105
+#: admin/partials/shortcode/crm/list-property.php:56
+#: admin/partials/shortcode/homejunction/list-property.php:57
+#: admin/partials/shortcode/flexmls/list-property.php:56
+#: admin/partials/shortcode/mls/list-property.php:55
+msgid "Show Pagination?"
+msgstr "Afficher Pagination?"
+
+#: admin/Mwp/Admin/ShortCode/SearchForm.php:63
+#: admin/Mwp/Admin/ShortCode/SearchForm.php:66
+msgid "Search Property Form"
+msgstr "Formulaire de recherche Propriété"
+
+#: admin/Mwp/Admin/ShortCode/SearchForm.php:73
+msgid "Choose template UI"
+msgstr "Choisissez UI modèle"
+
+#: admin/Mwp/Admin/ShortCode/Crm/FeaturedProperty.php:90
+msgid "Featured Properties"
+msgstr "Propriétés en vedette"
+
+#: admin/Mwp/Admin/ShortCode/Crm/FeaturedProperty.php:100
+msgid "Choose template to display"
+msgstr "Choisissez modèle pour afficher"
+
+#: admin/Mwp/Admin/ShortCode/Crm/FeaturedProperty.php:112
+msgid "How many to display (zero means all)"
+msgstr "Combien pour afficher (zéro signifie tout)"
+
+#: admin/Mwp/Admin/ShortCode/Crm/FeaturedProperty.php:118
+msgid "Choose Transaction"
+msgstr "Choisissez Transaction"
+
+#: admin/Mwp/Admin/ShortCode/Crm/ListProperty.php:100
+#: admin/Mwp/Admin/ShortCode/Mls/ListProperty.php:106
+msgid "List Properties"
+msgstr "Propriétés de la liste"
+
+#: admin/Mwp/Admin/ShortCode/Crm/ListProperty.php:106
+#: admin/Mwp/Admin/ShortCode/HomeJunction/ListProperty.php:81
+#: admin/Mwp/Admin/ShortCode/Flexmls/ListProperty.php:93
+msgid "Insert Property by search criteria API"
+msgstr "Insérez la propriété par des critères de recherche API"
+
+#: admin/Mwp/Admin/ShortCode/Mls/ListProperty.php:112
+msgid "Insert Property by search criteria API MLS"
+msgstr "Insérez la propriété par des critères de recherche - MLS"
+
+#: admin/Mwp/Admin/ShortCode/HomeJunction/ListProperty.php:75
+msgid "HJI List Properties"
+msgstr "Hji Propriétés de la liste"
+
+#: admin/Mwp/Admin/ShortCode/Flexmls/ListProperty.php:87
+msgid "Flexmls List Properties"
+msgstr "Flexmls Propriétés de la liste"
+
+#: admin/partials/setup-prerequisite.php:3
+#: admin/partials/subscribe/setup-keys.php:2
+msgid "Welcome to"
+msgstr "Bienvenue à"
+
+#: admin/partials/setup-prerequisite.php:7
+msgid "Thank you for choosing Masterdigm CRM as your property solutions"
+msgstr ""
+"Merci d'avoir choisi Masterdigm CRM en tant que vos solutions immobilières"
+
+#: admin/partials/setup-prerequisite.php:10
+msgid ""
+"Before signing-up for API Keys, we would like you to check on these issues "
+"below and please fix them :"
+msgstr ""
+"Avant de signer-up pour l'API Keys, nous aimerions que vous de vérifier sur "
+"ces questions ci-dessous et s'il vous plaît les fixer:"
+
+#: admin/partials/setup-prerequisite.php:16
+msgid "Refresh"
+msgstr "Rafraîchir"
+
+#: admin/partials/propertyalert/index.php:8
+msgid "Add Message for successfully un-subscribe"
+msgstr "Ajouter un message pour réussir désinscrire"
+
+#: admin/partials/propertyalert/index.php:13
+msgid "Add Message for fail un-subscribe"
+msgstr "Ajouter un message pour échouer désinscrire"
+
+#: admin/partials/propertyalert/index.php:17
+#: admin/partials/search/settings/settings-pricerange.php:69
+#: admin/partials/search/settings/settings-general.php:41
+#: admin/partials/api/flexmls.php:12 admin/partials/api/social-api.php:22
+#: admin/partials/api/great-school.php:14
+#: admin/partials/settings/crmkey-form.php:35
+#: admin/partials/settings/settings-jsplugin-library.php:25
+#: admin/partials/settings/settings-client-lead.php:55
+#: admin/partials/settings/settings-mail.php:28
+#: admin/partials/settings/settings-popup.php:38
+#: admin/partials/theme/settings/layout.php:59
+#: admin/partials/theme/settings/color-style.php:292
+#: admin/partials/theme/settings/property.php:64
+#: admin/partials/theme/settings/map.php:12
+#: admin/partials/theme/settings/text.php:6
+#: admin/partials/theme/settings/text.php:19
+#: public/partials/template/default/save-search/save-search-list.php:24
+#: public/partials/template/default/account/accessform.php:15
+#: public/partials/template/default/account/profileform.php:26
+#: public/partials/template/default/account/profileform.php:45
+#: public/partials/template/default/account/save-search-list.php:24
+#: public/partials/template/default/account/emailform.php:19
+msgid "Update"
+msgstr "Mettre à jour"
+
+#: admin/partials/createpagebylocation/index.php:5
+msgid "Create Page by Location."
+msgstr "Créer une page par emplacement."
+
+#: admin/partials/createpagebylocation/index.php:10
+msgid "Last Activity"
+msgstr "Dernière Activité"
+
+#: admin/partials/createpagebylocation/index.php:16
+msgid "Date"
+msgstr "date"
+
+#: admin/partials/createpagebylocation/index.php:17
+msgid "Total Page created"
+msgstr "Total Page créée"
+
+#: admin/partials/createpagebylocation/index.php:22
+msgid "No last activity, create page now."
+msgstr "Aucune dernière activité, créer la page maintenant."
+
+#: admin/partials/search/settings/settings-pricerange.php:3
+msgid "Price Range"
+msgstr "Échelle des prix"
+
+#: admin/partials/search/settings/settings-pricerange.php:9
+msgid "Change price range by Tens"
+msgstr "Changer la fourchette de prix par dizaines"
+
+#: admin/partials/search/settings/settings-pricerange.php:11
+msgid "if you want the by tens not to show, put zero in start, end and step"
+msgstr ""
+"si vous voulez que le par des dizaines de ne pas montrer , mettre zéro en "
+"début, la fin et l'étape"
+
+#: admin/partials/search/settings/settings-pricerange.php:15
+#: admin/partials/search/settings/settings-pricerange.php:35
+#: admin/partials/search/settings/settings-pricerange.php:55
+msgid "Start"
+msgstr "Démarrer"
+
+#: admin/partials/search/settings/settings-pricerange.php:19
+#: admin/partials/search/settings/settings-pricerange.php:39
+#: admin/partials/search/settings/settings-pricerange.php:59
+msgid "End"
+msgstr "Fin"
+
+#: admin/partials/search/settings/settings-pricerange.php:23
+#: admin/partials/search/settings/settings-pricerange.php:43
+#: admin/partials/search/settings/settings-pricerange.php:63
+msgid "Step"
+msgstr "Étape"
+
+#: admin/partials/search/settings/settings-pricerange.php:29
+msgid "Change price range by Hundred"
+msgstr "gamme de changement de prix par cent"
+
+#: admin/partials/search/settings/settings-pricerange.php:31
+msgid ""
+"if you want the by hundreds not to show, put zero in start, end and step"
+msgstr ""
+"si vous voulez que le par des centaines de ne pas montrer , mettre zéro en "
+"début, la fin et l'étape"
+
+#: admin/partials/search/settings/settings-pricerange.php:49
+msgid "Change price range by Million"
+msgstr "gamme de changement de prix par million"
+
+#: admin/partials/search/settings/settings-pricerange.php:51
+msgid ""
+"if you want the by millions not to show, put zero in start, end and step"
+msgstr ""
+"si vous voulez que le par des millions à ne pas montrer , mettre zéro en "
+"début, la fin et l'étape"
+
+#: admin/partials/search/settings/settings-general.php:8
+msgid "Show For Sale Button"
+msgstr "Afficher à vendre Bouton"
+
+#: admin/partials/search/settings/settings-general.php:17
+msgid "Show For Rent Button"
+msgstr "Afficher À Louer Bouton"
+
+#: admin/partials/search/settings/settings-general.php:28
+msgid ""
+"Search property by default search criteria, Default status, when visitor "
+"search property, they will see this search criteria status"
+msgstr ""
+"Rechercher un bien par défaut des critères de recherche, de l'état par "
+"défaut, lorsque la propriété de recherche des visiteurs, ils verront ce "
+"statut de critères de recherche"
+
+#: admin/partials/shortcode/crm/list-property.php:32
+#: admin/partials/shortcode/homejunction/list-property.php:33
+#: admin/partials/shortcode/flexmls/list-property.php:32
+#: admin/partials/shortcode/mls/list-property.php:32
+msgid "Type Location"
+msgstr "Type Lieu"
+
+#: admin/partials/shortcode/crm/list-property.php:38
+#: admin/partials/shortcode/homejunction/list-property.php:39
+#: admin/partials/shortcode/flexmls/list-property.php:38
+#: admin/partials/shortcode/mls/list-property.php:38
+msgid "List by how many Bathrooms in property"
+msgstr "Liste par combien de salles de bains dans la propriété"
+
+#: admin/partials/shortcode/crm/list-property.php:39
+#: admin/partials/shortcode/homejunction/list-property.php:40
+#: admin/partials/shortcode/flexmls/list-property.php:39
+#: admin/partials/shortcode/mls/list-property.php:39
+msgid "List by how many Bedrooms in property"
+msgstr "Liste par le nombre de chambres dans la propriété"
+
+#: admin/partials/shortcode/crm/list-property.php:40
+#: admin/partials/shortcode/homejunction/list-property.php:41
+#: admin/partials/shortcode/flexmls/list-property.php:40
+#: admin/partials/shortcode/mls/list-property.php:40
+msgid ""
+"List by minimum listprice in property (number format only, example: 123456)"
+msgstr ""
+"Liste par Prix officiel minimum dans la propriété (format numérique "
+"uniquement, par exemple: 123456)"
+
+#: admin/partials/shortcode/crm/list-property.php:41
+#: admin/partials/shortcode/homejunction/list-property.php:42
+#: admin/partials/shortcode/flexmls/list-property.php:41
+#: admin/partials/shortcode/mls/list-property.php:41
+msgid ""
+"List by maximum listprice in property (number format only, example: 123456)"
+msgstr ""
+"Liste par Prix officiel maximale dans la propriété (format numérique "
+"uniquement, par exemple: 123456)"
+
+#: admin/partials/shortcode/crm/list-property.php:42
+#: admin/partials/shortcode/flexmls/list-property.php:42
+#: admin/partials/shortcode/mls/list-property.php:42
+#: public/partials/template/default/crm/listing-information.php:4
+#: public/partials/template/default/flexmls/listing-information.php:5
+#: public/partials/template/default/mls/listing-information.php:5
+#: public/partials/template/default/hji/listing-information.php:5
+msgid "Status"
+msgstr "statut"
+
+#: admin/partials/shortcode/crm/list-property.php:47
+#: admin/partials/shortcode/flexmls/list-property.php:47
+#: admin/partials/shortcode/mls/list-property.php:48
+msgid "Transaction"
+msgstr "Transaction"
+
+#: admin/partials/shortcode/crm/list-property.php:51
+#: admin/partials/shortcode/flexmls/list-property.php:51
+msgid "Foreclosure"
+msgstr "Saisie"
+
+#: admin/partials/shortcode/crm/list-property.php:54
+#: admin/partials/shortcode/homejunction/list-property.php:56
+#: admin/partials/shortcode/flexmls/list-property.php:54
+#: admin/partials/shortcode/mls/list-property.php:53
+msgid "How many property to display"
+msgstr "Combien de propriété pour afficher"
+
+#: admin/partials/shortcode/crm/list-property.php:55
+#: admin/partials/shortcode/flexmls/list-property.php:55
+#: admin/partials/shortcode/mls/list-property.php:54
+msgid ""
+"Show Infinite Scroll? this will show the scrolling ajax instead of tix \"how "
+"many display\""
+msgstr ""
+"Afficher Infini Scroll? cela montrera l'ajax de défilement au lieu de tix "
+"\"combien d'affichage\""
+
+#: admin/partials/shortcode/crm/list-property.php:61
+#: admin/partials/shortcode/homejunction/list-property.php:62
+#: admin/partials/shortcode/flexmls/list-property.php:61
+#: admin/partials/shortcode/mls/list-property.php:61
+msgid "Insert Shortcode"
+msgstr "Insérer Shortcode"
+
+#: admin/partials/shortcode/homejunction/list-property.php:43
+msgid "List Type"
+msgstr "type de liste"
+
+#: admin/partials/shortcode/homejunction/list-property.php:44
+msgid "Property Type"
+msgstr "Type de propriété"
+
+#: admin/partials/shortcode/mls/list-property.php:57
+msgid "Include Office List?"
+msgstr "Inclure Liste Office?"
+
+#: admin/partials/api/flexmls.php:6 admin/partials/api/great-school.php:10
+msgid "API Key"
+msgstr "API Key"
+
+#: admin/partials/api/flexmls.php:8
+msgid "API Secret"
+msgstr "API Secret"
+
+#: admin/partials/api/social-api.php:3
+msgid "Social API - Settings"
+msgstr "API Social - Paramètres"
+
+#: admin/partials/api/social-api.php:13
+msgid "Link to create facebook app"
+msgstr "Lien pour créer facebook app"
+
+#: admin/partials/api/great-school.php:4
+msgid "Cost = FREE"
+msgstr "Coût = GRATUIT"
+
+#: admin/partials/api/great-school.php:5
+msgid "If you live in the USA, go to"
+msgstr "Si vous vivez aux États-Unis, rendez-vous"
+
+#: admin/partials/api/great-school.php:5
+msgid "Registration Page"
+msgstr "page d'inscription"
+
+#: admin/partials/api/great-school.php:5
+msgid "and ask to receive your GreatSchool API key."
+msgstr "et demander à recevoir votre clé API GreatSchool."
+
+#: admin/partials/api/great-school.php:6
+msgid "Note: Please read Terms of Use"
+msgstr "Note: S'il vous plaît lire Conditions d'utilisation"
+
+#: admin/partials/api/great-school.php:6
+msgid "Terms Page"
+msgstr "Conditions page"
+
+#: admin/partials/settings/crmkey-form.php:4
+msgid "Property Data Feed"
+msgstr "Flux de données de propriété"
+
+#: admin/partials/settings/crmkey-form.php:7
+msgid "Select Data Feed"
+msgstr "Sélectionnez Data Feed"
+
+#: admin/partials/settings/crmkey-form.php:17
+msgid ""
+"Search Property, Choose which default data to get properties feed, mostly "
+"the default is CRM ( unless masterdigm setup a MLS data on your account )"
+msgstr ""
+"Rechercher la propriété, choisir les données par défaut pour obtenir les "
+"propriétés se nourrissent, principalement la valeur par défaut est CRM (sauf "
+"masterdigm configuration des données MLS sur votre compte)"
+
+#: admin/partials/settings/settings-jsplugin-library.php:7
+msgid "This plugin uses the following javascript plugin / library"
+msgstr "Ce plugin utilise le plugin javascript / bibliothèque suivante"
+
+#: admin/partials/settings/settings-jsplugin-library.php:8
+msgid "Warning! Uncheck them at your own risk!"
+msgstr "Attention! Décochez les à vos propres risques!"
+
+#: admin/partials/settings/settings-jsplugin-library.php:9
+msgid ""
+"The below are part of the MD plugin framework. The purpose is to disallow "
+"two instances of plugin/library which can cause conflicts."
+msgstr ""
+"Le ci-dessous font partie du cadre de plugin MD. Le but est d'interdire deux "
+"instances de plug-in / bibliothèque qui peut provoquer des conflits."
+
+#: admin/partials/settings/settings-jsplugin-library.php:10
+msgid "Template plugin / library"
+msgstr "Plugin Template / bibliothèque"
+
+#: admin/partials/settings/settings-client-lead.php:8
+msgid "Client Lead"
+msgstr "Lead Client"
+
+#: admin/partials/settings/settings-client-lead.php:11
+msgid "Choose lead status"
+msgstr "Choisissez l'état de plomb"
+
+#: admin/partials/settings/settings-client-lead.php:12
+msgid "This will be the status of the lead in the CRM"
+msgstr "Ce sera le statut du chef de file dans le CRM"
+
+#: admin/partials/settings/settings-client-lead.php:23
+msgid "Choose lead type"
+msgstr "Choisissez le type de plomb"
+
+#: admin/partials/settings/settings-client-lead.php:24
+msgid "This will be the type of the lead in the CRM"
+msgstr "Ce sera le type de la tête du CRM"
+
+#: admin/partials/settings/settings-client-lead.php:35
+msgid "Choose lead source"
+msgstr "Choisissez source de plomb"
+
+#: admin/partials/settings/settings-client-lead.php:47
+msgid "This is use for the following lead forms"
+msgstr "Ceci est utilisé pour les formes suivantes de plomb"
+
+#: admin/partials/settings/settings-client-lead.php:49
+msgid "User register form"
+msgstr "Utilisateur sous forme de registre"
+
+#: admin/partials/settings/settings-client-lead.php:50
+msgid "Inquire form"
+msgstr "Renseignez-forme"
+
+#: admin/partials/settings/settings-client-lead.php:51
+msgid "Email to form"
+msgstr "Envoyer à former"
+
+#: admin/partials/settings/settings-mail.php:6
+msgid "Mail Content"
+msgstr "Contenu Mail"
+
+#: admin/partials/settings/settings-mail.php:7
+msgid ""
+"Outgoing email.  Use this mail system to send an email from the mail server."
+msgstr ""
+"email sortant . Utilisez ce système de messagerie pour envoyer un e-mail à "
+"partir du serveur de messagerie."
+
+#: admin/partials/settings/settings-mail.php:10
+msgid ""
+"The email content below is the email the user receives upon subscribing.  Be "
+"sure to include the string variable, e.g., %username% and %password% so they "
+"will receive their log in credentials."
+msgstr ""
+"Le contenu de l'email ci-dessous est l'e-mail , l'utilisateur reçoit sur ​​"
+"l'abonnement . Assurez-vous d'inclure la variable de chaîne , par exemple , "
+"% username % et % mot de passe % de sorte qu'ils recevront leur journal dans "
+"les pouvoirs ."
+
+#: admin/partials/settings/settings-mail.php:13
+msgid "Use the below string variables to create your email below."
+msgstr ""
+"Utilisez les variables de chaîne ci-dessous pour créer votre email ci-"
+"dessous."
+
+#: admin/partials/settings/settings-mail.php:15
+msgid "The name of the registered user"
+msgstr "Le nom de l'utilisateur enregistré"
+
+#: admin/partials/settings/settings-mail.php:16
+msgid "The user-name of the registered user"
+msgstr "Le nom d'utilisateur de l' utilisateur enregistré"
+
+#: admin/partials/settings/settings-mail.php:17
+msgid "The password of the registered user"
+msgstr "Le mot de passe de l'utilisateur enregistré"
+
+#: admin/partials/settings/settings-mail.php:18
+msgid "The email of the registered user"
+msgstr "L' e-mail de l'utilisateur enregistré"
+
+#: admin/partials/settings/settings-mail.php:19
+msgid "The name the current website"
+msgstr "Le nom du site actuel"
+
+#: admin/partials/settings/settings-mail.php:20
+msgid "The url of the current website"
+msgstr "L'URL du site en cours"
+
+#: admin/partials/settings/settings-mail.php:23
+msgid "Subject"
+msgstr "Assujettir"
+
+#: admin/partials/settings/settings-mail.php:25
+msgid "Message"
+msgstr "Message"
+
+#: admin/partials/settings/settings-popup.php:6
+msgid "Show pop-up on certain clicks?"
+msgstr "Afficher pop-up sur certains clics?"
+
+#: admin/partials/settings/settings-popup.php:9
+msgid "How this works? When a visitor visits your website, you can "
+msgstr ""
+"Comment cela fonctionne? Quand un visiteur visite votre site Web, vous pouvez"
+
+#: admin/partials/settings/settings-popup.php:10
+msgid "select how many properties they can view before forcing them "
+msgstr ""
+"Sélectionnez le nombre de propriétés qu'ils peuvent voir avant de les forcer"
+
+#: admin/partials/settings/settings-popup.php:11
+msgid "to sign-up. When the visitors signs up the lead will "
+msgstr "se inscrire. Lorsque les visiteurs signes jusqu'à la tête sera"
+
+#: admin/partials/settings/settings-popup.php:12
+msgid "automatically enter into your CRM account. You can "
+msgstr "entrer automatiquement dans votre compte CRM. Vous pouvez"
+
+#: admin/partials/settings/settings-popup.php:13
+msgid "automatically create marketing campaigns within the CRM. "
+msgstr "créer automatiquement des campagnes de marketing au sein du CRM."
+
+#: admin/partials/settings/settings-popup.php:22
+msgid "Display close button? do you want the ability to close the popup?"
+msgstr ""
+"Afficher le bouton de fermeture? voulez-vous la possibilité de fermer la "
+"fenêtre?"
+
+#: admin/partials/settings/settings-popup.php:30
+msgid ""
+"Show popup after certain clicks. This will show popup after certain click or "
+"view of individual property"
+msgstr ""
+"Afficher le popup après certains clics. Cela montrera le popup après un "
+"certain clic ou une vue de la propriété individuelle"
+
+#: admin/partials/dashboard/support.php:5
+msgid "Stuck?  Have an issue with Masterdigm or its premium plugins?"
+msgstr "Coincé? Avoir un problème avec Masterdigm ou ses plugins de primes ?"
+
+#: admin/partials/dashboard/support.php:6
+msgid "Click here and you will be redirected to our FAQ page."
+msgstr "Cliquez ici et vous serez redirigé vers notre page de FAQ."
+
+#: admin/partials/dashboard/support.php:9
+msgid "Any other issues?"
+msgstr "Toute autre question?"
+
+#: admin/partials/dashboard/support.php:10
+msgid "You have many other ways to connect with us."
+msgstr "Vous avez beaucoup d'autres façons de se connecter avec nous."
+
+#: admin/partials/dashboard/support.php:11
+msgid "Zopim live chat within the CRM"
+msgstr "chat en direct Zopim dans le CRM"
+
+#: admin/partials/dashboard/support.php:12
+msgid "Vcita: on our home page.. Set up a meeting"
+msgstr "Vcita: sur notre page d'accueil .. Mettre en place une réunion"
+
+#: admin/partials/dashboard/support.php:13
+msgid "Support tab inside the CRM."
+msgstr "onglet Support à l'intérieur du CRM."
+
+#: admin/partials/dashboard/index.php:3
+msgid "Welcome to "
+msgstr "Bienvenue à"
+
+#: admin/partials/dashboard/index.php:10
+msgid ""
+"An All-in-One Real Estate Plugin Solution for Brokerages and Agents "
+"Integrated with a High Powered Real Estate CRM Solution."
+msgstr ""
+"Une solution Plugin All-in-One Real Estate pour les maisons de courtage et "
+"agents intégrés avec une Powered Real Estate Solution CRM haut."
+
+#: admin/partials/dashboard/webinars.php:2
+msgid "Want to join into a webinar?"
+msgstr "Vous voulez vous joindre à un webinaire?"
+
+#: admin/partials/dashboard/webinars.php:3
+msgid "Sign up and become a VIP Masterdigmer!"
+msgstr "Inscrivez-vous et devenir un VIP Masterdigmer!"
+
+#: admin/partials/dashboard/getting-started.php:2
+msgid "Step 1"
+msgstr "Étape 1"
+
+#: admin/partials/dashboard/getting-started.php:6
+msgid "Step 2"
+msgstr "Étape 2"
+
+#: admin/partials/dashboard/getting-started.php:10
+msgid "Step 3"
+msgstr "Étape 3"
+
+#: admin/partials/dashboard/widget.php:22
+msgid "Delete All Cache"
+msgstr "Supprimer tout Cache"
+
+#: admin/partials/dashboard/dashboard.php:3
+msgid "Hello"
+msgstr "Bonjour"
+
+#: admin/partials/dashboard/dashboard.php:5
+msgid ""
+"Welcome to Masterdigm!  A full Real Estate plugin highly integrated with "
+"Masterdigm real estate CRM!"
+msgstr ""
+"Bienvenue à Masterdigm ! A pleine Real Estate plugiciel fortement intégrée "
+"avec Masterdigm immobilier CRM !"
+
+#: admin/partials/dashboard/dashboard.php:7
+msgid ""
+"You will notice several tabs above, i.e., CRM, Webinars, etc.. That will "
+"guide you through the Masterdigm processes."
+msgstr ""
+"Vous remarquerez plusieurs onglets ci-dessus, à savoir, CRM, webinaires, "
+"etc .. Cela vous guidera à travers les processus Masterdigm."
+
+#: admin/partials/dashboard/dashboard.php:9
+msgid ""
+"We want to see you succeed as a Broker, Agent or Web Development Team!  "
+"Therefore, we have a \"support\" tab to connect with us to ensure your "
+"success!"
+msgstr ""
+"Nous voulons vous voir réussir en tant que courtier, agent ou de l'équipe de "
+"développement Web! Par conséquent, nous avons un onglet \"support\" pour se "
+"connecter avec nous pour assurer votre succès!"
+
+#: admin/partials/dashboard/dashboard.php:11
+msgid "Cheers, and we look forward to hearing from you."
+msgstr "Cheers, et nous sommes impatients de vous entendre."
+
+#: admin/partials/dashboard/dashboard.php:16
+msgid "Plugin is fully setup"
+msgstr "Plugin est entièrement setup"
+
+#: admin/partials/dashboard/dashboard.php:18
+msgid "Setup Mail"
+msgstr "Mail Setup"
+
+#: admin/partials/dashboard/dashboard.php:19
+msgid "Setup mail settings to update subscription content"
+msgstr ""
+"paramètres de messagerie d'installation pour mettre à jour le contenu de "
+"l'abonnement"
+
+#: admin/partials/dashboard/dashboard.php:21
+msgid "Setup Lead"
+msgstr "Lead Setup"
+
+#: admin/partials/dashboard/dashboard.php:22
+msgid "Setup lead status and type"
+msgstr "le statut de chef de file de configuration et le type"
+
+#: admin/partials/dashboard/dashboard.php:24
+msgid "See Properties"
+msgstr "Voir Propriétés"
+
+#: admin/partials/dashboard/dashboard.php:25
+msgid "Click to see properties"
+msgstr "Cliquez pour voir les propriétés!"
+
+#: admin/partials/dashboard/dashboard.php:28
+msgid "Watch this video first!"
+msgstr "Regardez cette vidéo en premier!"
+
+#: admin/partials/dashboard/dashboard.php:39
+msgid ""
+"PLEASE NOTE | CAUTION: Do not delete the following pages OR the Masterdigm "
+"plugin will not work!"
+msgstr ""
+"S'IL VOUS PLAÎT NOTE | ATTENTION: Ne pas supprimer les pages suivantes OU le "
+"plugin Masterdigm ne fonctionnera pas!"
+
+#: admin/partials/dashboard/dashboard.php:41
+msgid "City - Display list of properties base in City"
+msgstr "City - Afficher la liste des propriétés de base dans la ville"
+
+#: admin/partials/dashboard/dashboard.php:42
+msgid "State - Display list of properties base in State"
+msgstr "État - Afficher la liste des propriétés de base dans l'État"
+
+#: admin/partials/dashboard/dashboard.php:43
+msgid "Community - Display list of properties base in Community"
+msgstr ""
+"Communauté - Afficher la liste des propriétés de base dans la Communauté"
+
+#: admin/partials/dashboard/dashboard.php:44
+msgid "County - Display list of properties base in County"
+msgstr "County - Afficher la liste des propriétés de base dans le comté"
+
+#: admin/partials/dashboard/dashboard.php:49
+msgid "And you want to know more of our plugin and CRM?"
+msgstr "Et vous voulez en savoir plus de notre plugin et CRM?"
+
+#: admin/partials/dashboard/dashboard.php:50
+msgid ""
+"Want to discuss anything else? We offer a free 30 minute Gotomeeting screen-"
+"share where we go into answering questions you may have."
+msgstr ""
+"Vous voulez discuter quoi que ce soit d'autre? Nous offrons 30 minutes "
+"Gotomeeting écran action gratuite où nous allons en répondant à des "
+"questions que vous pourriez avoir."
+
+#: admin/partials/dashboard/connect-with-us.php:4
+msgid "Are you a Real Estate Brokerage?"
+msgstr "Êtes-vous un courtage immobilier?"
+
+#: admin/partials/dashboard/connect-with-us.php:6
+msgid ""
+"If you are a Real Estate Brokerage, we look forward to training you on the "
+"ins-and-outs on utilizing the CRM in conjunction with the Wordpress plugin.  "
+"Start here to learn the Level 1, Level 2, etc.. of managing real estate "
+"leads effectively!"
+msgstr ""
+"Si vous êtes sur le courtage immobilier, nous nous réjouissons de vous "
+"former sur les tenants et les aboutissants sur l'utilisation du CRM en "
+"collaboration avec le plugin Wordpress. Commencez ici pour apprendre le "
+"niveau 1, niveau 2, etc .. de la gestion de l'immobilier conduit "
+"efficacement!"
+
+#: admin/partials/dashboard/connect-with-us.php:11
+msgid "Are you an Independent Agent?"
+msgstr "Êtes-vous un agent indépendant?"
+
+#: admin/partials/dashboard/connect-with-us.php:13
+msgid "If you are an Agent, and are part of a real estate brokerage,"
+msgstr ""
+"Si vous êtes un agent, et font partie d'une maison de courtage immobilier,"
+
+#: admin/partials/dashboard/connect-with-us.php:14
+msgid "start here"
+msgstr "commencer ici"
+
+#: admin/partials/dashboard/connect-with-us.php:22
+msgid "Are you a proffesional website development team?"
+msgstr "Êtes-vous une équipe de développement de site Web proffesional?"
+
+#: admin/partials/dashboard/connect-with-us.php:24
+msgid ""
+"First of all, we look forward to working with you!  Your clients are always "
+"your clients.  Be part our affiliate program where you can receive a monthly "
+"recurring billing!  Just stay active with us, and receive 5,10,15% monthly "
+"revenues based on your clients CRM usage!"
+msgstr ""
+"Tout d'abord, nous nous réjouissons de travailler avec vous! Vos clients "
+"sont toujours vos clients. Faites partie de notre programme d'affiliation où "
+"vous pouvez recevoir une facturation récurrente mensuelle! Il suffit de "
+"rester actif avec nous, et recevoir 5,10,15% des revenus mensuels en "
+"fonction de votre utilisation de clients CRM!"
+
+#: admin/partials/dashboard/connect-with-us.php:25
+msgid "Learn more here!"
+msgstr "En savoir plus ici!"
+
+#: admin/partials/dashboard/connect-with-us.php:29
+msgid "Social Links"
+msgstr "Liens sociaux"
+
+#: admin/partials/subscribe/validate-forms.php:1
+msgid "Validate Code"
+msgstr "code de validation"
+
+#: admin/partials/subscribe/validate-forms.php:17
+msgid "Activate Code"
+msgstr "Activer le code"
+
+#: admin/partials/subscribe/forms.php:1
+msgid "The simple and powerful real estate plugin"
+msgstr "Le plugin immobilier simple et puissant"
+
+#: admin/partials/subscribe/forms.php:5
+msgid ""
+"Masterdigm Wordpress plugin is unlike other simple WP plugins.  Within "
+"minutes you will see demo properties on your site!   Easy to use, packed "
+"with features and awesome plugin support.  Start today and see the "
+"Masterdigm WP Plugin difference.  We respect your privacy and can opt-out "
+"anytime.   Simply add your email below.. we will send you a verification "
+"link and you are ready to go!"
+msgstr ""
+"Masterdigm plugin Wordpress est contrairement à d'autres plugins WP simples. "
+"En quelques minutes, vous pourrez voir les propriétés démo sur votre site! "
+"Facile à utiliser, riche en fonctionnalités et de soutien impressionnant "
+"plugin. Commencez dès aujourd'hui et voir la différence Masterdigm WP "
+"Plugin. Nous respectons votre vie privée et peut opt-out à tout moment. "
+"Ajoutez simplement votre email ci-dessous .. nous vous enverrons un lien de "
+"vérification et vous êtes prêt à partir!"
+
+#: admin/partials/subscribe/forms.php:14
+msgid ""
+"please provide email, or change email address, this will be use to signup an "
+"account in masterdigm"
+msgstr ""
+"s'il vous plaît fournir des e-mail, ou changer l'adresse e-mail, ce sera "
+"utiliser pour inscrire un compte à masterdigm"
+
+#: admin/partials/subscribe/forms.php:19
+msgid "Company"
+msgstr "Compagnie"
+
+#: admin/partials/subscribe/forms.php:23
+#: public/partials/template/default/modal/form.php:13
+#: public/partials/template/default/account/accessform.php:4
+#: public/partials/template/default/account/profileform.php:10
+#: public/partials/template/default/account/profileform.php:11
+#: public/partials/template/default/account/emailform.php:8
+msgid "First Name"
+msgstr "Prénom"
+
+#: admin/partials/subscribe/forms.php:27
+#: public/partials/template/default/modal/form.php:16
+#: public/partials/template/default/account/accessform.php:7
+#: public/partials/template/default/account/profileform.php:14
+#: public/partials/template/default/account/profileform.php:15
+#: public/partials/template/default/account/emailform.php:11
+msgid "Last Name"
+msgstr "Nom de famille"
+
+#: admin/partials/subscribe/forms.php:33
+msgid "Subscribe"
+msgstr "Souscrire"
+
+#: admin/partials/subscribe/forms.php:35
+msgid ""
+"Important! Username and password will be sent to you're email address you "
+"provide, please check your email inbox or in spam"
+msgstr ""
+"Important! Nom d'utilisateur et mot de passe seront envoyés à toi sont "
+"adresse e-mail que vous fournissez, s'il vous plaît vérifier votre boîte de "
+"réception e-mail ou dans le spam"
+
+#: admin/partials/theme/settings/layout.php:7
+msgid "Choose Menu for the header in search properties and property details"
+msgstr ""
+"Choisissez Menu pour l'en-tête dans les propriétés de la recherche et les "
+"détails de la propriété"
+
+#: admin/partials/theme/settings/layout.php:18
+msgid ""
+"Choose Logo image for the header in search properties and property details"
+msgstr ""
+"Choisissez l'image du logo de l'en-tête dans les propriétés de la recherche "
+"et les détails de la propriété"
+
+#: admin/partials/theme/settings/layout.php:19
+msgid "Logo Preview"
+msgstr "Logo Aperçu"
+
+#: admin/partials/theme/settings/layout.php:21
+msgid "Upload / Choose Logo Image"
+msgstr "Upload / Choisissez Image de logo"
+
+#: admin/partials/theme/settings/layout.php:24
+msgid "Use plugin default header?"
+msgstr "Utilisez -tête par défaut plugin?"
+
+#: admin/partials/theme/settings/layout.php:30
+msgid "Calls for header-name.php"
+msgstr "Appels à en-tête - nom.php"
+
+#: admin/partials/theme/settings/layout.php:33
+msgid "Use plugin default footer?"
+msgstr "Utilisez le pied de page par défaut plugin?"
+
+#: admin/partials/theme/settings/layout.php:39
+msgid "Calls for footer-name.php"
+msgstr "Appels à footer- nom.php"
+
+#: admin/partials/theme/settings/layout.php:44
+msgid ""
+"Choose search form for the header in search properties and property details"
+msgstr ""
+"Choisissez le formulaire de recherche pour l'en-tête dans les propriétés de "
+"la recherche et les détails de la propriété"
+
+#: admin/partials/theme/settings/layout.php:55
+msgid "Custom CSS"
+msgstr "CSS personnalisé"
+
+#: admin/partials/theme/settings/color-style.php:39
+msgid "Choose theme for: "
+msgstr "Choisissez pour thème :"
+
+#: admin/partials/theme/settings/color-style.php:41
+msgid "Select a predefined color scheme"
+msgstr "Sélectionnez un schéma de couleurs prédéfini"
+
+#: admin/partials/theme/settings/color-style.php:77
+msgid "Or manually defined color"
+msgstr "Ou défini manuellement la couleur"
+
+#: admin/partials/theme/settings/color-style.php:80
+msgid "List Property"
+msgstr "Liste des propriétés"
+
+#: admin/partials/theme/settings/color-style.php:82
+msgid "Search Result &amp; Form"
+msgstr "Résultat de recherche & amp; Forme"
+
+#: admin/partials/theme/settings/color-style.php:83
+msgid "Header"
+msgstr "Entête"
+
+#: admin/partials/theme/settings/color-style.php:89
+msgid "Main Content background color."
+msgstr "Contenu principal couleur de fond ."
+
+#: admin/partials/theme/settings/color-style.php:90
+msgid "default background color"
+msgstr "couleur de fond par défaut"
+
+#: admin/partials/theme/settings/color-style.php:95
+#: admin/partials/theme/settings/color-style.php:180
+msgid "Primary Font color"
+msgstr "Couleur de police primaire"
+
+#: admin/partials/theme/settings/color-style.php:96
+#: admin/partials/theme/settings/color-style.php:126
+#: admin/partials/theme/settings/color-style.php:132
+msgid "link color"
+msgstr "couleur de lien"
+
+#: admin/partials/theme/settings/color-style.php:101
+msgid "Main Content Font color"
+msgstr "Contenu principal couleur de la police"
+
+#: admin/partials/theme/settings/color-style.php:102
+#: admin/partials/theme/settings/color-style.php:181
+msgid "Font color for links, dropcaps and other elements"
+msgstr "Couleur de la police pour les liens , dropcaps et d'autres éléments"
+
+#: admin/partials/theme/settings/color-style.php:107
+msgid "Main Content Heading color"
+msgstr "Contenu principal couleur Rubrique"
+
+#: admin/partials/theme/settings/color-style.php:114
+#: admin/partials/theme/settings/color-style.php:197
+msgid "Secondary Background color."
+msgstr "La couleur de fond secondaire ."
+
+#: admin/partials/theme/settings/color-style.php:119
+#: admin/partials/theme/settings/color-style.php:271
+msgid "Secondary font color."
+msgstr "couleur de police secondaire ."
+
+#: admin/partials/theme/settings/color-style.php:120
+msgid "highlight color for link and hover"
+msgstr "couleur de surbrillance pour le lien et hover"
+
+#: admin/partials/theme/settings/color-style.php:125
+msgid "Main Content Secondary Font color"
+msgstr "Contenu principal couleur de police secondaire"
+
+#: admin/partials/theme/settings/color-style.php:131
+msgid "Border color"
+msgstr "Couleur de la bordure"
+
+#: admin/partials/theme/settings/color-style.php:139
+#: admin/partials/theme/settings/color-style.php:215
+#: admin/partials/theme/settings/color-style.php:248
+msgid "Click on the numbers or the white left side to change color"
+msgstr ""
+"Cliquez sur les numéros ou le côté blanc gauche pour changer la couleur"
+
+#: admin/partials/theme/settings/color-style.php:147
+msgid "Active Background color."
+msgstr "Active couleur de fond."
+
+#: admin/partials/theme/settings/color-style.php:151
+msgid "Active Font color."
+msgstr "Active couleur de la police."
+
+#: admin/partials/theme/settings/color-style.php:157
+msgid "Inactive Background color."
+msgstr "Inactif couleur de fond."
+
+#: admin/partials/theme/settings/color-style.php:161
+msgid "Inactive Font color."
+msgstr "Inactif couleur de la police."
+
+#: admin/partials/theme/settings/color-style.php:172
+msgid "Main Page Background color."
+msgstr "Couleur principale page d'arrière-plan."
+
+#: admin/partials/theme/settings/color-style.php:176
+msgid "Main Background color."
+msgstr "Couleur principale de fond."
+
+#: admin/partials/theme/settings/color-style.php:187
+msgid "Content Main Font color"
+msgstr "Contenu Couleur principale de la police"
+
+#: admin/partials/theme/settings/color-style.php:191
+msgid "Content Main Heading Font color"
+msgstr "Contenu principal Rubrique couleur de la police"
+
+#: admin/partials/theme/settings/color-style.php:201
+msgid "Highlight Font color."
+msgstr "Mettez en surbrillance la couleur de la police."
+
+#: admin/partials/theme/settings/color-style.php:202
+msgid "Secondary color for link and button hover, etc"
+msgstr "Couleur secondaire pour le lien et le bouton sensitif, etc"
+
+#: admin/partials/theme/settings/color-style.php:207
+msgid "Content Secondary Font color."
+msgstr "Contenu couleur de police secondaire."
+
+#: admin/partials/theme/settings/color-style.php:219
+msgid "Page background color."
+msgstr "Page couleur de fond."
+
+#: admin/partials/theme/settings/color-style.php:225
+msgid "Button background color."
+msgstr "Bouton couleur de fond."
+
+#: admin/partials/theme/settings/color-style.php:230
+msgid "Button Font color"
+msgstr "couleur Bouton de la police"
+
+#: admin/partials/theme/settings/color-style.php:235
+msgid "Button secondary background color."
+msgstr "Bouton couleur de fond secondaire."
+
+#: admin/partials/theme/settings/color-style.php:240
+msgid "Button secondary Font color"
+msgstr "Bouton Couleur de police secondaire"
+
+#: admin/partials/theme/settings/color-style.php:244
+msgid "Button Border color"
+msgstr "Couleur Bouton Border"
+
+#: admin/partials/theme/settings/color-style.php:251
+msgid "This is applicable only on search result and property details page"
+msgstr ""
+"Ceci est applicable seulement sur le résultat de la recherche et les détails "
+"de propriété Page"
+
+#: admin/partials/theme/settings/color-style.php:253
+msgid "Main background color."
+msgstr "Couleur principale de fond."
+
+#: admin/partials/theme/settings/color-style.php:259
+msgid "Secondary background color."
+msgstr "couleur de fond secondaire."
+
+#: admin/partials/theme/settings/color-style.php:265
+msgid "Primary font color."
+msgstr "couleur de la police primaire."
+
+#: admin/partials/theme/settings/color-style.php:277
+msgid "Heading font color."
+msgstr "Rubrique couleur de police."
+
+#: admin/partials/theme/settings/color-style.php:283
+msgid "Border color."
+msgstr "Couleur de la bordure."
+
+#: admin/partials/theme/settings/property.php:7
+msgid "Display property address or tag-line"
+msgstr "Afficher l'adresse de la propriété ou tag-line"
+
+#: admin/partials/theme/settings/property.php:16
+msgid "Book a Viewing"
+msgstr "Réservez un visionnement"
+
+#: admin/partials/theme/settings/property.php:18
+msgid "Text Alignment"
+msgstr "Alignement du texte"
+
+#: admin/partials/theme/settings/property.php:26
+msgid "Label"
+msgstr "Étiquette"
+
+#: admin/partials/theme/settings/property.php:30
+msgid "URL"
+msgstr "URL"
+
+#: admin/partials/theme/settings/property.php:35
+msgid "Fields"
+msgstr "Des champs"
+
+#: admin/partials/theme/settings/property.php:37
+msgid "Display Bed"
+msgstr "Affichage Bed"
+
+#: admin/partials/theme/settings/property.php:45
+msgid "Display Bath"
+msgstr "Bain d'affichage"
+
+#: admin/partials/theme/settings/property.php:53
+msgid "Display Garage"
+msgstr "Affichage Garage"
+
+#: admin/partials/theme/settings/map.php:6
+msgid ""
+"This is the default address of google map when there is no location searched."
+msgstr ""
+"Ceci est l'adresse par défaut de google map quand il n'y a pas lieu "
+"recherché."
+
+#: admin/partials/theme/settings/map.php:7
+msgid "Default Geo Code Address is: "
+msgstr "Par défaut Géo adresse est:"
+
+#: admin/partials/theme/settings/map.php:9
+msgid "Google map zoom"
+msgstr "Google map zoom"
+
+#: admin/partials/theme/settings/text.php:10
+msgid "Original / Translated Text"
+msgstr "Texte original / Traduit"
+
+#: admin/partials/theme/settings/text.php:11
+msgid "Changed to : "
+msgstr "Changé en :"
+
+#: admin/partials/theme/settings/text.php:14
+msgid "Note: empty the text field to use original text or transtaled text"
+msgstr ""
+"Remarque: vider le champ de texte pour utiliser du texte original ou texte "
+"transtaled"
+
+#: public/partials/template/default/mwp-property-list.php:14
+msgid "Total Properties"
+msgstr "total des Maisons"
+
+#: public/partials/template/default/mwp-content-404.php:9
+msgid "No Properties meet the Search Criteria. Please Search Again!"
+msgstr ""
+"Non Propriétés répondent aux critères de recherche. S'il vous plaît "
+"Recherche Again!"
+
+#: public/partials/template/default/crm/listing-information.php:5
+msgid "Transaction Type"
+msgstr "Type de transaction"
+
+#: public/partials/template/default/crm/listing-information.php:7
+#: public/partials/template/default/flexmls/listing-information.php:6
+#: public/partials/template/default/mls/listing-information.php:6
+#: public/partials/template/default/hji/listing-information.php:6
+msgid "Location"
+msgstr "Emplacement"
+
+#: public/partials/template/default/crm/listing-information.php:9
+msgid "Community"
+msgstr "Communauté"
+
+#: public/partials/template/default/crm/listing-information.php:25
+#: public/partials/template/default/flexmls/listing-information.php:7
+#: public/partials/template/default/mls/listing-information.php:7
+#: public/partials/template/default/hji/listing-information.php:7
+msgid "Bedroom"
+msgstr "Chambre"
+
+#: public/partials/template/default/crm/listing-information.php:28
+#: public/partials/template/default/flexmls/listing-information.php:18
+#: public/partials/template/default/mls/listing-information.php:18
+#: public/partials/template/default/hji/listing-information.php:17
+msgid "Bathroom"
+msgstr "Salle de bains"
+
+#: public/partials/template/default/crm/listing-information.php:48
+#: public/partials/template/default/flexmls/listing-information.php:26
+#: public/partials/template/default/mls/listing-information.php:26
+#: public/partials/template/default/hji/listing-information.php:25
+msgid "Details on"
+msgstr "Détails sur"
+
+#: public/partials/template/default/modal/signup.php:28
+#: public/partials/template/default/actionbuttons/emailto.php:42
+msgid "Close"
+msgstr "Fermer"
+
+#: public/partials/template/default/modal/showpopup.php:11
+msgid "Sign-up now, to continue browsing properties"
+msgstr ""
+"Inscrivez-vous dès maintenant, de poursuivre les propriétés de navigation"
+
+#: public/partials/template/default/modal/form.php:2
+#: public/partials/template/default/actionbuttons/emailto.php:13
+#: public/partials/template/default/account/profileform.php:6
+#: public/partials/template/default/account/profileform.php:36
+#: public/partials/template/default/account/passwordform.php:6
+msgid "Error"
+msgstr "Erreur"
+
+#: public/partials/template/default/modal/form.php:19
+#: public/partials/template/default/account/accessform.php:10
+#: public/partials/template/default/account/profileform.php:19
+#: public/partials/template/default/account/emailform.php:14
+msgid "Enter email"
+msgstr "Entrez email"
+
+#: public/partials/template/default/modal/form.php:22
+#: public/partials/template/default/account/accessform.php:13
+#: public/partials/template/default/account/profileform.php:23
+#: public/partials/template/default/account/emailform.php:17
+msgid "Phone Number"
+msgstr "Numéro de téléphone"
+
+#: public/partials/template/default/modal/form.php:33
+#: public/partials/template/default/account/profileform.php:18
+msgid "Email Address"
+msgstr "Adresse e-mail"
+
+#: public/partials/template/default/modal/form.php:36
+#: public/partials/template/default/account/profileform.php:33
+#: public/partials/template/default/account/passwordform.php:3
+msgid "Password"
+msgstr "Mot de passe"
+
+#: public/partials/template/default/modal/form.php:39
+msgid "Forgot password"
+msgstr "Mot de passe oublié"
+
+#: public/partials/template/default/actionbuttons/xout-button.php:37
+#: public/partials/template/default/angularjs/action-button.php:95
+#: public/partials/template/default/partials/part-content-map.php:155
+msgid "Register or login to Xout property"
+msgstr "Inscrivez-vous ou connectez-vous à xout propriété"
+
+#: public/partials/template/default/actionbuttons/emailto.php:9
+msgid "Send this to a Friend"
+msgstr "Envoyez ceci à un ami"
+
+#: public/partials/template/default/actionbuttons/emailto.php:15
+msgid "Friends Email Address"
+msgstr "Adresse e-mail Amis"
+
+#: public/partials/template/default/actionbuttons/emailto.php:22
+msgid "Your Name"
+msgstr "votre nom"
+
+#: public/partials/template/default/actionbuttons/emailto.php:28
+msgid "Your Email Address"
+msgstr "Votre adresse email"
+
+#: public/partials/template/default/actionbuttons/share-button.php:7
+#: public/partials/template/default/angularjs/action-button.php:111
+#: public/partials/template/default/partials/part-content-map.php:171
+msgid "Email to friend"
+msgstr "Envoyer à un ami"
+
+#: public/partials/template/default/actionbuttons/action-button.php:10
+#: public/partials/template/default/actionbuttons/favorite-button.php:10
+#: public/partials/template/default/angularjs/action-button.php:23
+#: public/partials/template/default/angularjs/favorite-button.php:17
+#: public/partials/template/default/partials/part-content-map.php:83
+msgid "Remove to favorite"
+msgstr "Retirer aux favoris"
+
+#: public/partials/template/default/actionbuttons/action-button.php:23
+#: public/partials/template/default/actionbuttons/favorite-button.php:23
+#: public/partials/template/default/angularjs/action-button.php:36
+#: public/partials/template/default/angularjs/favorite-button.php:30
+#: public/partials/template/default/partials/part-content-map.php:96
+msgid "Add to favorite"
+msgstr "Ajouter aux Favoris"
+
+#: public/partials/template/default/actionbuttons/action-button.php:37
+#: public/partials/template/default/actionbuttons/favorite-button.php:37
+#: public/partials/template/default/angularjs/action-button.php:50
+#: public/partials/template/default/angularjs/favorite-button.php:44
+#: public/partials/template/default/partials/part-content-map.php:110
+msgid "Register or login to add as favorites"
+msgstr "Inscrivez-vous ou connectez-vous pour ajouter comme favoris"
+
+#: public/partials/template/default/flexmls/listing-information.php:4
+#: public/partials/template/default/mls/listing-information.php:4
+#: public/partials/template/default/hji/listing-information.php:4
+msgid "Property ID"
+msgstr "ID de propriété"
+
+#: public/partials/template/default/flexmls/listing-information.php:8
+#: public/partials/template/default/mls/listing-information.php:8
+#: public/partials/template/default/hji/listing-information.php:8
+msgid "Living Sq. Ft"
+msgstr "Vivre Sq. ft"
+
+#: public/partials/template/default/flexmls/listing-information.php:33
+#: public/partials/template/default/mls/listing-information.php:33
+msgid "Location Information"
+msgstr "Information de Lieu"
+
+#: public/partials/template/default/flexmls/listing-information.php:35
+#: public/partials/template/default/mls/listing-information.php:35
+msgid "County"
+msgstr "Comté"
+
+#: public/partials/template/default/flexmls/listing-information.php:37
+#: public/partials/template/default/mls/listing-information.php:37
+msgid "Subdivision"
+msgstr "Subdivision"
+
+#: public/partials/template/default/flexmls/listing-information.php:43
+#: public/partials/template/default/flexmls/listing-information.php:45
+#: public/partials/template/default/mls/listing-information.php:43
+#: public/partials/template/default/mls/listing-information.php:45
+msgid "Interior Features"
+msgstr "Caractéristiques intérieures"
+
+#: public/partials/template/default/flexmls/listing-information.php:46
+#: public/partials/template/default/mls/listing-information.php:46
+msgid "Fireplace"
+msgstr "Cheminée"
+
+#: public/partials/template/default/flexmls/listing-information.php:47
+#: public/partials/template/default/mls/listing-information.php:47
+msgid "Heating and Fuel"
+msgstr "Chauffage et carburant"
+
+#: public/partials/template/default/flexmls/listing-information.php:48
+#: public/partials/template/default/mls/listing-information.php:48
+msgid "Flooring"
+msgstr "Sol"
+
+#: public/partials/template/default/flexmls/listing-information.php:49
+#: public/partials/template/default/mls/listing-information.php:49
+msgid "Full Baths"
+msgstr "Salles de bains"
+
+#: public/partials/template/default/flexmls/listing-information.php:50
+#: public/partials/template/default/mls/listing-information.php:50
+msgid "Air Conditioning"
+msgstr "Climatisation"
+
+#: public/partials/template/default/flexmls/listing-information.php:51
+#: public/partials/template/default/mls/listing-information.php:51
+msgid "Heat / Air Conditioning"
+msgstr "Heat / Climatisation"
+
+#: public/partials/template/default/flexmls/listing-information.php:52
+#: public/partials/template/default/mls/listing-information.php:52
+msgid "Appliances Included"
+msgstr "Appareils Ménagers"
+
+#: public/partials/template/default/flexmls/listing-information.php:58
+#: public/partials/template/default/flexmls/listing-information.php:65
+#: public/partials/template/default/mls/listing-information.php:58
+#: public/partials/template/default/mls/listing-information.php:65
+msgid "Exterior Features"
+msgstr "Caractéristiques extérieures"
+
+#: public/partials/template/default/flexmls/listing-information.php:60
+#: public/partials/template/default/mls/listing-information.php:60
+msgid "Construction"
+msgstr "Construction"
+
+#: public/partials/template/default/flexmls/listing-information.php:61
+#: public/partials/template/default/mls/listing-information.php:61
+msgid "Foundation"
+msgstr "Fondation"
+
+#: public/partials/template/default/flexmls/listing-information.php:62
+#: public/partials/template/default/mls/listing-information.php:62
+msgid "Garage Features"
+msgstr "Garage Caractéristiques"
+
+#: public/partials/template/default/flexmls/listing-information.php:63
+#: public/partials/template/default/mls/listing-information.php:63
+msgid "Garage / Carport"
+msgstr "Garage / Auvent"
+
+#: public/partials/template/default/flexmls/listing-information.php:64
+#: public/partials/template/default/mls/listing-information.php:64
+msgid "Lot Size Sq Ft"
+msgstr "Dimensions du terrain Sq Ft"
+
+#: public/partials/template/default/flexmls/listing-information.php:66
+#: public/partials/template/default/mls/listing-information.php:66
+msgid "Roof"
+msgstr "Toit"
+
+#: public/partials/template/default/flexmls/listing-information.php:67
+#: public/partials/template/default/mls/listing-information.php:67
+msgid "Utilities"
+msgstr "Utilitaires"
+
+#: public/partials/template/default/flexmls/listing-information.php:68
+#: public/partials/template/default/mls/listing-information.php:68
+msgid "Lot Size Acres"
+msgstr "Dimensions du terrain Acres"
+
+#: public/partials/template/default/flexmls/listing-information.php:69
+#: public/partials/template/default/mls/listing-information.php:69
+msgid "Water Frontage"
+msgstr "Littoral"
+
+#: public/partials/template/default/flexmls/listing-information.php:70
+#: public/partials/template/default/mls/listing-information.php:70
+msgid "Pool"
+msgstr "Piscine"
+
+#: public/partials/template/default/flexmls/listing-information.php:71
+#: public/partials/template/default/mls/listing-information.php:71
+msgid "Pool Type"
+msgstr "Type de piscine"
+
+#: public/partials/template/default/flexmls/listing-information.php:77
+#: public/partials/template/default/mls/listing-information.php:77
+msgid "Additional Information"
+msgstr "Information additionnelle"
+
+#: public/partials/template/default/flexmls/listing-information.php:80
+#: public/partials/template/default/mls/listing-information.php:80
+msgid "Property SubType"
+msgstr "SubType de propriété"
+
+#: public/partials/template/default/flexmls/listing-information.php:81
+#: public/partials/template/default/mls/listing-information.php:81
+msgid "Taxes"
+msgstr "taxes"
+
+#: public/partials/template/default/flexmls/listing-information.php:82
+#: public/partials/template/default/mls/listing-information.php:82
+msgid "Tax Year"
+msgstr "Année d'imposition"
+
+#: public/partials/template/default/flexmls/listing-information.php:83
+#: public/partials/template/default/mls/listing-information.php:83
+msgid "Listing Office"
+msgstr "Listing Bureau"
+
+#: public/partials/template/default/property-details/similar-homes.php:2
+msgid "Similar Properties to "
+msgstr "Immobilier similaires à"
+
+#: public/partials/template/default/property-details/content.php:116
+msgid "Map on"
+msgstr "Carte sur"
+
+#: public/partials/template/default/property-details/content.php:220
+msgid "I would like to get more information regarding"
+msgstr "Je voudrais obtenir plus d'informations sur"
+
+#: public/partials/template/default/inquire/inquire.php:2
+msgid "Inquiry Form"
+msgstr "Formulaire de demande"
+
+#: public/partials/template/default/inquire/inquire.php:5
+msgid "Your First Name"
+msgstr "Ton prénom"
+
+#: public/partials/template/default/inquire/inquire.php:8
+msgid "Your Last Name"
+msgstr "Votre nom de famille"
+
+#: public/partials/template/default/inquire/inquire.php:11
+msgid "Your Valid Email"
+msgstr "Votre Email valide"
+
+#: public/partials/template/default/inquire/inquire.php:14
+msgid "Your (Area Code) + Phone Number"
+msgstr "Votre (Code régional) + numéro de téléphone"
+
+#: public/partials/template/default/save-search/save-search-list.php:1
+#: public/partials/template/default/account/save-search-list.php:1
+msgid "You have"
+msgstr "Tu as"
+
+#: public/partials/template/default/save-search/save-search-list.php:10
+#: public/partials/template/default/account/save-search-list.php:10
+msgid "delete"
+msgstr "effacer"
+
+#: public/partials/template/default/save-search/save-search-list.php:13
+#: public/partials/template/default/account/save-search-list.php:13
+msgid "Subscribe to property alert"
+msgstr "Abonnez-vous à l'alerte de la propriété"
+
+#: public/partials/template/default/save-search/save-search-list.php:16
+#: public/partials/template/default/account/save-search-list.php:16
+msgid "Run this search"
+msgstr "Exécutez cette recherche"
+
+#: public/partials/template/default/account/accessform.php:2
+#: public/partials/template/default/account/nav.php:3
+msgid "Profile"
+msgstr "Profil"
+
+#: public/partials/template/default/account/profileform.php:3
+#: public/partials/template/default/account/emailform.php:3
+msgid "Personal Info"
+msgstr "Informations personnelles"
+
+#: public/partials/template/default/account/profileform.php:39
+#: public/partials/template/default/account/passwordform.php:9
+msgid "New Password"
+msgstr "nouveau mot de passe"
+
+#: public/partials/template/default/account/profileform.php:42
+#: public/partials/template/default/account/passwordform.php:12
+msgid "Confirm New Password"
+msgstr "Confirmer le nouveau mot de passe"
+
+#: public/partials/template/default/account/passwordform.php:15
+msgid "Save"
+msgstr "sauvegarder"
+
+#: public/partials/template/default/partials/part-content-map.php:10
+msgid "Current Properties Shown."
+msgstr "Propriétés actuelles Montré."
+
+#: public/partials/template/default/partials/part-content-map.php:14
+msgid "Filter by:"
+msgstr "Filtrer par:"
+
+#: public/partials/template/default/partials/part-content-map.php:18
+msgid "Bath"
+msgstr "Bain"
+
+#: public/partials/template/default/partials/part-content-map.php:25
+msgid "Sort by:"
+msgstr "Trier par:"
+
+#: public/partials/template/default/partials/part-content-map.php:27
+msgid "Price (Lo)"
+msgstr "Prix ​​(Lo)"
+
+#: public/partials/template/default/partials/part-content-map.php:28
+msgid "Price (Hi)"
+msgstr "Prix ​​(Salut)"
+
+#: public/partials/template/default/partials/part-content-map.php:29
+msgid "Newest"
+msgstr "Date"
+
+#: public/partials/template/default/partials/part-content-map.php:30
+msgid "Oldest"
+msgstr "Le plus ancien"
+
+#: public/partials/template/default/partials/mwp-loop-property-list.php:6
+msgid "Just Listed"
+msgstr "Juste Listed"
+
+#: public/partials/template/default/partials/agent.php:15
+msgid "Click to Email"
+msgstr "Cliquez pour envoyer par courriel"
+
+#: public/partials/template/default/partials/agent.php:17
+msgid "Work Phone"
+msgstr "Téléphone de travail"
+
+#: public/partials/template/default/partials/agent.php:18
+msgid "Mobile Phone"
+msgstr "Téléphone portable"
+
+#: public/partials/template/default/partials/agent.php:23
+msgid "Connect With Us"
+msgstr "Connecte-toi avec nous"
+
+#: public/partials/template/default/hji/listing-information.php:50
+msgid "Tour Guide Video"
+msgstr "Guide Tour Vidéo"

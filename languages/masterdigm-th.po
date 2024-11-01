@@ -1,0 +1,2407 @@
+# Copyright (C) 2014 Masterdigm
+# This file is distributed under the same license as the Masterdigm Package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Masterdigm v1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-02 22:33+0800\n"
+"PO-Revision-Date: 2016-02-02 23:29+0800\n"
+"Last-Translator: Allan <allan.paul.casilum@gmail.com>\n"
+"Language-Team: Masterdigm <support@masterdigm.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: pre-install.php:82
+msgid ""
+"Folder wp-content/uploads doesn't exists, please create and make it writeable"
+msgstr "โฟลเดอร์ wp-content  อัปโหลดไม่อยู่โปรดสร้างและทำให้มันเขียนได้\t"
+
+#: pre-install.php:97
+msgid ""
+"Thank you for installing Masterdigm API, to use and obtain a KEY, please "
+"click right link"
+msgstr "ขอบคุณสำหรับการติดตั้ง Masterdigm API ในการใช้และได้รับกุญแจโปรดคลิกที่ลิงค์ด้านขวา\t"
+
+#: pre-install.php:99
+msgid "Plugin Dashboard page"
+msgstr "หน้าแดชบอร์ดปลั๊กอิน\t"
+
+#: config.php:104
+msgid "Property Details"
+msgstr "รายละเอียดทรัพย์สิน\t"
+
+#: config.php:105
+msgid "Map and Directions"
+msgstr "แผนที่และเส้นทาง\t"
+
+#: config.php:106
+msgid "School and Information"
+msgstr "โรงเรียนและข้อมูล\t"
+
+#: config.php:107
+msgid "Walk Score"
+msgstr "คะแนน Walk\t"
+
+#: config.php:108
+msgid "Photos"
+msgstr "ภาพถ่าย\t"
+
+#: config.php:109
+msgid "Video"
+msgstr "วีดีโอ"
+
+#: config.php:110
+msgid "School"
+msgstr "โรงเรียน"
+
+#: config.php:111 config.php:121 includes/md-query.php:93
+#: components/pdf/class-pdf.php:77
+#: components/savesearch/class-save-search.php:111
+#: public/templates/crm/template/single/single-property-more-details.php:21
+#: public/templates/mls/template/single/single-property-more-details.php:14
+msgid "Price"
+msgstr "ราคา"
+
+#: config.php:112 components/savesearch/class-save-search.php:149
+msgid "Baths"
+msgstr "ห้องอาบน้ำ\t"
+
+#: config.php:113
+msgid "Beds"
+msgstr "เตียง"
+
+#: config.php:114 components/pdf/class-pdf.php:88
+#: public/templates/crm/template/single/single-property-more-details.php:36
+#: public/templates/mls/template/single/single-property-more-details.php:16
+#: public/templates/mls/template/single/single-property-more-details.php:76
+msgid "Year Built"
+msgstr "ปีที่สร้าง\t"
+
+#: config.php:116
+msgid "Find your Home"
+msgstr "ค้นหาบ้านของคุณ\t"
+
+#: config.php:117
+msgid "Garage"
+msgstr "โรงรถ"
+
+#: config.php:118
+msgid "Next"
+msgstr "ถัดไป\t"
+
+#: config.php:119
+msgid "Previous"
+msgstr "ก่อนหน้า\t"
+
+#: config.php:120
+msgid "Property Code"
+msgstr "รหัสทรัพย์สิน\t"
+
+#: config.php:122
+msgid "Min Price"
+msgstr "ราคาต่ำสุด\t"
+
+#: config.php:123
+msgid "Max Price"
+msgstr "ราคาสูงสุด"
+
+#: config.php:124 admin/components/shortcodes/view/list-properties.php:43
+#: admin/components/shortcodes/view/flexmls-list-properties.php:44
+#: public/templates/crm/template/single/single-property-more-details.php:6
+msgid "Type"
+msgstr "ประเภท"
+
+#: config.php:125
+msgid "Any Bed"
+msgstr "ที่พักใด ๆ"
+
+#: config.php:126
+msgid "Any Bath"
+msgstr "อาบน้ำใด ๆ"
+
+#: config.php:127
+msgid "Enter Location here"
+msgstr "ใส่ที่อยู่ที่นี่"
+
+#: config.php:128
+msgid "Type any Keyword here"
+msgstr "พิมพ์คำใด ๆ ที่นี่"
+
+#: config.php:129
+msgid "Search"
+msgstr "ค้นหา"
+
+#: config.php:130
+msgid "More Search Options"
+msgstr "ตัวเลือกเพิ่มเติมในการค้นหา"
+
+#: config.php:131
+msgid "Min Floor Area"
+msgstr "มินชั้นพื้นที่"
+
+#: config.php:132
+msgid "Min Lot Area"
+msgstr "นาทีบริเวณลาน"
+
+#: config.php:133
+#: public/templates/mls/template/single/single-property-more-details.php:13
+msgid "Lot Area"
+msgstr "บริเวณลาน"
+
+#: config.php:134
+msgid "Floor Area"
+msgstr "พื้นที่ชั้น"
+
+#: enfold-function.php:40 includes/md-functions.php:107
+msgid "Homes for Sale And Rent in"
+msgstr "บ้านสำหรับขายและให้เช่าใน"
+
+#: includes/md-search-form.php:355
+#: admin/components/shortcodes/view/list-properties.php:49
+#: admin/components/shortcodes/view/flexmls-list-properties.php:50
+#: admin/components/shortcodes/view/mls-list-properties.php:49
+#: public/templates/searchform/search-form-v2.php:20
+#: public/templates/searchform/search-form-v4.php:21
+#: public/templates/searchform/search-form-v3.php:20
+msgid "For Sale"
+msgstr "สำหรับขาย"
+
+#: includes/md-search-form.php:392
+#: admin/components/shortcodes/view/list-properties.php:50
+#: admin/components/shortcodes/view/flexmls-list-properties.php:51
+#: public/templates/searchform/search-form-v2.php:25
+#: public/templates/searchform/search-form-v4.php:26
+#: public/templates/searchform/search-form-v3.php:25
+msgid "For Rent"
+msgstr "สำหรับเช่า"
+
+#: includes/md-query.php:88
+msgid "Call for pricing"
+msgstr "สอบถามราคา"
+
+#: includes/md-search-result.php:79
+msgid "Show Map Full Screen"
+msgstr "แสดงแผนที่แบบเต็มหน้าจอ"
+
+#: includes/md-search-result.php:85
+msgid "Show normal map screen"
+msgstr "แสดงหน้าจอแผนที่ปกติ"
+
+#: includes/md-search-result.php:97
+msgid "Map View"
+msgstr "ดูแผนที่"
+
+#: includes/md-search-result.php:99
+msgid "Photo View"
+msgstr "photo ดู"
+
+#: includes/md-single.php:110
+msgid "Homes for Sale"
+msgstr "บ้านสำหรับขาย"
+
+#: admin/class-masterdigm-api-admin.php:110
+msgid ""
+"Warning! Do not interrupt, Updating / Creating page by location now, please "
+"wait"
+msgstr "คำเตือน! อย่าขัดขวางการปรับปรุง / การสร้างหน้าตามสถานที่ในขณะนี้โปรดรอสักครู่"
+
+#: admin/components/propertyalert/class-admin-property-alert.php:49
+#: admin/components/propertyalert/class-admin-property-alert.php:50
+msgid "Property Alert API"
+msgstr "การแจ้งเตือนทรัพย์สิน API"
+
+#: admin/components/propertyalert/view/index_page.php:5
+msgid "Property Alert Settings"
+msgstr "การตั้งค่าการแจ้งเตือนทรัพย์สิน"
+
+#: admin/components/propertyalert/view/index_page.php:19
+msgid "Add Message for successfully un-subscribe"
+msgstr "เพิ่มข้อความสำหรับการประสบความสำเร็จในการยกเลิกการจองซื้อ"
+
+#: admin/components/propertyalert/view/index_page.php:24
+msgid "Add Message for fail un-subscribe"
+msgstr "เพิ่มข้อความสำหรับการล้มเหลวในการยกเลิกการสมัคร"
+
+#: admin/components/propertyalert/view/index_page.php:27
+#: admin/components/subscribeapi/view/credentials_form.php:54
+#: admin/components/socialapi/view/add.php:33
+#: admin/components/credentials/view/tab-crm.php:52
+#: admin/components/settings/view/index.php:177
+#: public/templates/account/partials/accessform.php:15
+#: public/templates/account/partials/profileform.php:26
+#: public/templates/account/partials/profileform.php:45
+#: public/templates/account/partials/save-search-list.php:24
+#: public/templates/account/partials/emailform.php:19
+msgid "Update"
+msgstr "ปรับปรุง"
+
+#: admin/components/subscribeapi/class-subscribe-api.php:224
+msgid "Please provide valid email address"
+msgstr "โปรดระบุที่อยู่อีเมลที่ถูกต้อง"
+
+#: admin/components/subscribeapi/class-subscribe-api.php:255
+msgid "Error in activation key"
+msgstr "ข้อผิดพลาดในการเปิดใช้งานที่สำคัญ"
+
+#: admin/components/subscribeapi/class-subscribe-api.php:278
+msgid "Error in masterdigm code activation "
+msgstr "ข้อผิดพลาดในการเปิดใช้งานรหัส masterdigm"
+
+#: admin/components/subscribeapi/view/credentials_form.php:17
+#: admin/components/credentials/view/tab-crm.php:11
+msgid "Choose property status"
+msgstr "เลือกสถานะทรัพย์สิน"
+
+#: admin/components/subscribeapi/view/credentials_form.php:24
+msgid "Choose property status to finish installation"
+msgstr "เลือกสถานะทรัพย์สินที่จะเสร็จสิ้นการติดตั้ง"
+
+#: admin/components/subscribeapi/view/credentials_form.php:29
+#: admin/components/credentials/view/tab-crm.php:23
+msgid "Property Data Feed"
+msgstr "ฟีดข้อมูลทรัพย์สิน"
+
+#: admin/components/subscribeapi/view/credentials_form.php:32
+#: admin/components/credentials/view/tab-crm.php:26
+msgid "Select Data Feed"
+msgstr "เลือกฟีดข้อมูล"
+
+#: admin/components/subscribeapi/view/index.php:22
+#: admin/components/wizard/view/step-one.php:2
+msgid "Welcome to"
+msgstr "ยินดีต้อนรับสู่"
+
+#: admin/components/subscribeapi/view/index.php:45
+msgid "Activate Code"
+msgstr "เปิดใช้งานรหัส"
+
+#: admin/components/subscribeapi/view/index.php:51
+msgid "The simple and powerful real estate plugin"
+msgstr "ปลั๊กอินอสังหาริมทรัพย์ง่ายและมีประสิทธิภาพ"
+
+#: admin/components/subscribeapi/view/index.php:53
+msgid ""
+"Masterdigm Wordpress plugin is unlike other simple WP plugins.  Within "
+"minutes you will see demo properties on your site!   Easy to use, packed "
+"with features and awesome plugin support.  Start today and see the "
+"Masterdigm WP Plugin difference.  We respect your privacy and can opt-out "
+"anytime.   Simply add your email below.. we will send you a verification "
+"link and you are ready to go!"
+msgstr ""
+"ปลั๊กอิน Masterdigm Wordpress เป็นเหมือนที่อื่นปลั๊กอิน WP ง่าย "
+"ภายในไม่กี่นาทีคุณจะเห็นการสาธิตคุณสมบัติในเว็บไซต์ของคุณ "
+"ง่ายต่อการใช้เต็มไปด้วยคุณสมบัติและการสนับสนุนปลั๊กอินที่น่ากลัว เริ่มต้นวันนี้และเห็นความแตกต่าง "
+"Masterdigm WP ปลั๊กอิน เราเคารพในความเป็นส่วนตัวของคุณและสามารถเลือกได้ตลอดเวลา "
+"เพียงแค่เพิ่มอีเมลของคุณด้านล่าง .. เราจะส่งลิงก์ยืนยันและคุณพร้อมที่จะไป!"
+
+#: admin/components/subscribeapi/view/index.php:58
+#: components/inquireform/class-inquire.php:105
+#: components/pdf/class-pdf.php:107
+msgid "Email"
+msgstr "อีเมล์"
+
+#: admin/components/subscribeapi/view/index.php:62
+msgid ""
+"please provide email, or change email address, this will be use to signup an "
+"account in masterdigm"
+msgstr "โปรดให้อีเมลหรือเปลี่ยนที่อยู่อีเมลนี้จะถูกใช้ในการลงทะเบียนบัญชีใน masterdigm"
+
+#: admin/components/subscribeapi/view/index.php:67
+msgid "Company"
+msgstr "บริษัท"
+
+#: admin/components/subscribeapi/view/index.php:71
+#: components/signupform/view/form.php:12
+#: public/templates/account/partials/accessform.php:4
+#: public/templates/account/partials/profileform.php:10
+#: public/templates/account/partials/profileform.php:11
+#: public/templates/account/partials/emailform.php:8
+msgid "First Name"
+msgstr "ชื่อจริง"
+
+#: admin/components/subscribeapi/view/index.php:75
+#: components/signupform/view/form.php:15
+#: public/templates/account/partials/accessform.php:7
+#: public/templates/account/partials/profileform.php:14
+#: public/templates/account/partials/profileform.php:15
+#: public/templates/account/partials/emailform.php:11
+msgid "Last Name"
+msgstr "นามสกุล"
+
+#: admin/components/subscribeapi/view/index.php:82
+msgid "Subscribe"
+msgstr "สมัครสมาชิก"
+
+#: admin/components/subscribeapi/view/index.php:85
+msgid ""
+"Important! Username and password will be sent to you're email address you "
+"provide, please check your email inbox or in spam"
+msgstr ""
+"สำคัญ! "
+"ชื่อผู้ใช้และรหัสผ่านจะถูกส่งไปยังที่อยู่อีเมลของคุณกำลังคุณให้โปรดตรวจสอบกล่องจดหมายของคุณหรือสแปม"
+
+#: admin/components/subscribeapi/view/index.php:90
+msgid "Or if you already have API keys, fill up the fields below"
+msgstr "หรือถ้าคุณมีคีย์ API เติมเขตที่อยู่ด้านล่าง"
+
+#: admin/components/subscribeapi/view/index.php:93
+msgid ""
+"To complete your installation, you need to choose default property status "
+"( found in CRM > Tools and Setting > Manage Property Status Field )"
+msgstr ""
+"เพื่อทำการติดตั้งของคุณคุณต้องเลือกสถานะทรัพย์สินเริ่มต้น (ที่พบใน CRM> เครื่องมือและการตั้งค่า> "
+"จัดการสนามสถานะทรัพย์สิน)"
+
+#: admin/components/mailcontent/view/index.php:2
+msgid "Mail Content"
+msgstr "เนื้อหาจดหมาย"
+
+#: admin/components/mailcontent/view/index.php:4
+msgid ""
+"The email content below is the email the user receives upon subscribing.  Be "
+"sure to include the string variable, e.g., %username% and %password% so they "
+"will receive their log in credentials."
+msgstr ""
+"เนื้อหาอีเมลด้านล่างคืออีเมลที่ผู้ใช้จะได้รับเมื่อสมัครเป็นสมาชิก ให้แน่ใจว่าจะรวมถึงตัวแปรสตริงเช่น% "
+"ชื่อผู้ใช้และรหัสผ่าน%%% ดังนั้นพวกเขาจะได้รับการเข้าสู่ระบบของพวกเขาในข้อมูลประจำตัว"
+
+#: admin/components/mailcontent/view/index.php:7
+msgid "Use the below string variables to create your email below."
+msgstr "ใช้ตัวแปรสตริงด้านล่างเพื่อสร้างอีเมลของคุณด้านล่าง"
+
+#: admin/components/socialapi/class-social-api.php:52
+#: admin/components/socialapi/class-social-api.php:53
+msgid "Social API"
+msgstr "API สังคม"
+
+#: admin/components/socialapi/view/add.php:5
+msgid "Provide social api credentials."
+msgstr "ข้อมูลประจำตัว API สังคม"
+
+#: admin/components/socialapi/view/add.php:25
+msgid "Link to create facebook app"
+msgstr "การเชื่อมโยงในการสร้าง Facebook App"
+
+#: admin/components/wizard/class-wizard.php:46
+msgid ""
+"Folder wp-content/uploads doesn't exists, please create and make it writable"
+msgstr "โฟลเดอร์ wp-content / อัปโหลดไม่อยู่โปรดสร้างและทำให้มันสามารถเขียนได้"
+
+#: admin/components/wizard/class-wizard.php:51
+msgid "The permalinks, need to set up so the url will work in property pages"
+msgstr "Permalinks จำเป็นต้องตั้งค่าเพื่อ URL จะทำงานในหน้าคุณสมบัติ"
+
+#: admin/components/wizard/class-wizard.php:57
+msgid " page already exists, please check or rename the page title and the url"
+msgstr "หน้าอยู่แล้วโปรดตรวจสอบหรือเปลี่ยนชื่อชื่อหน้าและ URL ดังกล่าว"
+
+#: admin/components/wizard/view/step-one.php:4
+msgid "Thank you for choosing Masterdigm CRM as your property solutions"
+msgstr "ขอขอบคุณที่เลือก Masterdigm โซลูชั่น CRM เป็นทรัพย์สินของคุณ"
+
+#: admin/components/wizard/view/step-one.php:7
+msgid ""
+"Before signing-up for API Keys, we would like you to check on these issues "
+"below and please fix them :"
+msgstr ""
+"ก่อนที่จะลงทะเบียนสำหรับ API "
+"คีย์ที่เราอยากให้คุณตรวจสอบในประเด็นเหล่านี้ด้านล่างและโปรดแก้ไขพวกเขา:\t"
+
+#: admin/components/wizard/view/step-one.php:12
+msgid "The upload folder is needed so the cache can put data in there"
+msgstr "โฟลเดอร์อัปโหลดเป็นสิ่งจำเป็นเพื่อให้แคชสามารถใส่ข้อมูลในการมี\t"
+
+#: admin/components/wizard/view/step-one.php:19
+msgid "The permalinks, need to setup so the url will work in property pages"
+msgstr "Permalinks จำเป็นต้องตั้งค่าเพื่อ URL จะทำงานในหน้าคุณสมบัติ\t"
+
+#: admin/components/wizard/view/step-one.php:26
+msgid ""
+"Those pages are needed to display property data from CRM, those hold as "
+"placeholder and contain shortcodes"
+msgstr "หน้าเว็บเหล่านั้นมีความจำเป็นในการแสดงข้อมูลทรัพย์สินจาก CRM ผู้ถือเป็นตัวยึดและมีรหัสย่อ\t"
+
+#: admin/components/wizard/view/step-one.php:30
+msgid "Refresh"
+msgstr "รีเฟรช"
+
+#: admin/components/template/view/index.php:1
+msgid "Template settings"
+msgstr "การตั้งค่าแม่"
+
+#: admin/components/template/view/index.php:3
+msgid "Display Bed"
+msgstr "จอแสดงผลที่พัก"
+
+#: admin/components/template/view/index.php:5
+#: admin/components/template/view/index.php:11
+#: admin/components/template/view/index.php:17
+#: admin/components/settings/class-settings.php:205
+#: admin/components/settings/class-settings.php:211
+#: admin/components/settings/class-settings.php:218
+msgid "Yes"
+msgstr "ใช่"
+
+#: admin/components/template/view/index.php:6
+#: admin/components/template/view/index.php:12
+#: admin/components/template/view/index.php:18
+#: admin/components/settings/class-settings.php:204
+#: admin/components/settings/class-settings.php:212
+#: admin/components/settings/class-settings.php:219
+msgid "No"
+msgstr "ไม่มี"
+
+#: admin/components/template/view/index.php:9
+msgid "Display Bath"
+msgstr "อาบน้ำจอแสดงผล"
+
+#: admin/components/template/view/index.php:15
+msgid "Display Garage"
+msgstr "จอแสดงผลโรงรถ"
+
+#: admin/components/credentials/class-credentials.php:64
+msgid "Please provide property CRM api token / key"
+msgstr "โปรดระบุคุณสมบัติ API CRM โทเค็น / คีย์"
+
+#: admin/components/credentials/class-credentials.php:71
+msgid "You must have a CRM API key"
+msgstr "คุณต้องมีคีย์ CRM API"
+
+#: admin/components/credentials/class-credentials.php:80
+msgid "Please provide API credentials"
+msgstr "โปรดให้ข้อมูลประจำตัว API"
+
+#: admin/components/credentials/class-credentials.php:89
+msgid "Please choose data to feed"
+msgstr "โปรดเลือกข้อมูลที่จะเลี้ยง"
+
+#: admin/components/credentials/class-credentials.php:105
+msgid "Error in API key / token"
+msgstr "ข้อผิดพลาดในคีย์ API / โทเค็น"
+
+#: admin/components/credentials/view/tab-first.php:3
+msgid "Hello"
+msgstr "สวัสดี"
+
+#: admin/components/credentials/view/tab-first.php:5
+msgid ""
+"Welcome to Masterdigm!  A full Real Estate plugin highly integrated with "
+"Masterdigm real estate CRM!"
+msgstr ""
+"ยินดีต้อนรับสู่ Masterdigm! จริงอสังหาริมทรัพย์เต็มรูปแบบปลั๊กอินอย่างบูรณาการกับทรัพย์ "
+"Masterdigm จริง CRM!\t"
+
+#: admin/components/credentials/view/tab-first.php:7
+msgid ""
+"You will notice several tabs above, i.e., CRM, Webinars, etc.. That will "
+"guide you through the Masterdigm processes."
+msgstr ""
+"คุณจะสังเกตเห็นหลายแท็บด้านบนคือ, CRM, การสัมมนาผ่านเว็บ ฯลฯ .. "
+"ที่จะแนะนำคุณผ่านกระบวนการ Masterdigm\t"
+
+#: admin/components/credentials/view/tab-first.php:9
+msgid ""
+"We want to see you succeed as a Broker, Agent or Web Development Team!  "
+"Therefore, we have a \"support\" tab to connect with us to ensure your "
+"success!"
+msgstr ""
+"เราต้องการที่จะเห็นคุณประสบความสำเร็จเป็นนายหน้าตัวแทนหรือทีมงานพัฒนาเว็บ! ดังนั้นเราจึงมี  "
+"แท็บ \"การสนับสนุน \" เพื่อเชื่อมต่อกับเราเพื่อความสำเร็จของคุณ!"
+
+#: admin/components/credentials/view/tab-first.php:11
+msgid "Cheers, and we look forward to hearing from you."
+msgstr "ไชโยและเราหวังว่าจะได้ยินจากคุณ"
+
+#: admin/components/credentials/view/tab-first.php:16
+msgid "Plugin is fully setup"
+msgstr "ปลั๊กอินคือการติดตั้งอย่างเต็มที่"
+
+#: admin/components/credentials/view/tab-first.php:18
+msgid "Setup Mail"
+msgstr "การตั้งค่าจดหมาย"
+
+#: admin/components/credentials/view/tab-first.php:19
+msgid "Setup mail settings to update subscription content"
+msgstr "การตั้งค่าอีเมลการติดตั้งเพื่อปรับปรุงเนื้อหาการสมัครสมาชิก"
+
+#: admin/components/credentials/view/tab-first.php:21
+msgid "Setup Lead"
+msgstr "การตั้งค่าตะกั่ว"
+
+#: admin/components/credentials/view/tab-first.php:22
+msgid "Setup lead status and type"
+msgstr "สถานะการติดตั้งและนำประเภท"
+
+#: admin/components/credentials/view/tab-first.php:24
+msgid "See Properties"
+msgstr "ดูคุณสมบัติ"
+
+#: admin/components/credentials/view/tab-first.php:28
+msgid "Click to see properties!"
+msgstr "คลิกเพื่อดูคุณสมบัติ!"
+
+#: admin/components/credentials/view/tab-first.php:33
+msgid "Watch this video first!"
+msgstr "ดูวิดีโอนี้เป็นครั้งแรก!"
+
+#: admin/components/credentials/view/tab-first.php:44
+msgid ""
+"PLEASE NOTE | CAUTION: Do not delete the following pages OR the Masterdigm "
+"plugin will not work!"
+msgstr "โปรดทราบ | ข้อควรระวัง: อย่าลบหน้าต่อไปหรือปลั๊กอิน Masterdigm จะไม่ทำงาน!"
+
+#: admin/components/credentials/view/tab-first.php:46
+msgid "Property - display the single or full details of property."
+msgstr "อสังหาริมทรัพย์ - แสดงรายละเอียดเดียวหรือเต็มรูปแบบของสถ​​านที่ให้บริการ"
+
+#: admin/components/credentials/view/tab-first.php:47
+msgid "Search Properties - Display the result of the searched properties"
+msgstr "คุณสมบัติการค้นหา - จอแสดงผลของคุณสมบัติการสืบค้นที่"
+
+#: admin/components/credentials/view/tab-first.php:48
+msgid "City - Display list of properties base in City"
+msgstr "ซิตี - แสดงรายการของฐานคุณสมบัติในเมือง"
+
+#: admin/components/credentials/view/tab-first.php:49
+msgid "State - Display list of properties base in State"
+msgstr "รัฐ - แสดงรายการของฐานคุณสมบัติในรัฐ"
+
+#: admin/components/credentials/view/tab-first.php:50
+msgid "Community - Display list of properties base in Community"
+msgstr "ชุมชน - การแสดงรายการฐานคุณสมบัติในชุมชน"
+
+#: admin/components/credentials/view/tab-first.php:51
+msgid "County - Display list of properties base in County"
+msgstr "เคาน์ตี้ - รายการจอแสดงผลของฐานคุณสมบัติในเคาน์ตี้"
+
+#: admin/components/credentials/view/tab-first.php:56
+msgid "And you want to know more of our plugin and CRM?"
+msgstr "และคุณต้องการทราบข้อมูลเพิ่มเติมของปลั๊กอินและ CRM ของเราหรือไม่"
+
+#: admin/components/credentials/view/tab-first.php:57
+msgid ""
+"Want to discuss anything else? We offer a free 30 minute Gotomeeting screen-"
+"share where we go into answering questions you may have."
+msgstr ""
+"ต้องการที่จะหารือเกี่ยวกับอะไรอีกหรือไม่ เรามี 30 นาที GoToMeeting หน้าจอแบ่งปันฟรีที่เราไปสู่​​"
+"การตอบคำถามที่คุณอาจมี"
+
+#: admin/components/credentials/view/notice.php:3
+msgid "It seems you have no CRM API Key, please "
+msgstr "ดูเหมือนว่าคุณไม่มีคีย์ CRM API โปรด"
+
+#: admin/components/credentials/view/notice.php:4
+msgid "click here to get api key"
+msgstr "คลิกที่นี่เพื่อรับคีย์ API"
+
+#: admin/components/credentials/view/tab-webinar.php:2
+msgid "Want to join into a webinar?"
+msgstr "ต้องการเข้าร่วมการสัมมนาทางเว็บเข้าหรือไม่?"
+
+#: admin/components/credentials/view/tab-webinar.php:3
+msgid "Sign up and become a VIP Masterdigmer!"
+msgstr "เข้าสู่ระบบขึ้นและกลายเป็นวีไอพี Masterdigmer!"
+
+#: admin/components/credentials/view/index.php:2
+msgid "Welcome to "
+msgstr "ยินดีต้อนรับสู่"
+
+#: admin/components/credentials/view/tab-crm.php:18
+msgid "choose property status to finish installation"
+msgstr "เลือกสถานะทรัพย์สินที่จะเสร็จสิ้นการติดตั้ง"
+
+#: admin/components/credentials/view/tab-crm.php:33
+msgid ""
+"Search Property, Choose which default data to get properties feed, mostly "
+"the default is CRM ( unless masterdigm setup a MLS data on your account )"
+msgstr ""
+"ค้นหาทรัพย์สิน, เลือกข้อมูลเริ่มต้นที่จะได้รับคุณสมบัติอาหารส่วนใหญ่เริ่มต้นคือ CRM (ยกเว้นกรณีที่ติดตั้ง "
+"masterdigm ข้อมูล MLS ในบัญชีของคุณ)"
+
+#: admin/components/credentials/view/tab-connect-with-us.php:4
+msgid "Are you a Real Estate Brokerage?"
+msgstr "คุณเป็นนายหน้าอสังหาริมทรัพย์?"
+
+#: admin/components/credentials/view/tab-connect-with-us.php:6
+msgid ""
+"If you are a Real Estate Brokerage, we look forward to training you on the "
+"ins-and-outs on utilizing the CRM in conjunction with the Wordpress plugin.  "
+"Start here to learn the Level 1, Level 2, etc.. of managing real estate "
+"leads effectively!"
+msgstr ""
+"ถ้าคุณเป็นนายหน้าซื้อขายอสังหาริมทรัพย์จริงเราหวังว่าจะมีการฝึกอบรมใน ins ลึกหนาบางในการใช้ "
+"CRM ร่วมกับเวิร์ดเพรสปลั๊กอิน เริ่มต้นที่นี่เพื่อเรียนรู้ระดับ 1 ระดับ 2 ฯลฯ .. "
+"การจัดการอสังหาริมทรัพย์นำไปสู่​​การได้อย่างมีประสิทธิภาพ!"
+
+#: admin/components/credentials/view/tab-connect-with-us.php:11
+msgid "Are you an Independent Agent?"
+msgstr "คุณเป็นตัวแทนอิสระ?"
+
+#: admin/components/credentials/view/tab-connect-with-us.php:13
+msgid "If you are an Agent, and are part of a real estate brokerage,"
+msgstr "หากคุณเป็นตัวแทนและเป็นส่วนหนึ่งของการเป็นนายหน้าซื้อขายอสังหาริมทรัพย์"
+
+#: admin/components/credentials/view/tab-connect-with-us.php:14
+msgid "start here"
+msgstr "เริ่มที่นี่"
+
+#: admin/components/credentials/view/tab-connect-with-us.php:22
+msgid "Are you a proffesional website development team?"
+msgstr "คุณเป็นทีมพัฒนาเว็บไซต์ proffesional?"
+
+#: admin/components/credentials/view/tab-connect-with-us.php:24
+msgid ""
+"First of all, we look forward to working with you!  Your clients are always "
+"your clients.  Be part our affiliate program where you can receive a monthly "
+"recurring billing!  Just stay active with us, and receive 5,10,15% monthly "
+"revenues based on your clients CRM usage!"
+msgstr ""
+"ครั้งแรกของทั้งหมดที่เรามุ่งหวังที่จะทำงานร่วมกับคุณ! ลูกค้าของคุณอยู่เสมอลูกค้าของคุณ "
+"เป็นส่วนหนึ่งโปรแกรมพันธมิตรของเราที่คุณสามารถได้รับการเรียกเก็บเงินรายเดือนที่เกิดขึ้น! "
+"เพียงแค่พักการใช้งานกับเราและได้รับรายได้รายเดือน 5,10,15% ตามการใช้งาน CRM ลูกค้าของคุณ!"
+
+#: admin/components/credentials/view/tab-connect-with-us.php:25
+msgid "Learn more here!"
+msgstr "เรียนรู้เพิ่มเติมได้ที่นี่!"
+
+#: admin/components/credentials/view/tab-connect-with-us.php:29
+msgid "Social Links"
+msgstr "ลิงก์สังคม"
+
+#: admin/components/credentials/view/tab-support.php:5
+msgid "Stuck?  Have an issue with Masterdigm or its premium plugins?"
+msgstr "ติดอยู่? มีปัญหากับ Masterdigm หรือปลั๊กอินพรีเมี่ยมอยู่แล้ว?\t"
+
+#: admin/components/credentials/view/tab-support.php:6
+msgid "Click here and you will be redirected to our FAQ page."
+msgstr "คลิกที่นี่และคุณจะถูกเปลี่ยนเส้นทางไปยังหน้า FAQ ของเรา"
+
+#: admin/components/credentials/view/tab-support.php:9
+msgid "Any other issues?"
+msgstr "ประเด็นอื่น ๆ ?"
+
+#: admin/components/credentials/view/tab-support.php:10
+msgid "You have many other ways to connect with us."
+msgstr "คุณมีวิธีการอื่น ๆ อีกมากมายที่จะเชื่อมต่อกับเรา"
+
+#: admin/components/credentials/view/tab-support.php:11
+msgid "Zopim live chat within the CRM"
+msgstr "แชทสด Zopim ภายในใช้ CRM"
+
+#: admin/components/credentials/view/tab-support.php:12
+msgid "Vcita: on our home page.. Set up a meeting"
+msgstr "Vcita ที่หน้าบ้านของเรา .. ตั้งค่าการประชุม"
+
+#: admin/components/credentials/view/tab-support.php:13
+msgid "Support tab inside the CRM."
+msgstr "แท็บการสนับสนุนภายในใช้ CRM"
+
+#: admin/components/credentials/view/notice-welcome.php:1
+msgid ""
+"An All-in-One Real Estate Plugin Solution for Brokerages and Agents "
+"Integrated with a High Powered Real Estate CRM Solution."
+msgstr ""
+"An All-in-One อสังหาริมทรัพย์โซลูชั่นปลั๊กอินสำหรับบำเหน็จและตัวแทนแบบบูรณาการด้วยโซลูชั่น CRM "
+"อสังหาริมทรัพย์กำลังสูง"
+
+#: admin/components/credentials/view/tab-getting-started.php:2
+msgid "Step 1"
+msgstr "ขั้นตอนที่ 1"
+
+#: admin/components/credentials/view/tab-getting-started.php:6
+msgid "Step 2"
+msgstr "ขั้นตอนที่ 2"
+
+#: admin/components/credentials/view/tab-getting-started.php:10
+msgid "Step 3"
+msgstr "ขั้นตอนที่ 3"
+
+#: admin/components/tagcontent/class-tag-content.php:60
+#: admin/components/tagcontent/class-tag-content.php:61
+#: admin/components/tagcontent/view/list.php:6
+msgid "Tag Content"
+msgstr "เนื้อหาแท็ก"
+
+#: admin/components/tagcontent/class-tag-content.php:88
+#: admin/components/tagcontent/class-tag-content.php:111
+msgid "Please provide property or location data"
+msgstr "โปรดให้ทรัพย์สินหรือที่ตั้งของข้อมูล"
+
+#: admin/components/tagcontent/class-tag-content.php:167
+#: admin/components/tagcontent/class-tag-content.php:210
+msgid "Single property ( provide URL )"
+msgstr "คุณสมบัติเดียว (ให้ URL)"
+
+#: admin/components/tagcontent/class-tag-content.php:168
+#: admin/components/tagcontent/class-tag-content.php:211
+msgid "State ( provide ID or state name)"
+msgstr "รัฐ (ระบุรหัสหรือชื่อรัฐ)"
+
+#: admin/components/tagcontent/class-tag-content.php:169
+#: admin/components/tagcontent/class-tag-content.php:212
+msgid "City ( provide ID or city name)"
+msgstr "ซิตี้ (ให้ประชาชนหรือชื่อเมือง)"
+
+#: admin/components/tagcontent/class-tag-content.php:170
+#: admin/components/tagcontent/class-tag-content.php:213
+msgid "Community ( provide ID or community name)"
+msgstr "ชุมชน (ให้ประชาชนหรือชื่อชุมชน)"
+
+#: admin/components/tagcontent/class-tag-content.php:182
+#: admin/components/tagcontent/class-tag-content.php:194
+#: admin/components/tagcontent/class-tag-content.php:224
+#: admin/components/tagcontent/class-tag-content.php:236
+msgid "Display Title only"
+msgstr "แสดงชื่อเฉพาะ"
+
+#: admin/components/tagcontent/class-tag-content.php:183
+#: admin/components/tagcontent/class-tag-content.php:195
+#: admin/components/tagcontent/class-tag-content.php:225
+#: admin/components/tagcontent/class-tag-content.php:237
+msgid "Display Title with Excerpt"
+msgstr "แสดงชื่อกับข้อความที่ตัดตอนมา"
+
+#: admin/components/tagcontent/class-tag-content.php:188
+#: admin/components/tagcontent/class-tag-content.php:230
+msgid "name"
+msgstr "ชื่อ"
+
+#: admin/components/tagcontent/class-tag-content.php:217
+#: admin/components/tagcontent/class-tag-content.php:411
+msgid "any"
+msgstr "ใด"
+
+#: admin/components/tagcontent/view/list.php:10
+msgid "Add New Tag Content"
+msgstr "เพิ่มเนื้อหาแท็กใหม่"
+
+#: admin/components/tagcontent/view/list.php:19
+msgid "Property Address / Location"
+msgstr "ทรัพย์สินที่อยู่ / สถานที่ตั้ง"
+
+#: admin/components/tagcontent/view/list.php:22
+msgid "Property / Location ( Name / ID )"
+msgstr "ที่ดิน / ที่ตั้ง (ชื่อ / ID)\t"
+
+#: admin/components/tagcontent/view/list.php:25
+msgid "Action"
+msgstr "การกระทำ\t"
+
+#: admin/components/tagcontent/view/list.php:41
+msgid "Edit"
+msgstr "แก้ไข"
+
+#: admin/components/tagcontent/view/list.php:42
+msgid "Delete"
+msgstr "การลบ\t"
+
+#: admin/components/tagcontent/view/add.php:5
+#: admin/components/tagcontent/view/edit.php:5
+msgid "Add new content to tag in property."
+msgstr "เพิ่มเนื้อหาใหม่เพื่อติดแท็กในทรัพย์สิน\t"
+
+#: admin/components/tagcontent/view/add.php:19
+#: admin/components/tagcontent/view/edit.php:19
+msgid ""
+"Choose what property you want to associate with content, single property / "
+"location (city, state or cummunity )"
+msgstr ""
+"เลือกสิ่งที่คุณสมบัติที่คุณต้องการที่จะเชื่อมโยงกับเนื้อหาคุณสมบัติเดียว / สถานที่ตั้ง (เมือง, รัฐหรือ "
+"cummunity)\t"
+
+#: admin/components/tagcontent/view/add.php:31
+#: admin/components/tagcontent/view/edit.php:31
+msgid ""
+"Provide URL if you choose single property, else ID or location name if you "
+"choose locations"
+msgstr "ระบุ URL ถ้าคุณเลือกที่คุณสมบัติเดียวอื่นประจำตัวประชาชนหรือชื่อสถานที่ถ้าคุณเลือกสถานที่\t"
+
+#: admin/components/tagcontent/view/add.php:35
+#: admin/components/tagcontent/view/edit.php:35
+msgid ""
+"Choose which page to associate with the property, To select multiple "
+"content, hold down shift and choose any content"
+msgstr ""
+"เลือกหน้าเพื่อเชื่อมโยงกับสถานที่ให้บริการในการเลือกเนื้อหาหลาย Shift ค้างไว้และเลือกเนื้อหาใด ๆ"
+"\t"
+
+#: admin/components/tagcontent/view/add.php:49
+#: admin/components/tagcontent/view/edit.php:50
+msgid "Display featured image on the choosen content?"
+msgstr "จอแสดงผลที่โดดเด่นของภาพในเนื้อหาที่เลือกได้?\t"
+
+#: admin/components/tagcontent/view/add.php:54
+#: admin/components/tagcontent/view/edit.php:55
+msgid "Choose how to display the content list"
+msgstr "เลือกวิธีการแสดงรายการเนื้อหา\t"
+
+#: admin/components/tagcontent/view/add.php:65
+#: admin/components/tagcontent/view/edit.php:66
+msgid "Choose category to associate"
+msgstr "เลือกหมวดหมู่เพื่อเชื่อมโยง\t"
+
+#: admin/components/tagcontent/view/add.php:79
+#: admin/components/tagcontent/view/edit.php:81
+msgid "Display category, content featured image?"
+msgstr "ประเภทการแสดงผลเนื้อหาที่เข้าร่วมภาพ?\t"
+
+#: admin/components/tagcontent/view/add.php:84
+#: admin/components/tagcontent/view/edit.php:86
+msgid "Choose how to display the category content list"
+msgstr "เลือกวิธีการแสดงรายการหมวดหมู่เนื้อหา\t"
+
+#: admin/components/tagcontent/view/add.php:94
+msgid "Add Tag Content"
+msgstr "เพิ่มเนื้อหาแท็ก\t"
+
+#: admin/components/tagcontent/view/edit.php:96
+msgid "Update Tag Content"
+msgstr "ปรับปรุงเนื้อหาแท็ก\t"
+
+#: admin/components/createlocationpage/class-createlocationpage.php:45
+#: admin/components/createlocationpage/class-createlocationpage.php:46
+msgid "Create page base on location"
+msgstr "สร้างฐานหน้าสถานที่ตั้ง\t"
+
+#: admin/components/createlocationpage/class-createlocationpage.php:88
+msgid "It seems you have already create pages by location."
+msgstr "ดูเหมือนว่าคุณมีอยู่แล้วสร้างหน้าตามสถานที่\t"
+
+#: admin/components/createlocationpage/class-createlocationpage.php:89
+msgid ""
+"you can set status of the pages, If you want to update the pages re-run it "
+"and it will auto detect those locations you add in the CRM"
+msgstr ""
+"คุณสามารถตั้งค่าสถานะของหน้าถ้าคุณต้องการที่จะปรับปรุงหน้า re-run "
+"มันและมันจะอัตโนมัติตรวจสอบสถานที่เหล่านั้นที่คุณเพิ่มในใช้ CRM\t"
+
+#: admin/components/createlocationpage/class-createlocationpage.php:90
+msgid ""
+"You can also set status or delete it ( not the delete is force, it will not "
+"mark as trash ) it will remove those last pages you created ( check the date "
+"below \"last activity\" )"
+msgstr ""
+"นอกจากนี้คุณยังสามารถตั้งค่าสถานะหรือลบ (ไม่ลบเป็นแรงก​​็จะไม่ทำเครื่องหมายว่าถังขยะ) "
+"มันจะลบหน้าสุดท้ายที่คุณสร้างขึ้น (ตรวจสอบวันที่ด้านล่าง  \"ความเคลื่อนไหวล่าสุดเมื่อ \")\t"
+
+#: admin/components/createlocationpage/class-createlocationpage.php:91
+msgid "Update Page"
+msgstr "อัปเดตหน้า"
+
+#: admin/components/createlocationpage/class-createlocationpage.php:93
+msgid "Publish"
+msgstr "ประกาศ"
+
+#: admin/components/createlocationpage/class-createlocationpage.php:94
+msgid "Draft"
+msgstr "ร่าง"
+
+#: admin/components/createlocationpage/class-createlocationpage.php:95
+msgid "Trash"
+msgstr "ขยะ"
+
+#: admin/components/createlocationpage/view/add.php:5
+msgid "Create Page by Location."
+msgstr "สร้างหน้าสถานที่\t"
+
+#: admin/components/createlocationpage/view/add.php:10
+msgid "Last Activity"
+msgstr "ความเคลื่อนไหวล่าสุด\t"
+
+#: admin/components/createlocationpage/view/add.php:16
+msgid "Date"
+msgstr "วันที่\t"
+
+#: admin/components/createlocationpage/view/add.php:17
+msgid "Total Page created"
+msgstr "หน้ารวมสร้าง\t"
+
+#: admin/components/createlocationpage/view/add.php:22
+msgid "No last activity, create page now."
+msgstr "ไม่มีความเคลื่อนไหวล่าสุดเมื่อสร้างหน้าในขณะนี้\t"
+
+#: admin/components/shortcodes/class-crm-featured-properties.php:139
+msgid "Featured Properties"
+msgstr "คุณสมบัติที่โดดเด่น\t"
+
+#: admin/components/shortcodes/class-crm-featured-properties.php:149
+#: admin/components/shortcodes/view/list-properties.php:57
+#: admin/components/shortcodes/view/flexmls-list-properties.php:58
+#: admin/components/shortcodes/view/mls-list-properties.php:55
+msgid "Choose template to display"
+msgstr "เลือกแม่แบบในการแสดง\t"
+
+#: admin/components/shortcodes/class-crm-featured-properties.php:155
+#: admin/components/shortcodes/class-md-list-property-by.php:127
+#: admin/components/shortcodes/class-md-search-result.php:165
+#: admin/components/shortcodes/view/list-properties.php:58
+#: admin/components/shortcodes/view/flexmls-list-properties.php:59
+#: admin/components/shortcodes/view/mls-list-properties.php:56
+msgid "Set property per columns ( should be divided by 12 )"
+msgstr "ตั้งค่าคุณสมบัติต่อคอลัมน์ (ควรจะหารด้วย 12)\t"
+
+#: admin/components/shortcodes/class-crm-featured-properties.php:161
+msgid "How many to display (zero means all)"
+msgstr "หลายวิธีที่จะแสดง (ศูนย์หมายถึงทั้งหมด)\t"
+
+#: admin/components/shortcodes/class-crm-featured-properties.php:167
+msgid "Choose Transaction"
+msgstr "เลือกรายการที่เกี่ยวโยงกัน\t"
+
+#: admin/components/shortcodes/class-crm-list-properties.php:314
+#: admin/components/shortcodes/class-mls-list-properties.php:321
+msgid "List Properties"
+msgstr "คุณสมบัติของรายชื่อ\t"
+
+#: admin/components/shortcodes/class-crm-list-properties.php:320
+#: admin/components/shortcodes/class-flexmls-listings.php:226
+msgid "Insert Property by search criteria API"
+msgstr "ใส่คุณสมบัติตามเกณฑ์ของ API การค้นหา\t"
+
+#: admin/components/shortcodes/class-mls-list-property-by.php:49
+msgid "List Property By"
+msgstr "รายการทรัพย์สินโดย\t"
+
+#: admin/components/shortcodes/class-md-list-property-by.php:117
+msgid "List Property By Breadcrumb"
+msgstr "รายการทรัพย์สินโดยเกล็ดขนมปัง\t"
+
+#: admin/components/shortcodes/class-md-list-property-by.php:120
+msgid ""
+"Display properties base on breadcrumb url landing page or url filter by "
+"breadcrumb."
+msgstr ""
+"ฐานคุณสมบัติการแสดงผลบนหน้าแสดงเส้นทาง URL เชื่อมโยงไปถึงหรือตัวกรอง URL โดยเกล็ดขนมปัง\t"
+
+#: admin/components/shortcodes/class-md-list-property-by.php:134
+msgid ""
+"Show child location? If the location is state it will show list of city, if "
+"its city it will show list of communities"
+msgstr ""
+"แสดงตำแหน่งเด็ก? หากสถานที่เป็นรัฐก็จะแสดงรายชื่อของเมืองถ้าเมืองของมันจะแสดงรายการของชุมชน"
+"\t"
+
+#: admin/components/shortcodes/class-md-list-property-by.php:140
+#: admin/components/shortcodes/class-md-search-result.php:171
+#: admin/components/shortcodes/view/list-properties.php:55
+#: admin/components/shortcodes/view/flexmls-list-properties.php:56
+#: admin/components/shortcodes/view/mls-list-properties.php:53
+msgid ""
+"Show Infinite Scroll? this will show the scrolling ajax instead of tix \"how "
+"many display\""
+msgstr "แสดง Infinite เลื่อน? นี้จะแสดงอาแจ็กซ์เลื่อนแทน Tix \"วิธีการหลายจอแสดงผล \"\t"
+
+#: admin/components/shortcodes/class-mls-list-properties.php:327
+msgid "Insert Property by search criteria - MLS"
+msgstr "ใส่คุณสมบัติตามเกณฑ์การค้นหา - MLS\t"
+
+#: admin/components/shortcodes/class-mls-get-locations.php:158
+#: admin/components/shortcodes/class-crm-get-locations.php:157
+msgid "List Locations"
+msgstr "สถานที่รายการ\t"
+
+#: admin/components/shortcodes/class-mls-get-locations.php:164
+#: admin/components/shortcodes/class-crm-get-locations.php:163
+msgid "Insert locations"
+msgstr "สถานที่แทรก\t"
+
+#: admin/components/shortcodes/class-flexmls-listings.php:220
+msgid "Flexmls List Properties"
+msgstr "คุณสมบัติรายการ Flexmls"
+
+#: admin/components/shortcodes/class-md-single-property.php:122
+msgid "I would like to get more information regarding"
+msgstr "ฉันต้องการที่จะได้รับข้อมูลเพิ่มเติมเกี่ยวกับ\t"
+
+#: admin/components/shortcodes/class-md-single-property.php:210
+msgid "Single Property"
+msgstr "คุณสมบัติเดียว\t"
+
+#: admin/components/shortcodes/class-md-single-property.php:213
+msgid "Single Property page"
+msgstr "หน้าคุณสมบัติเดียว\t"
+
+#: admin/components/shortcodes/class-md-single-property.php:220
+msgid "Choose carousel gallery"
+msgstr "แกลเลอรี่เลือกม้าหมุน\t"
+
+#: admin/components/shortcodes/class-md-single-property.php:226
+#: admin/components/shortcodes/class-md-search-result.php:159
+msgid "Choose Template"
+msgstr "เลือกแม่แบบ\t"
+
+#: admin/components/shortcodes/class-md-single-property.php:232
+msgid "Show Nearby properties?"
+msgstr "แสดงคุณสมบัติใกล้เคียง?\t"
+
+#: admin/components/shortcodes/class-md-single-property.php:238
+msgid "Nearby Property, how many column to display ( should be divided by 12 )"
+msgstr "ทรัพย์สินที่อยู่ใกล้เคียงหลายวิธีที่จะแสดงคอลัมน์ (ควรจะหารด้วย 12)\t"
+
+#: admin/components/shortcodes/class-subscriber-shortcode.php:84
+msgid "Subscriber Dashboard"
+msgstr "แดชบอร์ดสมาชิก\t"
+
+#: admin/components/shortcodes/class-mls-single-property.php:49
+#: admin/components/shortcodes/class-crm-single-property.php:102
+msgid "Display Single Property"
+msgstr "แสดงเดี่ยวทรัพย์สิน\t"
+
+#: admin/components/shortcodes/class-mls-single-property.php:54
+#: admin/components/shortcodes/class-crm-single-property.php:107
+msgid "Property id"
+msgstr "รหัสทรัพย์สิน\t"
+
+#: admin/components/shortcodes/class-mls-lastupdate-property.php:60
+msgid "Last Update Property"
+msgstr "ปรับปรุงล่าสุดอสังหาริมทรัพย์\t"
+
+#: admin/components/shortcodes/class-crm-single-property.php:112
+msgid "Enter property id, for multiple id seperate it by comma (1,2,3)"
+msgstr "ป้อนรหัสทรัพย์สินสำหรับ ID หลายแยกมันด้วยเครื่องหมายจุลภาค (1,2,3)\t"
+
+#: admin/components/shortcodes/class-md-search-result.php:149
+#: admin/components/shortcodes/class-md-search-result.php:152
+msgid "Search Property Result"
+msgstr "ผลการค้นหาอสังหาริมทรัพย์\t"
+
+#: admin/components/shortcodes/class-crm-unsubscribe.php:69
+msgid "Unsubscribe Process"
+msgstr "กระบวนการยกเลิกการเป็นสมาชิก\t"
+
+#: admin/components/shortcodes/class-md-search-form.php:107
+#: admin/components/shortcodes/class-md-search-form.php:110
+msgid "Search Property Form"
+msgstr "ฟอร์มค้นหาทรัพย์สิน\t"
+
+#: admin/components/shortcodes/class-md-search-form.php:117
+msgid "Choose template UI"
+msgstr "เลือก UI แม่แบบ\t"
+
+#: admin/components/shortcodes/view/list-properties.php:32
+#: admin/components/shortcodes/view/mls-get-locations.php:33
+#: admin/components/shortcodes/view/flexmls-list-properties.php:33
+#: admin/components/shortcodes/view/mls-list-properties.php:32
+msgid "Type Location"
+msgstr "ประเภทสถานที่ตั้ง\t"
+
+#: admin/components/shortcodes/view/list-properties.php:38
+#: admin/components/shortcodes/view/flexmls-list-properties.php:39
+#: admin/components/shortcodes/view/mls-list-properties.php:38
+msgid "List by how many Bathrooms in property"
+msgstr "รายชื่อตามห้องน้ำหลายวิธีในทรัพย์สิน\t"
+
+#: admin/components/shortcodes/view/list-properties.php:39
+#: admin/components/shortcodes/view/flexmls-list-properties.php:40
+#: admin/components/shortcodes/view/mls-list-properties.php:39
+msgid "List by how many Bedrooms in property"
+msgstr "รายชื่อตามห้องนอนหลายวิธีในทรัพย์สิน\t"
+
+#: admin/components/shortcodes/view/list-properties.php:40
+#: admin/components/shortcodes/view/flexmls-list-properties.php:41
+#: admin/components/shortcodes/view/mls-list-properties.php:40
+msgid ""
+"List by minimum listprice in property (number format only, example: 123456)"
+msgstr "รายชื่อตาม listprice ขั้นต่ำในทรัพย์สิน (รูปแบบตัวเลขเท่านั้นเช่น: 123456)\t"
+
+#: admin/components/shortcodes/view/list-properties.php:41
+#: admin/components/shortcodes/view/flexmls-list-properties.php:42
+#: admin/components/shortcodes/view/mls-list-properties.php:41
+msgid ""
+"List by maximum listprice in property (number format only, example: 123456)"
+msgstr "รายชื่อตาม listprice สูงสุดในทรัพย์สิน (รูปแบบตัวเลขเท่านั้นเช่น: 123456)\t"
+
+#: admin/components/shortcodes/view/list-properties.php:42
+#: admin/components/shortcodes/view/flexmls-list-properties.php:43
+#: admin/components/shortcodes/view/mls-list-properties.php:42
+#: public/templates/crm/template/single/single-property-more-details.php:4
+#: public/templates/mls/template/single/single-property-more-details.php:5
+msgid "Status"
+msgstr "สถานะ\t"
+
+#: admin/components/shortcodes/view/list-properties.php:47
+#: admin/components/shortcodes/view/flexmls-list-properties.php:48
+#: admin/components/shortcodes/view/mls-list-properties.php:47
+msgid "Transaction"
+msgstr "การซื้อขาย\t"
+
+#: admin/components/shortcodes/view/list-properties.php:51
+#: admin/components/shortcodes/view/flexmls-list-properties.php:52
+msgid "Foreclosure"
+msgstr "คนยึดสังหาริมทรัพย์\t"
+
+#: admin/components/shortcodes/view/list-properties.php:54
+#: admin/components/shortcodes/view/flexmls-list-properties.php:55
+#: admin/components/shortcodes/view/mls-list-properties.php:52
+msgid "How many property to display"
+msgstr "วิธีการหลายคุณสมบัติการแสดงผล\t"
+
+#: admin/components/shortcodes/view/list-properties.php:56
+#: admin/components/shortcodes/view/flexmls-list-properties.php:57
+#: admin/components/shortcodes/view/mls-list-properties.php:54
+msgid "Show Pagination?"
+msgstr "แสดงเลข?\t"
+
+#: admin/components/shortcodes/view/list-properties.php:62
+#: admin/components/shortcodes/view/get-locations.php:39
+#: admin/components/shortcodes/view/mls-get-locations.php:38
+#: admin/components/shortcodes/view/flexmls-list-properties.php:63
+#: admin/components/shortcodes/view/mls-list-properties.php:61
+msgid "Insert Shortcode"
+msgstr "แทรกย่อ\t"
+
+#: admin/components/shortcodes/view/get-locations.php:31
+#: admin/components/shortcodes/view/mls-get-locations.php:31
+msgid "List community locations base on City"
+msgstr "รายการสถานที่ชุมชนฐานในเมือง\t"
+
+#: admin/components/shortcodes/view/mls-list-properties.php:57
+msgid "Include Office List?"
+msgstr "รวมรายการ Office?\t"
+
+#: admin/components/flexmls/class-md-flexmls-entity.php:36
+#: admin/components/flexmls/class-md-flexmls-entity.php:37
+msgid "Flex MLS"
+msgstr "Flex MLS\t"
+
+#: admin/components/styling/class-styling-entity.php:61
+#: admin/components/styling/class-styling-entity.php:62
+#: admin/components/styling/view/index.php:10
+msgid "Styling"
+msgstr "การออกแบบ\t"
+
+#: admin/components/styling/view/index.php:16
+msgid "Choose theme for the property listing"
+msgstr "เลือกธีมสำหรับรายชื่อสถานที่ให้บริการ\t"
+
+#: admin/components/styling/view/index.php:17
+msgid "Current color"
+msgstr "สีปัจจุบัน\t"
+
+#: admin/components/styling/view/index.php:19
+msgid "Click to change into Default color"
+msgstr "คลิ๊กเพื่อเปลี่ยนเป็นสีเริ่มต้น\t"
+
+#: admin/components/styling/view/index.php:23
+msgid "Update Theme"
+msgstr "การปรับปรุงรูปแบบ\t"
+
+#: admin/components/general/class-general.php:95
+#: admin/components/general/class-general.php:96
+msgid "Settings"
+msgstr "การตั้งค่า\t"
+
+#: admin/components/settings/class-settings.php:197
+msgid "Turn on, show popup after certain clicks?"
+msgstr "เปิดแสดงป๊อปอัพหลังจากคลิกบาง?\t"
+
+#: admin/components/settings/class-settings.php:198
+msgid "Turn off, do not show popup after certain clicks?"
+msgstr "ปิดไม่แสดงป๊อปอัพหลังจากคลิกบาง?\t"
+
+#: admin/components/settings/class-settings.php:235
+msgid "Photo"
+msgstr "ภาพถ่าย\t"
+
+#: admin/components/settings/class-settings.php:236
+msgid "Map"
+msgstr "แผนที่\t"
+
+#: admin/components/settings/class-settings.php:242
+msgid "Address"
+msgstr "ที่อยู่\t"
+
+#: admin/components/settings/class-settings.php:243
+msgid "Tag Line"
+msgstr "สายแท็ก\t"
+
+#: admin/components/settings/view/index.php:18
+msgid "Popup"
+msgstr "ป๊อปอัพ\t"
+
+#: admin/components/settings/view/index.php:19
+#: admin/components/settings/view/index.php:67
+msgid "Property"
+msgstr "สถานที่ให้บริการ\t"
+
+#: admin/components/settings/view/index.php:20
+msgid "Search Form / Result Page"
+msgstr "ฟอร์มการค้นหา / หน้าผลการ\t"
+
+#: admin/components/settings/view/index.php:21
+msgid "JS Plugin / Library"
+msgstr "JS ปลั๊กอิน / ห้องสมุด\t"
+
+#: admin/components/settings/view/index.php:22
+#: admin/components/settings/view/index.php:144
+msgid "Client Lead"
+msgstr "ตะกั่วไคลเอ็นต์\t"
+
+#: admin/components/settings/view/index.php:23
+#: admin/components/settings/view/index.php:136
+msgid "Mail"
+msgstr "จดหมาย\t"
+
+#: admin/components/settings/view/index.php:24
+msgid "Template"
+msgstr "แม่แบบ\t"
+
+#: admin/components/settings/view/index.php:28
+msgid "Show pop-up on certain clicks?"
+msgstr "แสดงป๊อปอัพเกี่ยวกับการคลิกบาง?\t"
+
+#: admin/components/settings/view/index.php:31
+msgid "How this works? When a visitor visits your website, you can "
+msgstr "วิธีการทำงานนี้หรือไม่? เมื่อผู้เข้าชมเข้าชมเว็บไซต์ของคุณคุณสามารถ\t"
+
+#: admin/components/settings/view/index.php:32
+msgid "select how many properties they can view before forcing them "
+msgstr "เลือกวิธีการหลายคุณสมบัติที่พวกเขาสามารถดูก่อนที่จะบังคับให้พวกเขา\t"
+
+#: admin/components/settings/view/index.php:33
+msgid "to sign-up. When the visitors signs up the lead will "
+msgstr "ลงทะเบียน. เมื่อผู้เข้าชมสัญญาณขึ้นนำจะ\t"
+
+#: admin/components/settings/view/index.php:34
+msgid "automatically enter into your CRM account. You can "
+msgstr "ป้อนอัตโนมัติเข้าบัญชี CRM ของคุณ คุณสามารถ\t"
+
+#: admin/components/settings/view/index.php:35
+msgid "automatically create marketing campaigns within the CRM. "
+msgstr "โดยอัตโนมัติสร้างแคมเปญการตลาดภายในใช้ CRM\t"
+
+#: admin/components/settings/view/index.php:44
+msgid "Display close button? do you want the ability to close the popup?"
+msgstr "แสดงปุ่มปิด? คุณต้องการความสามารถในการปิดป๊อปอัพ?\t"
+
+#: admin/components/settings/view/index.php:52
+msgid ""
+"Show popup after certain clicks. This will show popup after certain click or "
+"view of individual property"
+msgstr ""
+"แสดงป๊อปอัพหลังจากคลิกบาง นี้จะแสดงป๊อปอัพหลังจากที่บางคลิกหรือมุมมองของสถ​​"
+"านที่ให้บริการของแต่ละบุคคล\t"
+
+#: admin/components/settings/view/index.php:63
+msgid "Enable "
+msgstr "ทำให้สามารถ\t"
+
+#: admin/components/settings/view/index.php:68
+msgid ""
+"Search property by default search criteria, Default status, when visitor "
+"search property, they will see this search criteria status"
+msgstr ""
+"ค้นหาคุณสมบัติตามเกณฑ์การค้นหาเริ่มต้นสถานะค่าเริ่มต้นเมื่อผู้เข้าชมสถานที่ให้บริการค้นหาพวกเขาจะเห็นสถานะเกณฑ์การค้นหานี้"
+"\t"
+
+#: admin/components/settings/view/index.php:74
+msgid "Display property address or tag-line"
+msgstr "ที่อยู่ของสถ​​านที่แสดงหรือแท็กบรรทัด\t"
+
+#: admin/components/settings/view/index.php:87
+msgid "Search Result Page"
+msgstr "หน้าผลการค้นหา\t"
+
+#: admin/components/settings/view/index.php:88
+msgid "Display view"
+msgstr "มุมมองการแสดงผล\t"
+
+#: admin/components/settings/view/index.php:94
+msgid "Search Title"
+msgstr "ค้นหาชื่อเรื่อง\t"
+
+#: admin/components/settings/view/index.php:95
+msgid "display search title in the search form"
+msgstr "ชื่อการค้นหาในรูปแบบการแสดงผลการค้นหา\t"
+
+#: admin/components/settings/view/index.php:97
+msgid "Show For Sale Button"
+msgstr "แสดงปุ่มสำหรับการขาย\t"
+
+#: admin/components/settings/view/index.php:103
+msgid "Show For Rent Button"
+msgstr "แสดงให้เช่าปุ่ม\t"
+
+#: admin/components/settings/view/index.php:111
+msgid "Search Form"
+msgstr "ฟอร์มการค้นหา\t"
+
+#: admin/components/settings/view/index.php:113
+msgid "Price Range"
+msgstr "ช่วงราคา\t"
+
+#: admin/components/settings/view/index.php:137
+msgid ""
+"Outgoing email.  Use this mail system to send an email from the mail server."
+msgstr "อีเมลขาออก ใช้ระบบอีเมลนี้เพื่อส่งอีเมลจากเซิร์ฟเวอร์อีเมล\t"
+
+#: admin/components/settings/view/index.php:147
+msgid "This is use for the following lead forms"
+msgstr "นี่คือการใช้งานสำหรับรูปแบบที่นำไปสู่​​การต่อไปนี้\t"
+
+#: admin/components/settings/view/index.php:149
+msgid "User register form"
+msgstr "แบบฟอร์มการลงทะเบียนผู้ใช้\t"
+
+#: admin/components/settings/view/index.php:150
+msgid "Inquire form"
+msgstr "สอบถามรูปแบบ\t"
+
+#: admin/components/settings/view/index.php:151
+msgid "Email to form"
+msgstr "ส่งอีเมล์ไปยังรูปแบบ\t"
+
+#: admin/components/settings/view/index.php:156
+msgid "This plugin uses the following javascript plugin / library"
+msgstr "ปลั๊กอินนี้จะใช้ต่อไป JavaScript ปลั๊กอิน / ห้องสมุด\t"
+
+#: admin/components/settings/view/index.php:157
+msgid "Warning! Uncheck them at your own risk!"
+msgstr "คำเตือน! ยกเลิกการเลือกพวกเขาที่มีความเสี่ยงของคุณเอง!\t"
+
+#: admin/components/settings/view/index.php:158
+msgid ""
+"The below are part of the MD plugin framework. The purpose is to disallow "
+"two instances of plugin/library which can cause conflicts."
+msgstr ""
+"ด้านล่างนี้เป็นส่วนหนึ่งของกรอบปลั๊กอิน MD จุดประสงค์คือการไม่อนุญาตให้ทั้งสองกรณีของปลั๊กอิน / "
+"Library ซึ่งอาจทำให้เกิดความขัดแย้ง\t"
+
+#: admin/components/settings/view/index.php:159
+msgid "Template plugin / library"
+msgstr "ปลั๊กอินแม่แบบ / ห้องสมุด\t"
+
+#: admin/components/settings/view/lead.php:2
+msgid "Choose lead status"
+msgstr "เลือกสถานะตะกั่ว\t"
+
+#: admin/components/settings/view/lead.php:3
+msgid "This will be the status of the lead in the CRM"
+msgstr "นี้จะเป็นสถานะของการเป็นผู้นำในการ CRM ที่\t"
+
+#: admin/components/settings/view/lead.php:11
+msgid "Choose lead type"
+msgstr "เลือกประเภทตะกั่ว\t"
+
+#: admin/components/settings/view/lead.php:12
+msgid "This will be the type of the lead in the CRM"
+msgstr "นี้จะเป็นประเภทของการเป็นผู้นำในการ CRM ที่\t"
+
+#: admin/components/settings/view/lead.php:20
+msgid "Choose lead source"
+msgstr "เลือกแหล่งนำ\t"
+
+#: admin/components/dashboard/view/cache-property.php:5
+msgid "Delete All Cache"
+msgstr "ลบทั้งหมดแคช\t"
+
+#: admin/components/greatschool/class-md-greatschool-entity.php:38
+#: admin/components/greatschool/class-md-greatschool-entity.php:39
+msgid "Greatschool API"
+msgstr "Greatschool API\t"
+
+#: admin/components/greatschool/view/index.php:10
+msgid "Cost = FREE"
+msgstr "ค่าใช้จ่าย = ฟรี\t"
+
+#: admin/components/greatschool/view/index.php:11
+msgid "If you live in the USA, go to"
+msgstr "หากคุณอาศัยอยู่ในประเทศสหรัฐอเมริกาไป\t"
+
+#: admin/components/greatschool/view/index.php:12
+msgid "Note: Please read Terms of Use"
+msgstr "หมายเหตุ: โปรดอ่านเงื่อนไขการใช้งาน\t"
+
+#: admin/components/faq/class-faq.php:45 admin/components/faq/class-faq.php:46
+msgid "FAQ"
+msgstr "คำถามที่พบบ่อย\t"
+
+#: admin/components/faq/view/faq.php:10 admin/components/faq/view/faq.php:41
+msgid "Is Masterdigm CRM a Saas? (Software as a Service)"
+msgstr "ไม่ Masterdigm เสนออัตโนมัติตอบรับอัตโนมัติ?\t"
+
+#: admin/components/faq/view/faq.php:11 admin/components/faq/view/faq.php:46
+msgid "Does Masterdigm offer automated auto responders?"
+msgstr "ไม่ Masterdigm เสนออัตโนมัติตอบรับอัตโนมัติ?\t"
+
+#: admin/components/faq/view/faq.php:12 admin/components/faq/view/faq.php:55
+msgid "Does Masterdigm send out property alerts?"
+msgstr "ไม่ Masterdigm ส่งออกแจ้งเตือนทรัพย์สิน?\t"
+
+#: admin/components/faq/view/faq.php:13 admin/components/faq/view/faq.php:60
+msgid "Can I manage my documents inside of the CRM?"
+msgstr "ฉันสามารถจัดการเอกสารของฉันภายในของ CRM?\t"
+
+#: admin/components/faq/view/faq.php:14 admin/components/faq/view/faq.php:29
+#: admin/components/faq/view/faq.php:66 admin/components/faq/view/faq.php:140
+msgid "Can I change Plans or cancel at any time?"
+msgstr "ฉันสามารถเปลี่ยนแผนหรือยกเลิกได้ตลอดเวลา?\t"
+
+#: admin/components/faq/view/faq.php:15 admin/components/faq/view/faq.php:27
+#: admin/components/faq/view/faq.php:71 admin/components/faq/view/faq.php:129
+msgid "Support Included?"
+msgstr "การสนับสนุนรวม?\t"
+
+#: admin/components/faq/view/faq.php:16 admin/components/faq/view/faq.php:77
+msgid "Does Masterdigm handle Franchises?"
+msgstr "Masterdigm จะจัดการกับแฟรนไชส์​​?\t"
+
+#: admin/components/faq/view/faq.php:17 admin/components/faq/view/faq.php:82
+msgid "How many emails can I send out of Masterdigm per month for Free?"
+msgstr "จำนวนอีเมลที่ฉันสามารถส่งออกจาก Masterdigm ต่อเดือนฟรี?\t"
+
+#: admin/components/faq/view/faq.php:18 admin/components/faq/view/faq.php:88
+msgid "Want to know even more about Masterdigm?"
+msgstr "ต้องการทราบข้อมูลเพิ่มเติมเกี่ยวกับ Masterdigm?\t"
+
+#: admin/components/faq/view/faq.php:19 admin/components/faq/view/faq.php:94
+msgid "Is there a Partnership/Affiliate program?"
+msgstr "มีโปรแกรมหุ้นส่วน / พันธมิตร?\t"
+
+#: admin/components/faq/view/faq.php:22
+msgid "About Masterdigm WordPress Plugin"
+msgstr "เกี่ยวกับ Masterdigm ปลั๊กอิน WordPress\t"
+
+#: admin/components/faq/view/faq.php:23 admin/components/faq/view/faq.php:100
+msgid "Is the WordPress Listings Plugin Mobile friendly?"
+msgstr "เป็นรายชื่อ WordPress ปลั๊กอินมือถือมิตร?\t"
+
+#: admin/components/faq/view/faq.php:24 admin/components/faq/view/faq.php:105
+msgid "Are there any pages I must not delete?"
+msgstr "จะมีหน้าเว็บใด ๆ ที่ฉันไม่ต้องลบ?\t"
+
+#: admin/components/faq/view/faq.php:25 admin/components/faq/view/faq.php:119
+msgid "Can the site work with Commercial properties?"
+msgstr "เว็บไซต์ที่สามารถทำงานร่วมกับคุณสมบัติเชิงพาณิชย์?\t"
+
+#: admin/components/faq/view/faq.php:26 admin/components/faq/view/faq.php:124
+msgid "Can I host the website on any server?"
+msgstr "ฉันสามารถโฮสต์เว็บไซต์บนเซิร์ฟเวอร์ใด?\t"
+
+#: admin/components/faq/view/faq.php:28 admin/components/faq/view/faq.php:135
+msgid "How much does the system cost?"
+msgstr "ค่าใช้จ่ายเท่าใดระบบหรือไม่\t"
+
+#: admin/components/faq/view/faq.php:30 admin/components/faq/view/faq.php:145
+msgid "What themes does Masterdigm Listing plugin work with?"
+msgstr "ธีมอะไร Masterdigm รายชื่อปลั๊กอินทำงานด้วย?\t"
+
+#: admin/components/faq/view/faq.php:31 admin/components/faq/view/faq.php:150
+msgid "Where are property listings managed?"
+msgstr "อยู่ที่ไหนรายชื่ออสังหาริมทรัพย์ที่จัดการได้อย่างไร\t"
+
+#: admin/components/faq/view/faq.php:32 admin/components/faq/view/faq.php:155
+msgid "I am getting a 404 error when reviewing the property page?"
+msgstr "ฉันได้รับข้อผิดพลาด 404 เมื่อตรวจสอบหน้าคุณสมบัติ?\t"
+
+#: admin/components/faq/view/faq.php:33 admin/components/faq/view/faq.php:160
+msgid "Are there additional costs?"
+msgstr "จะมีค่าใช้จ่ายเพิ่มเติม?\t"
+
+#: admin/components/faq/view/faq.php:34 admin/components/faq/view/faq.php:166
+msgid "Do you hold Masterdigm Webinars?"
+msgstr "คุณถือ Masterdigm การสัมมนาผ่านเว็บ?\t"
+
+#: admin/components/faq/view/faq.php:35 admin/components/faq/view/faq.php:172
+msgid "Does Masterdigm have an Affiliate Program?"
+msgstr "ไม่ Masterdigm มีโปรแกรมพันธมิตร?\t"
+
+#: admin/components/faq/view/faq.php:36 admin/components/faq/view/faq.php:178
+msgid "Does the listings plugin have property alert capability?"
+msgstr "ไม่รายชื่อปลั๊กอินมีคุณสมบัติความสามารถในการแจ้งเตือน?\t"
+
+#: admin/components/faq/view/faq.php:42
+msgid ""
+"Yes, Masterdigm is a cloud based CRM!  You can be anywhere and access your "
+"leads and properties and anytime.  Masterdigm has been around since 2007 and "
+"is happy to announce continued integrations throughout the last few years.  "
+"Some are Mailgun and Mailgun to name just two."
+msgstr ""
+"ใช่ Masterdigm เป็น CRM เมฆ! คุณสามารถเป็นได้ทุกที่และนำไปสู่​​"
+"การเข้าถึงและคุณสมบัติของคุณและทุกที่ทุกเวลา Masterdigm ได้รับรอบตั้งแต่ปี 2007 "
+"และมีความสุขที่จะประกาศการผสานรวมอย่างต่อเนื่องตลอดช่วงไม่กี่ปีที่ผ่านมา บางคนมีความ Mailgun "
+"และ Mailgun ชื่อเพียงสอง\t"
+
+#: admin/components/faq/view/faq.php:43 admin/components/faq/view/faq.php:52
+#: admin/components/faq/view/faq.php:57 admin/components/faq/view/faq.php:63
+#: admin/components/faq/view/faq.php:68 admin/components/faq/view/faq.php:74
+#: admin/components/faq/view/faq.php:79 admin/components/faq/view/faq.php:85
+#: admin/components/faq/view/faq.php:91 admin/components/faq/view/faq.php:97
+#: admin/components/faq/view/faq.php:102 admin/components/faq/view/faq.php:116
+#: admin/components/faq/view/faq.php:121 admin/components/faq/view/faq.php:126
+#: admin/components/faq/view/faq.php:132 admin/components/faq/view/faq.php:137
+#: admin/components/faq/view/faq.php:142 admin/components/faq/view/faq.php:147
+#: admin/components/faq/view/faq.php:152 admin/components/faq/view/faq.php:157
+#: admin/components/faq/view/faq.php:163 admin/components/faq/view/faq.php:169
+#: admin/components/faq/view/faq.php:175 admin/components/faq/view/faq.php:180
+msgid "Go to top"
+msgstr "ไปที่ด้านบน\t"
+
+#: admin/components/faq/view/faq.php:47
+msgid "Yes, we have a few ways the clients receive their updates."
+msgstr "ใช่เรามีไม่กี่วิธีที่ลูกค้าของพวกเขาได้รับการปรับปรุง\t"
+
+#: admin/components/faq/view/faq.php:49
+msgid ""
+"Once they sign up, you create a marketing campaign that kicks of any emails "
+"you would like."
+msgstr "เมื่อพวกเขาลงทะเบียนคุณสร้างแคมเปญการตลาดที่ kicks อีเมลใด ๆ ที่คุณต้องการ\t"
+
+#: admin/components/faq/view/faq.php:50
+msgid ""
+"If you have a website with Masterdigm, i.e, utilizing the WordPress listing "
+"plugin, once a client saves a search, the system will automatically send out "
+"any new properties that match their criteria."
+msgstr ""
+"หากคุณมีเว็บไซต์ที่มี Masterdigm คือใช้ WordPress "
+"รายการปลั๊กอินเมื่อลูกค้าช่วยค้นหาระบบโดยอัตโนมัติจะส่งออกคุณสมบัติใหม่ใด ๆ "
+"ที่ตรงกับเกณฑ์ของพวกเขา\t"
+
+#: admin/components/faq/view/faq.php:56
+msgid ""
+"Yes!  And the user can actually set up their own saved searches when the log "
+"into the website itself."
+msgstr "ใช่ และผู้ใช้สามารถตั้งค่าจริงในการค้นหาของตัวเองบันทึกไว้เมื่อเข้าสู่เว็บไซต์ของตัวเอง\t"
+
+#: admin/components/faq/view/faq.php:61
+msgid ""
+"Yes, Masterdigm is designed to allow you an Intranet of sorts. You can "
+"upload your company documents and share them with your team. You can also "
+"keep your documents private and/or share them!"
+msgstr ""
+"ใช่ Masterdigm ถูกออกแบบมาเพื่อช่วยให้คุณอินทราเน็ตของแปลก คุณสามารถอัปโหลดเอกสารของ "
+"บริษัท ของคุณและแบ่งปันให้กับทีมงานของคุณ นอกจากนี้คุณยังสามารถเก็บเอกสารส่วนตัวของคุณและ / "
+"หรือใช้ร่วมกัน!\t"
+
+#: admin/components/faq/view/faq.php:62
+msgid "Document types:"
+msgstr "ประเภทเอกสาร:\t"
+
+#: admin/components/faq/view/faq.php:67
+msgid "Absolutely, we run month to month!"
+msgstr "อย่างเราทำงานเดือนต่อเดือน!\t"
+
+#: admin/components/faq/view/faq.php:72
+msgid ""
+"Support is included for issues, bugs, etc.. Use the Support link inside the "
+"CRM. Needing support for your website? Blogs? Content writing? Email "
+"Marketing Materials?"
+msgstr ""
+"การสนับสนุนรวมสำหรับปัญหาข้อบกพร่อง ฯลฯ .. ใช้การเชื่อมโยงการสนับสนุนภายในใช้ CRM "
+"ต้องสนับสนุนสำหรับเว็บไซต์ของคุณ บล็อก? เนื้อหาการเขียน? วัสดุการตลาดอีเมล์?\t"
+
+#: admin/components/faq/view/faq.php:73
+msgid "Please contact us or your Project/Web Design team."
+msgstr "กรุณาติดต่อเราหรือโครงการ / ทีมงานออกแบบของคุณ\t"
+
+#: admin/components/faq/view/faq.php:78
+msgid ""
+"Yes, Masterdigm is designed around a brokerage firm.  You can share leads "
+"via the share leads tab to other Franchises in your network.  Also, any "
+"properties within each Franchisees account can be shared to other "
+"franchisees websites.  Leads will flow into the site that is showing the "
+"property."
+msgstr ""
+"ใช่ Masterdigm ได้รับการออกแบบ บริษัท นายหน้า "
+"คุณสามารถแบ่งปันโอกาสในการขายหุ้นผ่านทางนำไปสู่​​แท็บแฟรนไชส์​​อื่น ๆ ในเครือข่ายของคุณ "
+"นอกจากนี้ยังมีคุณสมบัติใด ๆ ในแต่ละแฟรนไชส์​​บัญชีสามารถใช้ร่วมกันไปยังเว็บไซต์อื่น ๆ แฟรนไชส์ "
+"นำไปสู่​​การที่จะไหลเข้าสู่เว็บไซต์ที่มีการแสดงทรัพย์สิน\t"
+
+#: admin/components/faq/view/faq.php:83
+msgid ""
+"We use Mailgun to send out emails. They have a 10,000/month limit for free. "
+"20,000 emails for 5.00/month. Great deal!"
+msgstr ""
+"เราใช้ Mailgun เพื่อส่งอีเมล พวกเขามีขีด จำกัด 10,000 / เดือนฟรี 20,000 อีเมล 5.00 / "
+"เดือน มาก!\t"
+
+#: admin/components/faq/view/faq.php:84
+msgid ""
+"Contact us more about helping you set up www.mailgun.com but they have great "
+"updates to help you too!"
+msgstr ""
+"ติดต่อเราเพิ่มเติมเกี่ยวกับการช่วยให้คุณตั้งค่า www.mailgun.com "
+"แต่พวกเขามีการปรับปรุงที่ดีที่จะช่วยให้คุณมากเกินไป!\t"
+
+#: admin/components/faq/view/faq.php:89
+msgid "Click on our youtube channel and learn all about the Masterdigm CRM"
+msgstr "คลิกที่ช่อง YouTube ของเราและเรียนรู้เกี่ยวกับ CRM Masterdigm\t"
+
+#: admin/components/faq/view/faq.php:90
+msgid "Masterdigm Training Videos"
+msgstr "วิดีโอ Masterdigm การฝึกอบรม\t"
+
+#: admin/components/faq/view/faq.php:95
+msgid "Yes, we actually do have one.. please review:"
+msgstr "ใช่เราทำจริงมีหนึ่ง .. โปรดอ่าน:\t"
+
+#: admin/components/faq/view/faq.php:96
+msgid "Learn more about Masterdigm Partnership program"
+msgstr "เรียนรู้เพิ่มเติมเกี่ยวกับโปรแกรม Masterdigm ห้างหุ้นส่วนจำกัด\t"
+
+#: admin/components/faq/view/faq.php:101
+msgid ""
+"Yes, we are built on bootstrap, so the Masterdigm real estate listings "
+"plugin will render accordingly."
+msgstr ""
+"ใช่เรากำลังสร้างขึ้นบนบูตเพื่อปลั๊กอิน Masterdigm รายชื่ออสังหาริมทรัพย์ที่จะแสดงความนับถือ\t"
+
+#: admin/components/faq/view/faq.php:106
+msgid "Yes.. Do not delete the following pages"
+msgstr "ใช่ .. อย่าลบหน้าต่อไป\t"
+
+#: admin/components/faq/view/faq.php:108
+msgid "display the single or full details of property."
+msgstr "แสดงรายละเอียดเดียวหรือเต็มรูปแบบของสถ​​านที่ให้บริการ\t"
+
+#: admin/components/faq/view/faq.php:109
+msgid "Display the result of the searched properties"
+msgstr "แสดงผลการสืบค้นของคุณสมบัติที่\t"
+
+#: admin/components/faq/view/faq.php:110
+msgid "Display list of properties base in City"
+msgstr "รายการการแสดงผลของฐานคุณสมบัติในเมือง\t"
+
+#: admin/components/faq/view/faq.php:111
+msgid "Display list of properties base in State"
+msgstr "รายการการแสดงผลของฐานคุณสมบัติในรัฐ\t"
+
+#: admin/components/faq/view/faq.php:112
+msgid "Display list of properties base in Community"
+msgstr "รายการการแสดงผลของฐานคุณสมบัติในชุมชน\t"
+
+#: admin/components/faq/view/faq.php:113
+msgid "Display list of properties base in Count"
+msgstr "รายการการแสดงผลของฐานคุณสมบัติในการนับ\t"
+
+#: admin/components/faq/view/faq.php:115
+msgid ""
+"If you do, the property pages, city pages, etc. will not show! If you messed "
+"up, then re-add them!"
+msgstr ""
+"ถ้าคุณทำหน้าคุณสมบัติหน้าเมือง ฯลฯ จะไม่แสดง! หากคุณ messed ขึ้นแล้วเพิ่มอีกครั้งพวกเขา!\t"
+
+#: admin/components/faq/view/faq.php:120
+msgid ""
+"Absolutely!  When you log into Masterdigm CRM, you will add your properties "
+"in there.  When you do, you will tag them as a commercial or residential "
+"property. Once you do this, the gallery on your website will show commercial "
+"aspects of the property."
+msgstr ""
+"แน่นอน! เมื่อคุณเข้าสู่ Masterdigm CRM คุณจะเพิ่มคุณสมบัติของคุณมี "
+"เมื่อคุณทำคุณจะแท็กพวกเขาเป็นสถานที่ให้บริการในเชิงพาณิชย์หรือที่อยู่อาศัย เมื่อคุณทำเช่นนี้, "
+"แกลเลอรี่บนเว็บไซต์ของคุณจะแสดงแง่มุมในเชิงพาณิชย์ของสถ​​านที่ให้บริการ\t"
+
+#: admin/components/faq/view/faq.php:125
+msgid ""
+"Yes!  You can host the site or you we can host it for you!  Our cost to "
+"maintain your site is 18.00/month.  We keep care of your site and maintain "
+"your plugins and your WP revision."
+msgstr ""
+"ใช่ คุณสามารถโฮสต์เว็บไซต์หรือเราสามารถจัดให้คุณ! "
+"ค่าใช้จ่ายในการรักษาของเราเว็บไซต์ของคุณเป็น 18.00 / เดือน "
+"เราให้การดูแลของเว็บไซต์ของคุณและการบำรุงรักษาและการแก้ไขปลั๊กอิน WP ของคุณ\t"
+
+#: admin/components/faq/view/faq.php:130
+msgid ""
+"We do support the Masterdigm users! We have a support link inside the CRM to "
+"help! We also have Youtube videos we have made to help you through support "
+"issues. "
+msgstr ""
+"เราจะสนับสนุนผู้ใช้ Masterdigm! เรามีการเชื่อมโยงการสนับสนุนภายใน CRM เพื่อช่วย! "
+"เรายังมีวิดีโอ Youtube ที่เราได้สร้างขึ้นมาเพื่อช่วยให้คุณผ่านปัญหาการสนับสนุน\t"
+
+#: admin/components/faq/view/faq.php:131
+msgid ""
+"Regarding the plugin, if you need help with colors, fonts, and any layout "
+"issue, you can ask us to assist you. Are normal charges are 65.00/hour. We "
+"did design the plugin, however, to render on most WP Themes."
+msgstr ""
+"เกี่ยวกับปลั๊กอินถ้าคุณต้องการความช่วยเหลือที่มีสีแบบอักษรและรูปแบบปัญหาใด ๆ "
+"ที่คุณสามารถขอให้เราช่วยคุณ ค่าใช้จ่ายปกติ 65.00 / ชั่วโมง "
+"เราไม่ออกแบบปลั๊กอินอย่างไรที่จะทำให้มากที่สุด WP ธีม\t"
+
+#: admin/components/faq/view/faq.php:136
+msgid "If you go to our page"
+msgstr "ถ้าคุณไปที่หน้าของเรา\t"
+
+#: admin/components/faq/view/faq.php:136
+msgid "it will show you our pricing!"
+msgstr "มันจะแสดงให้คุณกำหนดราคาของเรา!\t"
+
+#: admin/components/faq/view/faq.php:141
+msgid ""
+"Yes, the nice thing about Masterdigm CRM and the WP listings plugin is that "
+"you are only paying month to month.  We believe in no yearly contracts!  "
+"Looking to cancel?  Contact us through the Support link inside the CRM.  We "
+"will respond immediately."
+msgstr ""
+"ใช่สิ่งที่ดีเกี่ยว Masterdigm CRM และปลั๊กอิน WP รายการคือการที่คุณเป็นเพียงการจ่ายเดือนต่อเดือน "
+"เราเชื่อมั่นในไม่มีสัญญารายปี! มองยกเลิกหรือไม่ ติดต่อเราผ่านทางลิงค์สนับสนุนภายในใช้ CRM "
+"เราจะตอบสนองทันที\t"
+
+#: admin/components/faq/view/faq.php:146
+msgid ""
+"We work well on the Enfold theme!  Though many clients are utilizing Avada, "
+"and many others!"
+msgstr ""
+"เราทำงานร่วมกันในรูปแบบกอด! แม้ว่าลูกค้าจำนวนมากมีการใช้ Avada และอื่น ๆ อีกมากมาย!\t"
+
+#: admin/components/faq/view/faq.php:151
+msgid ""
+"They are managed inside the CRM as opposed to the back of the WordPress "
+"CMS.  Why do we believe this is a much superior choice?  Because brokers and "
+"agents need to be in one platform, i.e., a customer relationship manager "
+"that manages leads, documents, contacts, properties and more!  Masterdigm "
+"does all that!  We believe that to have a regular agent log into the backend "
+"of the WordPress plugin is counterproductive to the workflow of a real "
+"estate agency.  Keeping the properties with the agents leads, documents, "
+"etc.. is forward thinking."
+msgstr ""
+"พวกเขามีการจัดการภายใน CRM เป็นตรงข้ามกับด้านหลังของ WordPress CMS "
+"ทำไมเราเชื่อว่านี่เป็นทางเลือกที่ดีกว่ามาก? "
+"เพราะโบรกเกอร์และตัวแทนจะต้องอยู่ในแพลตฟอร์มเดียวคือผู้จัดการความสัมพันธ์ลูกค้าที่จัดการนำเอกสารรายชื่อคุณสมบัติและอื่น "
+"ๆ ! Masterdigm ไม่ทั้งหมดที่! "
+"เราเชื่อว่าจะมีการเข้าสู่ระบบตัวแทนปกติเป็นแบ็กเอนด์ของเวิร์ดเพรสปลั๊กอินคือต่อต้านการขั้นตอนการทำงานของหน่วยงานอสังหาริมทรัพย์ "
+"การรักษาคุณสมบัติที่มีโอกาสในการขายตัวแทนเอกสาร ฯลฯ .. จะคิดไปข้างหน้า\t"
+
+#: admin/components/faq/view/faq.php:156
+msgid ""
+"If you are initially setting up the site, you will want to refresh your "
+"permalinks.  We have built our plugin now to no longer have this issue, but "
+"if for some reason it occurs, then refresh permalinks."
+msgstr ""
+"หากคุณกำลังเริ่มแรกของการตั้งค่าเว็บไซต์ที่คุณจะต้องการที่จะฟื้นฟู Permalinks ของคุณ "
+"เราได้สร้างปลั๊กอินของเราตอนนี้จะไม่ได้มีปัญหานี้ แต่ถ้าด้วยเหตุผลบางอย่างมันเกิดขึ้นแล้วรีเฟรช "
+"Permalinks\t"
+
+#: admin/components/faq/view/faq.php:161
+msgid "Costs are by user seats."
+msgstr "ค่าใช้จ่ายโดยผู้ใช้ที่นั่ง\t"
+
+#: admin/components/faq/view/faq.php:162
+msgid ""
+"Now, if you are a broker or agent needing the CRM to be fully built out for "
+"you, we have a one time setup fee depending on what level of service.  "
+"Please contact us for more details!  You'll be glad you did."
+msgstr ""
+"ตอนนี้ถ้าคุณเป็นนายหน้าหรือตัวแทนต้อง CRM "
+"ที่จะถูกสร้างขึ้นอย่างเต็มที่ออกมาให้คุณเรามีค่าติดตั้งครั้งเดียวขึ้นอยู่กับสิ่งที่ระดับของการบริการ "
+"กรุณาติดต่อเราสำหรับรายละเอียดเพิ่มเติม! คุณจะดีใจที่คุณได้\t"
+
+#: admin/components/faq/view/faq.php:167
+msgid "We sure do!  Sign up for one of our webinar's today!"
+msgstr "เราแน่ใจว่าจะทำ! ลงทะเบียนสำหรับหนึ่งในการสัมมนาทางเว็บของเราวันนี้!\t"
+
+#: admin/components/faq/view/faq.php:168
+msgid "Sign up for one of our webinars!"
+msgstr "ลงทะเบียนสำหรับหนึ่งในการสัมมนาทางเว็บของเรา!\t"
+
+#: admin/components/faq/view/faq.php:173
+msgid ""
+"Glad you asked!  We do! We would love to work with Web Developers around the "
+"world!  Great ideas come from you!"
+msgstr ""
+"ดีใจที่คุณถาม! พวกเราทำ! เรารักที่จะทำงานร่วมกับนักพัฒนาเว็บทั่วโลก! ความคิดที่ดีมาจากคุณ!\t"
+
+#: admin/components/faq/view/faq.php:174
+msgid "Please contact us via the Vcita pop up box and make an appointment."
+msgstr "กรุณาติดต่อเราผ่านทาง Vcita pop up กล่องและนัดหมาย\t"
+
+#: admin/components/faq/view/faq.php:179
+msgid ""
+"Yes, when a client signs up through the website pop up box, they will have "
+"access to Saving properties that meet a certain criteria.  If a property "
+"matches the criteria, the system will automatically send out the property "
+"with a link back to your website!"
+msgstr ""
+"ใช่เมื่อสัญญาณลูกค้าขึ้นผ่านทางเว็บไซต์ปรากฏขึ้นกล่องพวกเขาจะมีการเข้าถึงคุณสมบัติประหยัดที่ตอบสนองความเกณฑ์ที่แน่นอน "
+"ถ้าคุณสมบัติตรงกับเกณฑ์ที่ระบบอัตโนมัติจะส่งทรัพย์สินที่มีการเชื่อมโยงกลับไปยังเว็บไซต์ของคุณ!\t"
+
+#: components/inquireform/class-inquire.php:102
+msgid "Inquiry from"
+msgstr "สอบถามรายละเอียดเพิ่มเติมจาก\t"
+
+#: components/inquireform/class-inquire.php:104
+msgid "Name"
+msgstr "ชื่อ"
+
+#: components/inquireform/class-inquire.php:106
+#: components/pdf/class-pdf.php:105
+#: public/templates/account/partials/profileform.php:22
+msgid "Phone"
+msgstr "โทรศัพท์"
+
+#: components/inquireform/class-inquire.php:110
+#: components/signupform/class-signup-sign.php:115
+#: components/emailto/class-email-to.php:79
+msgid "Please input your name"
+msgstr "กรุณาใส่ชื่อของคุณ\t"
+
+#: components/inquireform/class-inquire.php:114
+msgid "Please input your  last name"
+msgstr "กรุณาใส่นามสกุลของคุณ\t"
+
+#: components/inquireform/class-inquire.php:118
+msgid "Please input your Email Address"
+msgstr "กรุณาใส่ที่อยู่อีเมลของคุณ\t"
+
+#: components/inquireform/class-inquire.php:127
+msgid ""
+"Inquiry successfully sent. Our staff will review it as soon as possible. "
+"Thank You."
+msgstr ""
+"สอบถามรายละเอียดเพิ่มเติมส่งเรียบร้อยแล้ว เจ้าหน้าที่ของเราจะตรวจสอบโดยเร็วที่สุดเท่าที่ทำได้ "
+"ขอบคุณ.\t"
+
+#: components/inquireform/class-inquire.php:129
+msgid "From"
+msgstr "จาก\t"
+
+#: components/inquireform/view/inquire.php:2
+msgid "Inquiry Form"
+msgstr "แบบฟอร์มสอบถาม\t"
+
+#: components/inquireform/view/inquire.php:5
+msgid "Your First Name"
+msgstr "ชื่อจริงของคุณ\t"
+
+#: components/inquireform/view/inquire.php:8
+msgid "Your Last Name"
+msgstr "นามสกุลของคุณ\t"
+
+#: components/inquireform/view/inquire.php:11
+msgid "Your Valid Email"
+msgstr "อีเมล์ของคุณถูกต้อง\t"
+
+#: components/inquireform/view/inquire.php:14
+msgid "Your (Area Code) + Phone Number"
+msgstr "ของคุณ (รหัสเขต) + หมายเลขโทรศัพท์\t"
+
+#: components/inquireform/view/inquire.php:19
+#: components/emailto/view/emailto.php:43
+#: public/class-masterdigm-api-public.php:202
+msgid "Send"
+msgstr "ส่ง"
+
+#: components/signupform/class-signup-sign.php:118
+msgid "Please input your last name"
+msgstr "กรุณาใส่นามสกุลของคุณ\t"
+
+#: components/signupform/class-signup-sign.php:121
+#: components/emailto/class-email-to.php:92
+msgid "Please input your email"
+msgstr "กรุณาใส่อีเมล์ของคุณการป้อนข้อมูล\t"
+
+#: components/signupform/class-signup-sign.php:124
+#: components/emailto/class-email-to.php:88
+#: components/emailto/class-email-to.php:102
+msgid "Email Address is invalid"
+msgstr "ที่อยู่อีเมลที่ไม่ถูกต้อง\t"
+
+#: components/signupform/class-signup-sign.php:174
+msgid "Successfully Registered. Thank You."
+msgstr "ลงทะเบียนเรียบร้อยแล้ว ขอบคุณ.\t"
+
+#: components/signupform/class-signup-sign.php:228
+msgid "Successfully Loged In. Wait while we redirect you."
+msgstr "loged ประสบความสำเร็จใน รอสักครู่ในขณะที่เรานำคุณ\t"
+
+#: components/signupform/view/signup.php:10
+msgid "No Account Yet? Sign Up Now!"
+msgstr "ไม่มีบัญชีผู้ใช้? สมัครตอนนี้เลย!\t"
+
+#: components/signupform/view/signup.php:18
+#: components/emailto/view/emailto.php:42
+msgid "Close"
+msgstr "ปิด\t"
+
+#: components/signupform/view/form.php:1
+#: components/emailto/view/emailto.php:13
+#: public/templates/account/partials/profileform.php:6
+#: public/templates/account/partials/profileform.php:36
+#: public/templates/account/partials/passwordform.php:6
+msgid "Error"
+msgstr "ข้อผิดพลาด\t"
+
+#: components/signupform/view/form.php:10
+msgid "Register"
+msgstr "สมัครสมาชิก\t"
+
+#: components/signupform/view/form.php:18
+#: public/templates/account/partials/accessform.php:10
+#: public/templates/account/partials/profileform.php:19
+#: public/templates/account/partials/emailform.php:14
+msgid "Enter email"
+msgstr "ป้อนอีเมล\t"
+
+#: components/signupform/view/form.php:21
+#: public/templates/account/partials/accessform.php:13
+#: public/templates/account/partials/profileform.php:23
+#: public/templates/account/partials/emailform.php:17
+msgid "Phone Number"
+msgstr "หมายเลขโทรศัพท์\t"
+
+#: components/signupform/view/form.php:25
+#: public/class-masterdigm-api-public.php:194
+msgid "Sign Up"
+msgstr "ลงชื่อ\t"
+
+#: components/signupform/view/form.php:32
+#: public/templates/account/partials/profileform.php:18
+msgid "Email Address"
+msgstr "ที่อยู่อีเมล์\t"
+
+#: components/signupform/view/form.php:35
+#: public/templates/account/partials/profileform.php:33
+#: public/templates/account/partials/passwordform.php:3
+msgid "Password"
+msgstr "รหัสผ่าน\t"
+
+#: components/signupform/view/form.php:38
+msgid "Forgot password"
+msgstr "ลืมรหัสผ่าน\t"
+
+#: components/signupform/view/form.php:42
+#: public/class-masterdigm-api-public.php:195
+msgid "Login"
+msgstr "เข้าสู่ระบบ\t"
+
+#: components/buttonactions/class-action-buttons.php:117
+msgid "Favorite"
+msgstr "ที่ชื่นชอบ\t"
+
+#: components/buttonactions/class-action-buttons.php:157
+msgid "Must register or login to mark as favorite"
+msgstr "จะต้องลงทะเบียนหรือเข้าสู่ระบบการทำเครื่องหมายเป็นที่ชื่นชอบ\t"
+
+#: components/buttonactions/class-action-buttons.php:217
+msgid "Must register or login to mark as x-out"
+msgstr "จะต้องลงทะเบียนหรือเข้าสู่ระบบเพื่อทำเครื่องหมายว่า X-ออก\t"
+
+#: components/buttonactions/class-action-buttons.php:237
+msgid "Print PDF"
+msgstr "พิมพ์ PDF\t"
+
+#: components/buttonactions/class-action-buttons.php:292
+msgid "Share"
+msgstr "หุ้น\t"
+
+#: components/buttonactions/view/xout-button.php:37
+msgid "Register or login to Xout property"
+msgstr "ลงทะเบียนหรือเข้าสู่ระบบเพื่อ Xout คุณสมบัติ\t"
+
+#: components/buttonactions/view/sort.php:4
+msgid "Sort"
+msgstr "การเรียงลำดับ\t"
+
+#: components/buttonactions/view/sort.php:7
+msgid "Price (Highest)"
+msgstr "ราคา (สูงสุด)\t"
+
+#: components/buttonactions/view/sort.php:8
+msgid "Price (Lowest)"
+msgstr "ราคา (ต่ำสุด)\t"
+
+#: components/buttonactions/view/sort.php:9
+msgid "Days on Site (Newest)"
+msgstr "วันบนไซต์ (ใหม่ล่าสุด)\t"
+
+#: components/buttonactions/view/sort.php:10
+msgid "Days on Site (Oldest)"
+msgstr "วันบนเว็บไซต์ (เก่า)\t"
+
+#: components/buttonactions/view/share-button.php:7
+msgid "Email to friend"
+msgstr "ส่งอีเมล์ไปยังเพื่อน\t"
+
+#: components/buttonactions/view/favorite-button.php:10
+msgid "Remove to favorite"
+msgstr "นำไปยังรายการโปรด\t"
+
+#: components/buttonactions/view/favorite-button.php:23
+msgid "Add to favorite"
+msgstr "เพิ่มไปยังรายการโปรด\t"
+
+#: components/buttonactions/view/favorite-button.php:37
+msgid "Register or login to add as favorites"
+msgstr "ลงทะเบียนหรือเข้าสู่ระบบเพื่อเพิ่มเป็นรายการโปรด\t"
+
+#: components/pdf/class-pdf.php:84
+#: components/savesearch/class-save-search.php:130
+msgid "Bed"
+msgstr "เตียง\t"
+
+#: components/pdf/class-pdf.php:99
+msgid "Agent"
+msgstr "ตัวแทน\t"
+
+#: components/pdf/class-pdf.php:106
+msgid "Mobile"
+msgstr "โทรศัพท์มือถือ\t"
+
+#: components/showpopup/view/signup.php:11
+msgid "Sign-up now, to continue browsing properties"
+msgstr "เข้าสู่ระบบขึ้นในขณะนี้จะยังคงคุณสมบัติในการเรียกดู\t"
+
+#: components/emailto/class-email-to.php:45
+msgid "Send to friend Form"
+msgstr "ส่งไปให้เพื่อนในแบบฟอร์ม\t"
+
+#: components/emailto/class-email-to.php:84
+msgid "Please input friends email"
+msgstr "กรุณาใส่อีเมล์เพื่อน\t"
+
+#: components/emailto/class-email-to.php:134
+msgid "Successfully Send Email to Friend. Thank You."
+msgstr "ประสบความสำเร็จส่งอีเมลไปยังเพื่อน ขอบคุณ.\t"
+
+#: components/emailto/class-email-to.php:139
+msgid "Send to friend from "
+msgstr "ส่งไปให้เพื่อนจาก\t"
+
+#: components/emailto/view/emailto.php:9
+msgid "Send this to a Friend"
+msgstr "ส่งข้อมูลนี้ให้เพื่อน\t"
+
+#: components/emailto/view/emailto.php:15
+msgid "Friends Email Address"
+msgstr "เพื่อนที่อยู่อีเมล\t"
+
+#: components/emailto/view/emailto.php:22
+msgid "Your Name"
+msgstr "ชื่อของคุณ\t"
+
+#: components/emailto/view/emailto.php:28
+msgid "Your Email Address"
+msgstr "ที่อยู่อีเมล์ของคุณ\t"
+
+#: components/savesearch/class-save-search.php:472
+msgid "Need to login or register before saving this search"
+msgstr "จำเป็นที่จะต้องเข้าสู่ระบบหรือลงทะเบียนก่อนที่จะบันทึกการค้นหานี้\t"
+
+#: components/savesearch/class-save-search.php:531
+msgid "Save This Search"
+msgstr "บันทึกการค้นหานี้\t"
+
+#: components/savesearch/class-save-search.php:533
+#: public/class-masterdigm-api-public.php:192
+msgid "Saved Search"
+msgstr "ค้นหาที่บันทึกไว้\t"
+
+#: components/account/class-dashboard.php:248
+msgid "Edit Profile"
+msgstr "แก้ไขโปรไฟล์\t"
+
+#: components/account/class-dashboard.php:255
+msgid "Log Out"
+msgstr "ออกจากระบบ\t"
+
+#: components/account/class-dashboard.php:278
+#: public/templates/account/partials/favorite-list.php:1
+#: public/templates/account/partials/nav.php:6
+msgid "Favorites"
+msgstr "ที่ชื่นชอบ\t"
+
+#: components/account/class-dashboard.php:294
+#: public/templates/account/partials/save-search-list.php:1
+#: public/templates/account/partials/nav.php:12
+msgid "Save Search"
+msgstr "บันทึกการค้นหา\t"
+
+#: components/account/class-profile.php:221
+msgid "Please Confirm password"
+msgstr "กรุณายืนยันรหัสผ่าน\t"
+
+#: components/account/class-profile.php:225
+msgid "Successfully Change Password"
+msgstr "ประสบความสำเร็จในการเปลี่ยนรหัสผ่าน\t"
+
+#: public/class-masterdigm-api-public.php:190
+msgid "Please wait while we get current location coordinates"
+msgstr "กรุณารอสักครู่ในขณะที่เราได้รับพิกัดตำแหน่งปัจจุบัน\t"
+
+#: public/class-masterdigm-api-public.php:191
+msgid "Check this property located at"
+msgstr "ตรวจสอบคุณสมบัตินี้ตั้งอยู่ที่\t"
+
+#: public/class-masterdigm-api-public.php:193
+msgid "Saving search"
+msgstr "ค้นหาออมทรัพย์\t"
+
+#: public/class-masterdigm-api-public.php:196
+msgid "Please wait signing-up"
+msgstr "โปรดรอการลงนามขึ้น\t"
+
+#: public/class-masterdigm-api-public.php:197
+msgid "Processing"
+msgstr "การประมวลผล\t"
+
+#: public/class-masterdigm-api-public.php:198
+msgid "Loading"
+msgstr "โหลด\t"
+
+#: public/class-masterdigm-api-public.php:199
+msgid "Fetching property details, please wait"
+msgstr "การดึงข้อมูลรายละเอียดของสถ​​านที่โปรดรอสักครู่\t"
+
+#: public/class-masterdigm-api-public.php:200
+msgid "Please wait while getting data"
+msgstr "กรุณารอสักครู่ขณะที่ได้รับข้อมูล\t"
+
+#: public/class-masterdigm-api-public.php:201
+msgid "Sending Inquiry"
+msgstr "การส่งคำสั่งซื้อ\t"
+
+#: public/class-masterdigm-api-public.php:203
+msgid "Please wait, updating profile"
+msgstr "โปรดรอสักครู่รายละเอียดการปรับปรุง\t"
+
+#: public/class-masterdigm-api-public.php:204
+msgid "Please wait, updating password"
+msgstr "กรุณารอสักครู่ปรับปรุงรหัสผ่าน\t"
+
+#: public/templates/single/single-property-page.php:104
+msgid "Map on"
+msgstr "บนแผนที่\t"
+
+#: public/templates/single/partials/property-details/right-content.php:23
+msgid "Similar Homes"
+msgstr "ที่อยู่อาศัยที่คล้ายกัน\t"
+
+#: public/templates/single/partials/property-details/left-content.php:7
+msgid "Listing Information"
+msgstr "ข้อมูลรายชื่อ\t"
+
+#: public/templates/crm/template/single/single-property-more-details.php:5
+msgid "Transaction Type"
+msgstr "ชนิดของธุรกรรม\t"
+
+#: public/templates/crm/template/single/single-property-more-details.php:7
+#: public/templates/mls/template/single/single-property-more-details.php:6
+msgid "Location"
+msgstr "ที่ตั้ง\t"
+
+#: public/templates/crm/template/single/single-property-more-details.php:9
+msgid "Community"
+msgstr "ชุมชน\t"
+
+#: public/templates/crm/template/single/single-property-more-details.php:23
+#: public/templates/mls/template/single/single-property-more-details.php:7
+msgid "Bedroom"
+msgstr "ห้องนอน\t"
+
+#: public/templates/crm/template/single/single-property-more-details.php:26
+#: public/templates/mls/template/single/single-property-more-details.php:15
+msgid "Bathroom"
+msgstr "ห้องอาบน้ำ\t"
+
+#: public/templates/crm/template/single/single-property-more-details.php:44
+#: public/templates/mls/template/single/single-property-more-details.php:23
+msgid "Details on"
+msgstr "รายละเอียดเกี่ยวกับ\t"
+
+#: public/templates/crm/template/searchresult/search-result.php:78
+#: public/templates/crm/template/list/default/list-default.php:82
+#: public/templates/list/default/list-similar-homes.php:43
+#: public/templates/list/default/featured-list-default.php:62
+#: public/templates/list/default/list-default.php:65
+msgid "No Properties Found"
+msgstr "ไม่พบคุณสมบัติ\t"
+
+#: public/templates/agent/html-agent.php:10
+msgid "Real Estate Agent"
+msgstr "ตัวแทนอสังหาริมทรัพย์\t"
+
+#: public/templates/agent/html-agent.php:15
+msgid "Click to Email"
+msgstr "คลิ๊กเพื่อส่งอีเมล์\t"
+
+#: public/templates/agent/html-agent.php:17
+msgid "Work Phone"
+msgstr "โทรศัพท์ที่ทำงาน\t"
+
+#: public/templates/agent/html-agent.php:18
+msgid "Mobile Phone"
+msgstr "มือถือ\t"
+
+#: public/templates/agent/html-agent.php:22
+msgid "Connect With Us"
+msgstr "ติดต่อเรา\t"
+
+#: public/templates/list/default/get-locations.php:2
+msgid "List of Communities"
+msgstr "รายชื่อชุมชน\t"
+
+#: public/templates/mls/template/single/single-property-more-details.php:4
+msgid "Property ID"
+msgstr "รหัสทรัพย์สิน\t"
+
+#: public/templates/mls/template/single/single-property-more-details.php:8
+msgid "Living Sq. Ft"
+msgstr "ที่อาศัยอยู่ตรว ฟุต\t"
+
+#: public/templates/mls/template/single/single-property-more-details.php:30
+msgid "Location Information"
+msgstr "ข้อมูลสถานที่\t"
+
+#: public/templates/mls/template/single/single-property-more-details.php:32
+msgid "County"
+msgstr "เขต"
+
+#: public/templates/mls/template/single/single-property-more-details.php:34
+msgid "Subdivision"
+msgstr "แผนก"
+
+#: public/templates/mls/template/single/single-property-more-details.php:40
+#: public/templates/mls/template/single/single-property-more-details.php:42
+msgid "Interior Features"
+msgstr "องค์ประกอบภายใน\t"
+
+#: public/templates/mls/template/single/single-property-more-details.php:43
+msgid "Fireplace"
+msgstr "เตาผิง"
+
+#: public/templates/mls/template/single/single-property-more-details.php:44
+msgid "Heating and Fuel"
+msgstr "ความร้อนและน้ำมันเชื้อเพลิง\t"
+
+#: public/templates/mls/template/single/single-property-more-details.php:45
+msgid "Flooring"
+msgstr "พื้น"
+
+#: public/templates/mls/template/single/single-property-more-details.php:46
+msgid "Full Baths"
+msgstr "ห้องอาบน้ำเต็ม\t"
+
+#: public/templates/mls/template/single/single-property-more-details.php:47
+msgid "Air Conditioning"
+msgstr "เครื่องปรับอากาศ\t"
+
+#: public/templates/mls/template/single/single-property-more-details.php:48
+msgid "Heat / Air Conditioning"
+msgstr "ความร้อน / เครื่องปรับอากาศ\t"
+
+#: public/templates/mls/template/single/single-property-more-details.php:49
+msgid "Appliances Included"
+msgstr "เครื่องใช้ไฟฟ้ารวม\t"
+
+#: public/templates/mls/template/single/single-property-more-details.php:55
+#: public/templates/mls/template/single/single-property-more-details.php:62
+msgid "Exterior Features"
+msgstr "คุณสมบัติภายนอก\t"
+
+#: public/templates/mls/template/single/single-property-more-details.php:57
+msgid "Construction"
+msgstr "การก่อสร้าง\t"
+
+#: public/templates/mls/template/single/single-property-more-details.php:58
+msgid "Foundation"
+msgstr "มูลนิธิ"
+
+#: public/templates/mls/template/single/single-property-more-details.php:59
+msgid "Garage Features"
+msgstr "มีโรงรถ\t"
+
+#: public/templates/mls/template/single/single-property-more-details.php:60
+msgid "Garage / Carport"
+msgstr "โรงรถ / หด\t"
+
+#: public/templates/mls/template/single/single-property-more-details.php:61
+msgid "Lot Size Sq Ft"
+msgstr "ขนาดพื้นที่ตารางฟุต\t"
+
+#: public/templates/mls/template/single/single-property-more-details.php:63
+msgid "Roof"
+msgstr "หลังคา\t"
+
+#: public/templates/mls/template/single/single-property-more-details.php:64
+msgid "Utilities"
+msgstr "ยูทิลิตี้"
+
+#: public/templates/mls/template/single/single-property-more-details.php:65
+msgid "Lot Size Acres"
+msgstr "ขนาดพื้นที่เอเคอร์\t"
+
+#: public/templates/mls/template/single/single-property-more-details.php:66
+msgid "Water Frontage"
+msgstr "น้ำเลียบ\t"
+
+#: public/templates/mls/template/single/single-property-more-details.php:67
+msgid "Pool"
+msgstr "สระ"
+
+#: public/templates/mls/template/single/single-property-more-details.php:68
+msgid "Pool Type"
+msgstr "ประเภทสระว่ายน้ำ\t"
+
+#: public/templates/mls/template/single/single-property-more-details.php:74
+msgid "Additional Information"
+msgstr "ข้อมูลเพิ่มเติม\t"
+
+#: public/templates/mls/template/single/single-property-more-details.php:77
+msgid "Property SubType"
+msgstr "subtype คุณสมบัติ\t"
+
+#: public/templates/mls/template/single/single-property-more-details.php:78
+msgid "Taxes"
+msgstr "ภาษี\t"
+
+#: public/templates/mls/template/single/single-property-more-details.php:79
+msgid "Tax Year"
+msgstr "ปีภาษี\t"
+
+#: public/templates/mls/template/single/single-property-more-details.php:80
+msgid "Listing Office"
+msgstr "รายชื่อสำนักงาน\t"
+
+#: public/templates/account/partials/accessform.php:2
+#: public/templates/account/partials/nav.php:3
+msgid "Profile"
+msgstr "ข้อมูลส่วนตัว\t"
+
+#: public/templates/account/partials/profileform.php:3
+#: public/templates/account/partials/emailform.php:3
+msgid "Personal Info"
+msgstr "ข้อมูลส่วนตัว\t"
+
+#: public/templates/account/partials/profileform.php:39
+#: public/templates/account/partials/passwordform.php:9
+msgid "New Password"
+msgstr "รหัสผ่านใหม่\t"
+
+#: public/templates/account/partials/profileform.php:42
+#: public/templates/account/partials/passwordform.php:12
+msgid "Confirm New Password"
+msgstr "ยืนยันรหัสผ่านใหม่\t"
+
+#: public/templates/account/partials/save-search-list.php:1
+msgid "You have"
+msgstr "คุณมี\t"
+
+#: public/templates/account/partials/save-search-list.php:10
+msgid "delete"
+msgstr "การลบ\t"
+
+#: public/templates/account/partials/save-search-list.php:13
+msgid "Subscribe to property alert"
+msgstr "สมัครสมาชิกเพื่อรับการแจ้งเตือนสถานที่ให้บริการ\t"
+
+#: public/templates/account/partials/save-search-list.php:16
+msgid "Run this search"
+msgstr "เรียกใช้การค้นหานี้\t"
+
+#: public/templates/account/partials/passwordform.php:15
+msgid "Save"
+msgstr "บันทึก"

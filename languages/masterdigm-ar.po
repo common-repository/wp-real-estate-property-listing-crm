@@ -1,0 +1,2465 @@
+# Copyright (C) 2014 Masterdigm
+# This file is distributed under the same license as the Masterdigm Package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Masterdigm v1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-01-26 16:17+0800\n"
+"PO-Revision-Date: 2016-01-26 16:18+0800\n"
+"Last-Translator: Allan <allan.paul.casilum@gmail.com>\n"
+"Language-Team: Masterdigm <support@masterdigm.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: pre-install.php:82
+msgid ""
+"Folder wp-content/uploads doesn't exists, please create and make it writeable"
+msgstr ""
+"المجلد الفسفور الابيض بين المحتوى / الإضافات لا موجودا، يرجى إنشاء وجعله "
+"قابل للكتابة"
+
+#: pre-install.php:97
+msgid ""
+"Thank you for installing Masterdigm API, to use and obtain a KEY, please "
+"click right link"
+msgstr ""
+"شكرا لك على تثبيت Masterdigm API، الاستخدام والحصول على مفتاح، اضغط الرابط "
+"الصحيح"
+
+#: pre-install.php:99
+msgid "Plugin Dashboard page"
+msgstr "صفحة لوحة البرنامج المساعد"
+
+#: config.php:103
+msgid "Property Details"
+msgstr "تفاصيل العقار"
+
+#: config.php:104
+msgid "Map and Directions"
+msgstr "الخريطة والاتجاهات"
+
+#: config.php:105
+msgid "School and Information"
+msgstr "المدرسة والإعلام"
+
+#: config.php:106
+msgid "Walk Score"
+msgstr "المشي بالنتيجه"
+
+#: config.php:107
+msgid "Photos"
+msgstr "الصور"
+
+#: config.php:108
+msgid "Video"
+msgstr "فيديو"
+
+#: config.php:109
+msgid "School"
+msgstr "المدرسة"
+
+#: config.php:110 config.php:120 includes/md-query.php:93
+#: components/pdf/class-pdf.php:77
+#: components/savesearch/class-save-search.php:111
+#: public/templates/crm/template/single/single-property-more-details.php:21
+#: public/templates/mls/template/single/single-property-more-details.php:14
+msgid "Price"
+msgstr "السعر"
+
+#: config.php:111 components/savesearch/class-save-search.php:149
+msgid "Baths"
+msgstr "المدرسة"
+
+#: config.php:112
+msgid "Beds"
+msgstr "الأسرة"
+
+#: config.php:113 components/pdf/class-pdf.php:88
+#: public/templates/crm/template/single/single-property-more-details.php:36
+#: public/templates/mls/template/single/single-property-more-details.php:16
+#: public/templates/mls/template/single/single-property-more-details.php:76
+msgid "Year Built"
+msgstr "بنيت عام"
+
+#: config.php:115
+msgid "Find your Home"
+msgstr "البحث عن منزلك"
+
+#: config.php:116
+msgid "Garage"
+msgstr "كراج"
+
+#: config.php:117
+msgid "Next"
+msgstr "التالى"
+
+#: config.php:118
+msgid "Previous"
+msgstr "سابق"
+
+#: config.php:119
+msgid "Property Code"
+msgstr "قانون الملكية"
+
+#: config.php:121
+msgid "Min Price"
+msgstr "مين الأسعار"
+
+#: config.php:122
+msgid "Max Price"
+msgstr "ماكس الأسعار"
+
+#: config.php:123 admin/components/shortcodes/view/list-properties.php:43
+#: admin/components/shortcodes/view/flexmls-list-properties.php:44
+#: public/templates/crm/template/single/single-property-more-details.php:6
+msgid "Type"
+msgstr "اكتب"
+
+#: config.php:124
+msgid "Any Bed"
+msgstr "أي سرير"
+
+#: config.php:125
+msgid "Any Bath"
+msgstr "أي حمام"
+
+#: config.php:126
+msgid "Enter Location here"
+msgstr "أدخل الموقع هنا"
+
+#: config.php:127
+msgid "Type any Keyword here"
+msgstr "اكتب أي كلمة هنا"
+
+#: config.php:128
+msgid "Search"
+msgstr "البحث عنالبحث عن"
+
+#: config.php:129
+msgid "More Search Options"
+msgstr "خيارات أكثر للبحث"
+
+#: config.php:130
+msgid "Min Floor Area"
+msgstr "دقيقة طابقية"
+
+#: config.php:131
+msgid "Min Lot Area"
+msgstr "دقيقة لوط المنطقة"
+
+#: config.php:132
+#: public/templates/mls/template/single/single-property-more-details.php:13
+msgid "Lot Area"
+msgstr "الكثير المنطقة"
+
+#: config.php:133
+msgid "Floor Area"
+msgstr "المساحة الأرضية"
+
+#: enfold-function.php:40 includes/md-functions.php:107
+msgid "Homes for Sale And Rent in"
+msgstr "بيوت للبيع و التأجير في"
+
+#: includes/md-search-form.php:355
+#: admin/components/shortcodes/view/list-properties.php:49
+#: admin/components/shortcodes/view/flexmls-list-properties.php:50
+#: admin/components/shortcodes/view/mls-list-properties.php:49
+#: public/templates/searchform/search-form-v2.php:20
+#: public/templates/searchform/search-form-v4.php:21
+#: public/templates/searchform/search-form-v3.php:20
+msgid "For Sale"
+msgstr "للبيع"
+
+#: includes/md-search-form.php:392
+#: admin/components/shortcodes/view/list-properties.php:50
+#: admin/components/shortcodes/view/flexmls-list-properties.php:51
+#: public/templates/searchform/search-form-v2.php:25
+#: public/templates/searchform/search-form-v4.php:26
+#: public/templates/searchform/search-form-v3.php:25
+msgid "For Rent"
+msgstr "للإيجار"
+
+#: includes/md-query.php:88
+msgid "Call for pricing"
+msgstr "الدعوة إلى التسعير"
+
+#: includes/md-search-result.php:79
+msgid "Show Map Full Screen"
+msgstr "عرض خريطة الشاشة الكاملة"
+
+#: includes/md-search-result.php:85
+msgid "Show normal map screen"
+msgstr "عرض خريطة الشاشة العادية"
+
+#: includes/md-search-result.php:97
+msgid "Map View"
+msgstr "عرض على الخريطة"
+
+#: includes/md-search-result.php:99
+msgid "Photo View"
+msgstr "الصورة الفوتوغرافية"
+
+#: includes/md-single.php:110
+msgid "Homes for Sale"
+msgstr "بيوت للبيع"
+
+#: admin/class-masterdigm-api-admin.php:110
+msgid ""
+"Warning! Do not interrupt, Updating / Creating page by location now, please "
+"wait"
+msgstr "تحذير! لا يقطع، تحديث / إنشاء الصفحة عن طريق موقع الآن، يرجى الانتظار"
+
+#: admin/components/propertyalert/class-admin-property-alert.php:49
+#: admin/components/propertyalert/class-admin-property-alert.php:50
+msgid "Property Alert API"
+msgstr "خاصية تنبيه API"
+
+#: admin/components/propertyalert/view/index_page.php:5
+msgid "Property Alert Settings"
+msgstr "إعدادات خاصية تنبيه"
+
+#: admin/components/propertyalert/view/index_page.php:19
+msgid "Add Message for successfully un-subscribe"
+msgstr "إضافة نص الرسالة بنجاح إلغاء الاشتراك"
+
+#: admin/components/propertyalert/view/index_page.php:24
+msgid "Add Message for fail un-subscribe"
+msgstr "إضافة نص الرسالة فشل الغاء الاشتراك"
+
+#: admin/components/propertyalert/view/index_page.php:27
+#: admin/components/subscribeapi/view/credentials_form.php:54
+#: admin/components/socialapi/view/add.php:33
+#: admin/components/credentials/view/tab-crm.php:52
+#: admin/components/settings/view/index.php:177
+#: public/templates/account/partials/accessform.php:15
+#: public/templates/account/partials/profileform.php:26
+#: public/templates/account/partials/profileform.php:45
+#: public/templates/account/partials/save-search-list.php:24
+#: public/templates/account/partials/emailform.php:19
+msgid "Update"
+msgstr "تحديث"
+
+#: admin/components/subscribeapi/class-subscribe-api.php:224
+msgid "Please provide valid email address"
+msgstr "يرجى تقديم عنوان بريد إلكتروني صالح"
+
+#: admin/components/subscribeapi/class-subscribe-api.php:255
+msgid "Error in activation key"
+msgstr "خطأ في مفتاح التنشيط"
+
+#: admin/components/subscribeapi/class-subscribe-api.php:278
+msgid "Error in masterdigm code activation "
+msgstr "خطأ في رمز التنشيط masterdigm"
+
+#: admin/components/subscribeapi/view/credentials_form.php:17
+#: admin/components/credentials/view/tab-crm.php:11
+msgid "Choose property status"
+msgstr "اختيار وضع الملكية"
+
+#: admin/components/subscribeapi/view/credentials_form.php:24
+msgid "Choose property status to finish installation"
+msgstr "اختيار وضع الملكية لإنهاء التثبيت"
+
+#: admin/components/subscribeapi/view/credentials_form.php:29
+#: admin/components/credentials/view/tab-crm.php:23
+msgid "Property Data Feed"
+msgstr "تغذية بيانات الملكية"
+
+#: admin/components/subscribeapi/view/credentials_form.php:32
+#: admin/components/credentials/view/tab-crm.php:26
+msgid "Select Data Feed"
+msgstr "حدد تغذية البيانات"
+
+#: admin/components/subscribeapi/view/index.php:22
+#: admin/components/wizard/view/step-one.php:2
+msgid "Welcome to"
+msgstr "مرحبا بكم في"
+
+#: admin/components/subscribeapi/view/index.php:45
+msgid "Activate Code"
+msgstr "تفعيل قانون"
+
+#: admin/components/subscribeapi/view/index.php:51
+msgid "The simple and powerful real estate plugin"
+msgstr "البرنامج المساعد العقاري بسيطة وقوية"
+
+#: admin/components/subscribeapi/view/index.php:53
+msgid ""
+"Masterdigm Wordpress plugin is unlike other simple WP plugins.  Within "
+"minutes you will see demo properties on your site!   Easy to use, packed "
+"with features and awesome plugin support.  Start today and see the "
+"Masterdigm WP Plugin difference.  We respect your privacy and can opt-out "
+"anytime.   Simply add your email below.. we will send you a verification "
+"link and you are ready to go!"
+msgstr ""
+"Masterdigm وورد البرنامج المساعد خلافا لغيرها من الإضافات وردبريس بسيطة. في "
+"غضون دقائق سترى خصائص تجريبي على موقع الويب الخاص بك! سهلة الاستخدام، ومعبأة "
+"مع الميزات والدعم المساعد رهيبة. تبدأ اليوم وانظر الفرق Masterdigm WP "
+"المساعد. نحن نحترم خصوصيتك ويمكن استبعاد أي وقت. ببساطة إضافة بريدك "
+"الإلكتروني أدناه .. سوف نرسل لك وصلة التحقق وكنت على استعداد للذهاب!"
+
+#: admin/components/subscribeapi/view/index.php:58
+#: components/inquireform/class-inquire.php:105
+#: components/pdf/class-pdf.php:107
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+#: admin/components/subscribeapi/view/index.php:62
+msgid ""
+"please provide email, or change email address, this will be use to signup an "
+"account in masterdigm"
+msgstr ""
+"يرجى تقديم البريد الإلكتروني، أو تغيير عنوان البريد الإلكتروني، وهذا سيتم "
+"استخدامها لحساب الاشتراك في masterdigm"
+
+#: admin/components/subscribeapi/view/index.php:67
+msgid "Company"
+msgstr "شركة"
+
+#: admin/components/subscribeapi/view/index.php:71
+#: components/signupform/view/form.php:12
+#: public/templates/account/partials/accessform.php:4
+#: public/templates/account/partials/profileform.php:10
+#: public/templates/account/partials/profileform.php:11
+#: public/templates/account/partials/emailform.php:8
+msgid "First Name"
+msgstr "الاسم الأول"
+
+#: admin/components/subscribeapi/view/index.php:75
+#: components/signupform/view/form.php:15
+#: public/templates/account/partials/accessform.php:7
+#: public/templates/account/partials/profileform.php:14
+#: public/templates/account/partials/profileform.php:15
+#: public/templates/account/partials/emailform.php:11
+msgid "Last Name"
+msgstr "الاسم الاخير"
+
+#: admin/components/subscribeapi/view/index.php:82
+msgid "Subscribe"
+msgstr "الاشتراك"
+
+#: admin/components/subscribeapi/view/index.php:85
+msgid ""
+"Important! Username and password will be sent to you're email address you "
+"provide, please check your email inbox or in spam"
+msgstr ""
+"مهم! سيتم إرسال اسم المستخدم وكلمة السر لأنك عنوان البريد الإلكتروني كنت أنت "
+"تقدم، يرجى مراجعة صندوق البريد الإلكتروني الخاص بك أو في البريد المزعج"
+
+#: admin/components/subscribeapi/view/index.php:90
+msgid "Or if you already have API keys, fill up the fields below"
+msgstr "أو إذا كان لديك بالفعل مفاتيح API، تملأ الحقول أدناه"
+
+#: admin/components/subscribeapi/view/index.php:93
+msgid ""
+"To complete your installation, you need to choose default property status "
+"( found in CRM > Tools and Setting > Manage Property Status Field )"
+msgstr ""
+"لإكمال عملية التثبيت، تحتاج إلى اختيار وضع الخاصية الافتراضية (وجدت في CRM> "
+"أدوات وإعداد> إدارة الممتلكات الحالة الميدانية)"
+
+#: admin/components/mailcontent/view/index.php:2
+msgid "Mail Content"
+msgstr "المحتوى الإلكتروني"
+
+#: admin/components/mailcontent/view/index.php:4
+msgid ""
+"The email content below is the email the user receives upon subscribing.  Be "
+"sure to include the string variable, e.g., %username% and %password% so they "
+"will receive their log in credentials."
+msgstr ""
+"محتوى البريد الإلكتروني أقل من البريد الإلكتروني يتلقى المستخدم على "
+"الاشتراك. تأكد من تضمين متغير سلسلة، على سبيل المثال،٪ اسم المستخدم٪ و٪ السر"
+"٪ حتى انهم سوف تلقي سجل في بيانات الاعتماد."
+
+#: admin/components/mailcontent/view/index.php:7
+msgid "Use the below string variables to create your email below."
+msgstr "استخدام متغيرات السلسلة التالية لإنشاء البريد الالكتروني أدناه."
+
+#: admin/components/socialapi/class-social-api.php:52
+#: admin/components/socialapi/class-social-api.php:53
+msgid "Social API"
+msgstr "API الاجتماعي"
+
+#: admin/components/socialapi/view/add.php:5
+msgid "Provide social api credentials."
+msgstr "تقديم أوراق اعتماد المعهد الاجتماعية."
+
+#: admin/components/socialapi/view/add.php:25
+msgid "Link to create facebook app"
+msgstr "رابط لخلق الفيسبوك التطبيق"
+
+#: admin/components/wizard/class-wizard.php:46
+msgid ""
+"Folder wp-content/uploads doesn't exists, please create and make it writable"
+msgstr ""
+"المجلد الفسفور الابيض بين المحتوى / الإضافات لا موجودا، يرجى إنشاء وجعله "
+"قابل للكتابة"
+
+#: admin/components/wizard/class-wizard.php:51
+msgid "The permalinks, need to set up so the url will work in property pages"
+msgstr "والثابتة Permalinks، تحتاج إلى إعداد لذلك رابط ستعمل في صفحات الخصائص"
+
+#: admin/components/wizard/class-wizard.php:57
+msgid " page already exists, please check or rename the page title and the url"
+msgstr ""
+"صفحة موجودة بالفعل، يرجى مراجعة أو إعادة تسمية عنوان الصفحة وعنوان الموقع"
+
+#: admin/components/wizard/view/step-one.php:4
+msgid "Thank you for choosing Masterdigm CRM as your property solutions"
+msgstr "شكرا لكم لاختيار Masterdigm CRM كحلول الممتلكات الخاصة بك"
+
+#: admin/components/wizard/view/step-one.php:7
+msgid ""
+"Before signing-up for API Keys, we would like you to check on these issues "
+"below and please fix them :"
+msgstr ""
+"قبل التوقيع المتابعة لAPI مفاتيح، نود منك للاطمئنان على هذه القضايا أدناه "
+"والرجاء اصلاحها:"
+
+#: admin/components/wizard/view/step-one.php:12
+msgid "The upload folder is needed so the cache can put data in there"
+msgstr "هناك حاجة إلى مجلد التحميل حتى على مخبأ يمكن وضع البيانات في وجود"
+
+#: admin/components/wizard/view/step-one.php:19
+msgid "The permalinks, need to setup so the url will work in property pages"
+msgstr ""
+"والثابتة Permalinks، تحتاج إلى الإعداد لذلك رابط ستعمل في صفحات الخصائص"
+
+#: admin/components/wizard/view/step-one.php:26
+msgid ""
+"Those pages are needed to display property data from CRM, those hold as "
+"placeholder and contain shortcodes"
+msgstr ""
+"وهناك حاجة إلى تلك الصفحات لعرض بيانات الملكية من CRM، تلك عقد كعنصر نائب "
+"واحتواء الهاتفية القصيرة"
+
+#: admin/components/wizard/view/step-one.php:30
+msgid "Refresh"
+msgstr "اعادة تنشيط"
+
+#: admin/components/template/view/index.php:1
+msgid "Template settings"
+msgstr "إعدادات قالب"
+
+#: admin/components/template/view/index.php:3
+msgid "Display Bed"
+msgstr "عرض الشاشة"
+
+#: admin/components/template/view/index.php:5
+#: admin/components/template/view/index.php:11
+#: admin/components/template/view/index.php:17
+#: admin/components/settings/class-settings.php:205
+#: admin/components/settings/class-settings.php:211
+#: admin/components/settings/class-settings.php:218
+msgid "Yes"
+msgstr "نعم فعلا"
+
+#: admin/components/template/view/index.php:6
+#: admin/components/template/view/index.php:12
+#: admin/components/template/view/index.php:18
+#: admin/components/settings/class-settings.php:204
+#: admin/components/settings/class-settings.php:212
+#: admin/components/settings/class-settings.php:219
+msgid "No"
+msgstr "لا"
+
+#: admin/components/template/view/index.php:9
+msgid "Display Bath"
+msgstr "عرض الشاشة"
+
+#: admin/components/template/view/index.php:15
+msgid "Display Garage"
+msgstr "عرض الشاشة"
+
+#: admin/components/credentials/class-credentials.php:64
+msgid "Please provide property CRM api token / key"
+msgstr "يرجى تقديم الملكية CRM API رمز / مفتاح"
+
+#: admin/components/credentials/class-credentials.php:71
+msgid "You must have a CRM API key"
+msgstr "يجب أن يكون لديك مفتاح API CRM"
+
+#: admin/components/credentials/class-credentials.php:80
+msgid "Please provide API credentials"
+msgstr "يرجى تقديم أوراق اعتماد API"
+
+#: admin/components/credentials/class-credentials.php:89
+msgid "Please choose data to feed"
+msgstr "الرجاء اختيار البيانات لتغذية"
+
+#: admin/components/credentials/class-credentials.php:105
+msgid "Error in API key / token"
+msgstr "خطأ في مفتاح API / رمز"
+
+#: admin/components/credentials/view/tab-first.php:3
+msgid "Hello"
+msgstr "أهلا"
+
+#: admin/components/credentials/view/tab-first.php:5
+msgid ""
+"Welcome to Masterdigm!  A full Real Estate plugin highly integrated with "
+"Masterdigm real estate CRM!"
+msgstr ""
+"مرحبا بكم في Masterdigm! A العقارية الكامل الحقيقي البرنامج المساعد متكاملة "
+"للغاية مع Masterdigm العقارات CRM!"
+
+#: admin/components/credentials/view/tab-first.php:7
+msgid ""
+"You will notice several tabs above, i.e., CRM, Webinars, etc.. That will "
+"guide you through the Masterdigm processes."
+msgstr ""
+"ستلاحظ العديد من علامات التبويب أعلاه، أي، CRM، ندوات عبر الإنترنت، الخ .. "
+"وهذا دليل لكم من خلال عمليات Masterdigm."
+
+#: admin/components/credentials/view/tab-first.php:9
+msgid ""
+"We want to see you succeed as a Broker, Agent or Web Development Team!  "
+"Therefore, we have a \"support\" tab to connect with us to ensure your "
+"success!"
+msgstr ""
+"نريد أن نرى لكم النجاح كما سمسار أو وكيل أو فريق تطوير الويب! لذلك، لدينا  "
+"دعم  علامة التبويب في الاتصال معنا لضمان نجاحك!"
+
+#: admin/components/credentials/view/tab-first.php:11
+msgid "Cheers, and we look forward to hearing from you."
+msgstr "هتافات، ونحن نتطلع الى الاستماع منك."
+
+#: admin/components/credentials/view/tab-first.php:16
+msgid "Plugin is fully setup"
+msgstr "البرنامج المساعد هو تماما الإعداد"
+
+#: admin/components/credentials/view/tab-first.php:18
+msgid "Setup Mail"
+msgstr "إعداد البريد"
+
+#: admin/components/credentials/view/tab-first.php:19
+msgid "Setup mail settings to update subscription content"
+msgstr "ضبط البريد الإعداد لتحديث محتوى الاشتراك"
+
+#: admin/components/credentials/view/tab-first.php:21
+msgid "Setup Lead"
+msgstr "الإعداد الرصاص"
+
+#: admin/components/credentials/view/tab-first.php:22
+msgid "Setup lead status and type"
+msgstr "الإعداد وضع الرصاص ونوع"
+
+#: admin/components/credentials/view/tab-first.php:24
+msgid "See Properties"
+msgstr "انظر خصائص"
+
+#: admin/components/credentials/view/tab-first.php:28
+msgid "Click to see properties!"
+msgstr "انقر لرؤية الخصائص!"
+
+#: admin/components/credentials/view/tab-first.php:33
+msgid "Watch this video first!"
+msgstr "مشاهدة هذا الفيديو لأول مرة!"
+
+#: admin/components/credentials/view/tab-first.php:44
+msgid ""
+"PLEASE NOTE | CAUTION: Do not delete the following pages OR the Masterdigm "
+"plugin will not work!"
+msgstr ""
+"يرجى ملاحظة | تنبيه: لا تقم بحذف الصفحات التالية أو سوف المساعد Masterdigm "
+"لا تعمل!"
+
+#: admin/components/credentials/view/tab-first.php:46
+msgid "Property - display the single or full details of property."
+msgstr "الملكية - عرض تفاصيل واحدة أو كاملة الممتلكات."
+
+#: admin/components/credentials/view/tab-first.php:47
+msgid "Search Properties - Display the result of the searched properties"
+msgstr "خصائص البحث - عرض النتيجة من خصائص البحث"
+
+#: admin/components/credentials/view/tab-first.php:48
+msgid "City - Display list of properties base in City"
+msgstr ""
+"المدينة - عرض قائمة قاعدة العقارات في المدينةالمدينة - عرض قائمة قاعدة "
+"العقارات في المدينة"
+
+#: admin/components/credentials/view/tab-first.php:49
+msgid "State - Display list of properties base in State"
+msgstr "الدولة - عرض قائمة قاعدة العقارات في الدولة"
+
+#: admin/components/credentials/view/tab-first.php:50
+msgid "Community - Display list of properties base in Community"
+msgstr "المجتمع - عرض قائمة قاعدة العقارات في المجتمع"
+
+#: admin/components/credentials/view/tab-first.php:51
+msgid "County - Display list of properties base in County"
+msgstr "مقاطعة - عرض قائمة قاعدة العقارات في مقاطعة"
+
+#: admin/components/credentials/view/tab-first.php:56
+msgid "And you want to know more of our plugin and CRM?"
+msgstr "وكنت تريد أن تعرف أكثر من البرنامج المساعد وCRM؟"
+
+#: admin/components/credentials/view/tab-first.php:57
+msgid ""
+"Want to discuss anything else? We offer a free 30 minute Gotomeeting screen-"
+"share where we go into answering questions you may have."
+msgstr ""
+"نريد أن نناقش أي شيء آخر؟ ونحن نقدم 30 دقيقة Gotomeeting الشاشة حصة الحرة "
+"حيث نذهب إلى الإجابة على أسئلة قد تكون لديكم."
+
+#: admin/components/credentials/view/notice.php:3
+msgid "It seems you have no CRM API Key, please "
+msgstr "يبدو لم يكن لديك مفتاح API CRM، يرجى"
+
+#: admin/components/credentials/view/notice.php:4
+msgid "click here to get api key"
+msgstr "انقر هنا للحصول على مفتاح API"
+
+#: admin/components/credentials/view/tab-webinar.php:2
+msgid "Want to join into a webinar?"
+msgstr "هل تريد الانضمام الى الويبينار؟"
+
+#: admin/components/credentials/view/tab-webinar.php:3
+msgid "Sign up and become a VIP Masterdigmer!"
+msgstr "اشترك وتصبح VIP Masterdigmer!"
+
+#: admin/components/credentials/view/index.php:2
+msgid "Welcome to "
+msgstr "مرحبا بكم في"
+
+#: admin/components/credentials/view/tab-crm.php:18
+msgid "choose property status to finish installation"
+msgstr "اختيار وضع الملكية لإنهاء التثبيت"
+
+#: admin/components/credentials/view/tab-crm.php:33
+msgid ""
+"Search Property, Choose which default data to get properties feed, mostly "
+"the default is CRM ( unless masterdigm setup a MLS data on your account )"
+msgstr ""
+"بحث عقارات، اختر أي البيانات الافتراضية للحصول على خصائص تتغذى معظمهم "
+"الافتراضي هو CRM (ما لم masterdigm إعداد البيانات MLS على حسابك)"
+
+#: admin/components/credentials/view/tab-connect-with-us.php:4
+msgid "Are you a Real Estate Brokerage?"
+msgstr "هل أنت وساطة العقارية؟"
+
+#: admin/components/credentials/view/tab-connect-with-us.php:6
+msgid ""
+"If you are a Real Estate Brokerage, we look forward to training you on the "
+"ins-and-outs on utilizing the CRM in conjunction with the Wordpress plugin.  "
+"Start here to learn the Level 1, Level 2, etc.. of managing real estate "
+"leads effectively!"
+msgstr ""
+"إذا كنت وساطة العقارية، ونحن نتطلع إلى تدريب لك على اعتصامات والرافضة على "
+"الاستفادة من CRM بالاشتراك مع وورد البرنامج المساعد. تبدأ هنا لمعرفة مستوى "
+"1، مستوى 2، وما إلى ذلك .. إدارة العقارات يؤدي على نحو فعال!"
+
+#: admin/components/credentials/view/tab-connect-with-us.php:11
+msgid "Are you an Independent Agent?"
+msgstr "هل أنت وكيل مستقل؟"
+
+#: admin/components/credentials/view/tab-connect-with-us.php:13
+msgid "If you are an Agent, and are part of a real estate brokerage,"
+msgstr "إذا كنت وكيلا، والتي هي جزء من شركة سمسرة العقارات،"
+
+#: admin/components/credentials/view/tab-connect-with-us.php:14
+msgid "start here"
+msgstr "أبدأ هنا"
+
+#: admin/components/credentials/view/tab-connect-with-us.php:22
+msgid "Are you a proffesional website development team?"
+msgstr "هل أنت فريق تطوير الموقع محترفون؟"
+
+#: admin/components/credentials/view/tab-connect-with-us.php:24
+msgid ""
+"First of all, we look forward to working with you!  Your clients are always "
+"your clients.  Be part our affiliate program where you can receive a monthly "
+"recurring billing!  Just stay active with us, and receive 5,10,15% monthly "
+"revenues based on your clients CRM usage!"
+msgstr ""
+"أولا وقبل كل شيء، نحن نتطلع إلى العمل معكم! العملاء هم دائما زبائنك. كن جزءا "
+"البرنامج التابع لدينا حيث يمكنك الحصول على الفواتير الشهرية المتكررة! مجرد "
+"البقاء نشطة معنا، والحصول على عائدات شهرية 5،10،15٪ على أساس عملائك استخدام "
+"CRM!"
+
+#: admin/components/credentials/view/tab-connect-with-us.php:25
+msgid "Learn more here!"
+msgstr "تعلم المزيد هنا!"
+
+#: admin/components/credentials/view/tab-connect-with-us.php:29
+msgid "Social Links"
+msgstr "روابط الاجتماعية"
+
+#: admin/components/credentials/view/tab-support.php:5
+msgid "Stuck?  Have an issue with Masterdigm or its premium plugins?"
+msgstr "عالق؟ لديك مشكلة مع Masterdigm أو الإضافات قسط؟"
+
+#: admin/components/credentials/view/tab-support.php:6
+msgid "Click here and you will be redirected to our FAQ page."
+msgstr "اضغط هنا وسيتم توجيهك إلى صفحة الأسئلة الشائعة."
+
+#: admin/components/credentials/view/tab-support.php:9
+msgid "Any other issues?"
+msgstr "أي مسائل أخرى؟"
+
+#: admin/components/credentials/view/tab-support.php:10
+msgid "You have many other ways to connect with us."
+msgstr "لديك العديد من الطرق الأخرى للاتصال معنا."
+
+#: admin/components/credentials/view/tab-support.php:11
+msgid "Zopim live chat within the CRM"
+msgstr "دردشة حية Zopim داخل CRM"
+
+#: admin/components/credentials/view/tab-support.php:12
+msgid "Vcita: on our home page.. Set up a meeting"
+msgstr "Vcita: على الصفحة الرئيسية لدينا .. إعداد اجتماع"
+
+#: admin/components/credentials/view/tab-support.php:13
+msgid "Support tab inside the CRM."
+msgstr "علامة التبويب دعم داخل CRM."
+
+#: admin/components/credentials/view/notice-welcome.php:1
+msgid ""
+"An All-in-One Real Estate Plugin Solution for Brokerages and Agents "
+"Integrated with a High Powered Real Estate CRM Solution."
+msgstr ""
+"المساعد حل الكل في واحد عقارات لشركات السمسرة وكلاء المتكاملة مع حلول CRM "
+"عقارات رفيع المستوى."
+
+#: admin/components/credentials/view/tab-getting-started.php:2
+msgid "Step 1"
+msgstr "الخطوة 1"
+
+#: admin/components/credentials/view/tab-getting-started.php:6
+msgid "Step 2"
+msgstr "الخطوة 2"
+
+#: admin/components/credentials/view/tab-getting-started.php:10
+msgid "Step 3"
+msgstr "الخطوة 3"
+
+#: admin/components/tagcontent/class-tag-content.php:60
+#: admin/components/tagcontent/class-tag-content.php:61
+#: admin/components/tagcontent/view/list.php:6
+msgid "Tag Content"
+msgstr "العلامة المحتوى"
+
+#: admin/components/tagcontent/class-tag-content.php:88
+#: admin/components/tagcontent/class-tag-content.php:111
+msgid "Please provide property or location data"
+msgstr "يرجى تقديم بيانات الملكية أو موقع"
+
+#: admin/components/tagcontent/class-tag-content.php:167
+#: admin/components/tagcontent/class-tag-content.php:210
+msgid "Single property ( provide URL )"
+msgstr "خاصية واحدة (تقديم URL)"
+
+#: admin/components/tagcontent/class-tag-content.php:168
+#: admin/components/tagcontent/class-tag-content.php:211
+msgid "State ( provide ID or state name)"
+msgstr "الدولة (تقديم هوية أو اسم الدولة)"
+
+#: admin/components/tagcontent/class-tag-content.php:169
+#: admin/components/tagcontent/class-tag-content.php:212
+msgid "City ( provide ID or city name)"
+msgstr "المدينة (تقديم هوية أو اسم مدينة)"
+
+#: admin/components/tagcontent/class-tag-content.php:170
+#: admin/components/tagcontent/class-tag-content.php:213
+msgid "Community ( provide ID or community name)"
+msgstr "المجتمع (تقديم هوية أو اسم الجماعة)"
+
+#: admin/components/tagcontent/class-tag-content.php:182
+#: admin/components/tagcontent/class-tag-content.php:194
+#: admin/components/tagcontent/class-tag-content.php:224
+#: admin/components/tagcontent/class-tag-content.php:236
+msgid "Display Title only"
+msgstr "عرض العنوان فقط"
+
+#: admin/components/tagcontent/class-tag-content.php:183
+#: admin/components/tagcontent/class-tag-content.php:195
+#: admin/components/tagcontent/class-tag-content.php:225
+#: admin/components/tagcontent/class-tag-content.php:237
+msgid "Display Title with Excerpt"
+msgstr "عرض عنوان مع مقتطفات"
+
+#: admin/components/tagcontent/class-tag-content.php:188
+#: admin/components/tagcontent/class-tag-content.php:230
+msgid "name"
+msgstr "اسم"
+
+#: admin/components/tagcontent/class-tag-content.php:217
+#: admin/components/tagcontent/class-tag-content.php:411
+msgid "any"
+msgstr "أي"
+
+#: admin/components/tagcontent/view/list.php:10
+msgid "Add New Tag Content"
+msgstr "إضافة جديدة الوسم المحتوى"
+
+#: admin/components/tagcontent/view/list.php:19
+msgid "Property Address / Location"
+msgstr "عنوان العقار / الدولة"
+
+#: admin/components/tagcontent/view/list.php:22
+msgid "Property / Location ( Name / ID )"
+msgstr "الملكية / الموقع (الاسم / ID)"
+
+#: admin/components/tagcontent/view/list.php:25
+msgid "Action"
+msgstr "إجراء"
+
+#: admin/components/tagcontent/view/list.php:41
+msgid "Edit"
+msgstr "تحرير"
+
+#: admin/components/tagcontent/view/list.php:42
+msgid "Delete"
+msgstr "حذف"
+
+#: admin/components/tagcontent/view/add.php:5
+#: admin/components/tagcontent/view/edit.php:5
+msgid "Add new content to tag in property."
+msgstr "إضافة محتوى جديد لوضع علامة في الممتلكات."
+
+#: admin/components/tagcontent/view/add.php:19
+#: admin/components/tagcontent/view/edit.php:19
+msgid ""
+"Choose what property you want to associate with content, single property / "
+"location (city, state or cummunity )"
+msgstr ""
+"اختيار ما الخاصية التي تريد ربط مع المحتوى، خاصية واحدة / الموقع (المدينة "
+"والولاية أو cummunity)"
+
+#: admin/components/tagcontent/view/add.php:31
+#: admin/components/tagcontent/view/edit.php:31
+msgid ""
+"Provide URL if you choose single property, else ID or location name if you "
+"choose locations"
+msgstr ""
+"توفير URL إذا اخترت خاصية واحدة، ID آخر أو اسم الموقع إذا اخترت المواقع"
+
+#: admin/components/tagcontent/view/add.php:35
+#: admin/components/tagcontent/view/edit.php:35
+msgid ""
+"Choose which page to associate with the property, To select multiple "
+"content, hold down shift and choose any content"
+msgstr ""
+"اختر الصفحة التي اقترانه الملكية، لتحديد محتوى متعددة، باستمرار التحول "
+"واختيار أي محتوى"
+
+#: admin/components/tagcontent/view/add.php:49
+#: admin/components/tagcontent/view/edit.php:50
+msgid "Display featured image on the choosen content?"
+msgstr "عرض ظهرت الصورة على المحتوى المختار؟"
+
+#: admin/components/tagcontent/view/add.php:54
+#: admin/components/tagcontent/view/edit.php:55
+msgid "Choose how to display the content list"
+msgstr "اختيار كيفية عرض قائمة المحتويات"
+
+#: admin/components/tagcontent/view/add.php:65
+#: admin/components/tagcontent/view/edit.php:66
+msgid "Choose category to associate"
+msgstr "اختر الفئة المنتسبين"
+
+#: admin/components/tagcontent/view/add.php:79
+#: admin/components/tagcontent/view/edit.php:81
+msgid "Display category, content featured image?"
+msgstr "فئة العرض، المحتوى ظهرت الصورة؟"
+
+#: admin/components/tagcontent/view/add.php:84
+#: admin/components/tagcontent/view/edit.php:86
+msgid "Choose how to display the category content list"
+msgstr "اختيار كيفية عرض قائمة المحتويات الفئة"
+
+#: admin/components/tagcontent/view/add.php:94
+msgid "Add Tag Content"
+msgstr "أضف شعارا المحتوى"
+
+#: admin/components/tagcontent/view/edit.php:96
+msgid "Update Tag Content"
+msgstr "تحديث علامة المحتوى"
+
+#: admin/components/createlocationpage/class-createlocationpage.php:45
+#: admin/components/createlocationpage/class-createlocationpage.php:46
+msgid "Create page base on location"
+msgstr "إنشاء قاعدة صفحة على الموقع"
+
+#: admin/components/createlocationpage/class-createlocationpage.php:88
+msgid "It seems you have already create pages by location."
+msgstr "يبدو أنك بالفعل إنشاء صفحات حسب الموقع."
+
+#: admin/components/createlocationpage/class-createlocationpage.php:89
+msgid ""
+"you can set status of the pages, If you want to update the pages re-run it "
+"and it will auto detect those locations you add in the CRM"
+msgstr ""
+"يمكنك تغيير الحالة من الصفحات، إذا كنت تريد تحديث صفحات إعادة تشغيل وأنها "
+"سوف السيارات الكشف عن تلك المواقع التي تضيف في CRM"
+
+#: admin/components/createlocationpage/class-createlocationpage.php:90
+msgid ""
+"You can also set status or delete it ( not the delete is force, it will not "
+"mark as trash ) it will remove those last pages you created ( check the date "
+"below \"last activity\" )"
+msgstr ""
+"يمكنك أيضا تغيير الحالة أو حذفه (وليس حذف هو القوة، فإنه لن احتفالا ب "
+"القمامة) أنه سيتم إزالة تلك الصفحات الأخيرة التي تم إنشاؤها (التحقق من تاريخ "
+"أدناه  النشاط الأخير)"
+
+#: admin/components/createlocationpage/class-createlocationpage.php:91
+msgid "Update Page"
+msgstr "تحديث الصفحة"
+
+#: admin/components/createlocationpage/class-createlocationpage.php:93
+msgid "Publish"
+msgstr "نشر"
+
+#: admin/components/createlocationpage/class-createlocationpage.php:94
+msgid "Draft"
+msgstr "مسودة"
+
+#: admin/components/createlocationpage/class-createlocationpage.php:95
+msgid "Trash"
+msgstr "قمامة"
+
+#: admin/components/createlocationpage/view/add.php:5
+msgid "Create Page by Location."
+msgstr "إنشاء قاعدة صفحة على الموقع"
+
+#: admin/components/createlocationpage/view/add.php:10
+msgid "Last Activity"
+msgstr "النشاط الاخير"
+
+#: admin/components/createlocationpage/view/add.php:16
+msgid "Date"
+msgstr "التاريخ"
+
+#: admin/components/createlocationpage/view/add.php:17
+msgid "Total Page created"
+msgstr "مجموع تم إنشاء الصفحة"
+
+#: admin/components/createlocationpage/view/add.php:22
+msgid "No last activity, create page now."
+msgstr "لا يوجد أي نشاط آخر، وخلق الصفحة الآن."
+
+#: admin/components/shortcodes/class-crm-featured-properties.php:139
+msgid "Featured Properties"
+msgstr "خصائص مميزة"
+
+#: admin/components/shortcodes/class-crm-featured-properties.php:149
+#: admin/components/shortcodes/view/list-properties.php:57
+#: admin/components/shortcodes/view/flexmls-list-properties.php:58
+#: admin/components/shortcodes/view/mls-list-properties.php:55
+msgid "Choose template to display"
+msgstr "اختيار قالب لعرضه"
+
+#: admin/components/shortcodes/class-crm-featured-properties.php:155
+#: admin/components/shortcodes/class-md-list-property-by.php:127
+#: admin/components/shortcodes/class-md-search-result.php:165
+#: admin/components/shortcodes/view/list-properties.php:58
+#: admin/components/shortcodes/view/flexmls-list-properties.php:59
+#: admin/components/shortcodes/view/mls-list-properties.php:56
+msgid "Set property per columns ( should be divided by 12 )"
+msgstr "تعيين الخاصية في الأعمدة (يجب أن يكون مقسوما 12)"
+
+#: admin/components/shortcodes/class-crm-featured-properties.php:161
+msgid "How many to display (zero means all)"
+msgstr "كم عدد لعرض (صفر يعني كل)"
+
+#: admin/components/shortcodes/class-crm-featured-properties.php:167
+msgid "Choose Transaction"
+msgstr "اختيار عملية"
+
+#: admin/components/shortcodes/class-crm-list-properties.php:314
+#: admin/components/shortcodes/class-mls-list-properties.php:321
+msgid "List Properties"
+msgstr "قائمة العقارات"
+
+#: admin/components/shortcodes/class-crm-list-properties.php:320
+#: admin/components/shortcodes/class-flexmls-listings.php:226
+msgid "Insert Property by search criteria API"
+msgstr "إدراج الملكية وفقا لمعايير البحث API"
+
+#: admin/components/shortcodes/class-mls-list-property-by.php:49
+msgid "List Property By"
+msgstr "قائمة الممتلكات من قبل"
+
+#: admin/components/shortcodes/class-md-list-property-by.php:117
+msgid "List Property By Breadcrumb"
+msgstr "قائمة الممتلكات عن طريق التفصيلي"
+
+#: admin/components/shortcodes/class-md-list-property-by.php:120
+msgid ""
+"Display properties base on breadcrumb url landing page or url filter by "
+"breadcrumb."
+msgstr ""
+"خصائص قاعدة العرض على الصفحة المقصودة التفصيلي رابط أو تصفية URL التي كتبها "
+"التفصيلي."
+
+#: admin/components/shortcodes/class-md-list-property-by.php:134
+msgid ""
+"Show child location? If the location is state it will show list of city, if "
+"its city it will show list of communities"
+msgstr ""
+"عرض موقع الطفل؟ إذا كان الموقع هو دولة وسوف تظهر قائمة من المدينة، إذا مدنها "
+"وسوف تظهر قائمة المجتمعات"
+
+#: admin/components/shortcodes/class-md-list-property-by.php:140
+#: admin/components/shortcodes/class-md-search-result.php:171
+#: admin/components/shortcodes/view/list-properties.php:55
+#: admin/components/shortcodes/view/flexmls-list-properties.php:56
+#: admin/components/shortcodes/view/mls-list-properties.php:53
+msgid ""
+"Show Infinite Scroll? this will show the scrolling ajax instead of tix \"how "
+"many display\""
+msgstr ""
+"عرض اللانهائي انتقل؟ هذا سوف تظهر اياكس التمرير بدلا من TIX كم عدد العرض "
+
+#: admin/components/shortcodes/class-mls-list-properties.php:327
+msgid "Insert Property by search criteria - MLS"
+msgstr "إدراج الملكية وفقا لمعايير البحث - MLS"
+
+#: admin/components/shortcodes/class-mls-get-locations.php:158
+#: admin/components/shortcodes/class-crm-get-locations.php:157
+msgid "List Locations"
+msgstr "قائمة المواقع"
+
+#: admin/components/shortcodes/class-mls-get-locations.php:164
+#: admin/components/shortcodes/class-crm-get-locations.php:163
+msgid "Insert locations"
+msgstr "مواقع إدراج"
+
+#: admin/components/shortcodes/class-flexmls-listings.php:220
+msgid "Flexmls List Properties"
+msgstr "قائمة Flexmls عقارات"
+
+#: admin/components/shortcodes/class-md-single-property.php:122
+msgid "I would like to get more information regarding"
+msgstr "أود الحصول على مزيد من المعلومات حول"
+
+#: admin/components/shortcodes/class-md-single-property.php:210
+msgid "Single Property"
+msgstr "خاصية واحدة"
+
+#: admin/components/shortcodes/class-md-single-property.php:213
+msgid "Single Property page"
+msgstr "الصفحة خاصية واحدة"
+
+#: admin/components/shortcodes/class-md-single-property.php:220
+msgid "Choose carousel gallery"
+msgstr "اختيار معرض دائري"
+
+#: admin/components/shortcodes/class-md-single-property.php:226
+#: admin/components/shortcodes/class-md-search-result.php:159
+msgid "Choose Template"
+msgstr "اختيار قالب"
+
+#: admin/components/shortcodes/class-md-single-property.php:232
+msgid "Show Nearby properties?"
+msgstr "شاهد العقارات القريبة؟"
+
+#: admin/components/shortcodes/class-md-single-property.php:238
+msgid "Nearby Property, how many column to display ( should be divided by 12 )"
+msgstr "الملكية قريب، وكم العمود لعرض (يجب أن يكون مقسوما 12)"
+
+#: admin/components/shortcodes/class-subscriber-shortcode.php:84
+msgid "Subscriber Dashboard"
+msgstr "لوحة المشترك"
+
+#: admin/components/shortcodes/class-mls-single-property.php:49
+#: admin/components/shortcodes/class-crm-single-property.php:102
+msgid "Display Single Property"
+msgstr "عرض احدة العقار"
+
+#: admin/components/shortcodes/class-mls-single-property.php:54
+#: admin/components/shortcodes/class-crm-single-property.php:107
+msgid "Property id"
+msgstr "رقم العقار"
+
+#: admin/components/shortcodes/class-mls-lastupdate-property.php:60
+msgid "Last Update Property"
+msgstr "آخر تحديث للملكية"
+
+#: admin/components/shortcodes/class-crm-single-property.php:112
+msgid "Enter property id, for multiple id seperate it by comma (1,2,3)"
+msgstr "أدخل رقم العقار، لهوية متعددة منفصلة من قبل فاصلة (1،2،3)"
+
+#: admin/components/shortcodes/class-md-search-result.php:149
+#: admin/components/shortcodes/class-md-search-result.php:152
+msgid "Search Property Result"
+msgstr "نتيجة البحث الملكية"
+
+#: admin/components/shortcodes/class-crm-unsubscribe.php:69
+msgid "Unsubscribe Process"
+msgstr "عملية إلغاء الاشتراك"
+
+#: admin/components/shortcodes/class-md-search-form.php:107
+#: admin/components/shortcodes/class-md-search-form.php:110
+msgid "Search Property Form"
+msgstr "نموذج بحث الملكية"
+
+#: admin/components/shortcodes/class-md-search-form.php:117
+msgid "Choose template UI"
+msgstr "اختيار قالب UI"
+
+#: admin/components/shortcodes/view/list-properties.php:32
+#: admin/components/shortcodes/view/mls-get-locations.php:33
+#: admin/components/shortcodes/view/flexmls-list-properties.php:33
+#: admin/components/shortcodes/view/mls-list-properties.php:32
+msgid "Type Location"
+msgstr "نوع الموقع"
+
+#: admin/components/shortcodes/view/list-properties.php:38
+#: admin/components/shortcodes/view/flexmls-list-properties.php:39
+#: admin/components/shortcodes/view/mls-list-properties.php:38
+msgid "List by how many Bathrooms in property"
+msgstr "قائمة بعدد دورات المياه في الممتلكات"
+
+#: admin/components/shortcodes/view/list-properties.php:39
+#: admin/components/shortcodes/view/flexmls-list-properties.php:40
+#: admin/components/shortcodes/view/mls-list-properties.php:39
+msgid "List by how many Bedrooms in property"
+msgstr "قائمة بعدد غرف نوم في الممتلكات"
+
+#: admin/components/shortcodes/view/list-properties.php:40
+#: admin/components/shortcodes/view/flexmls-list-properties.php:41
+#: admin/components/shortcodes/view/mls-list-properties.php:40
+msgid ""
+"List by minimum listprice in property (number format only, example: 123456)"
+msgstr ""
+"قائمة بالحد الأدنى من سعر القائمة في الممتلكات (الشكل الرقم فقط، مثلا: "
+"123456)"
+
+#: admin/components/shortcodes/view/list-properties.php:41
+#: admin/components/shortcodes/view/flexmls-list-properties.php:42
+#: admin/components/shortcodes/view/mls-list-properties.php:41
+msgid ""
+"List by maximum listprice in property (number format only, example: 123456)"
+msgstr ""
+"القائمة عن طريق أقصى سعر القائمة في الممتلكات (الشكل الرقم فقط، مثلا: 123456)"
+
+#: admin/components/shortcodes/view/list-properties.php:42
+#: admin/components/shortcodes/view/flexmls-list-properties.php:43
+#: admin/components/shortcodes/view/mls-list-properties.php:42
+#: public/templates/crm/template/single/single-property-more-details.php:4
+#: public/templates/mls/template/single/single-property-more-details.php:5
+msgid "Status"
+msgstr "الحالة"
+
+#: admin/components/shortcodes/view/list-properties.php:47
+#: admin/components/shortcodes/view/flexmls-list-properties.php:48
+#: admin/components/shortcodes/view/mls-list-properties.php:47
+msgid "Transaction"
+msgstr "صفقة"
+
+#: admin/components/shortcodes/view/list-properties.php:51
+#: admin/components/shortcodes/view/flexmls-list-properties.php:52
+msgid "Foreclosure"
+msgstr "حبس الرهن"
+
+#: admin/components/shortcodes/view/list-properties.php:54
+#: admin/components/shortcodes/view/flexmls-list-properties.php:55
+#: admin/components/shortcodes/view/mls-list-properties.php:52
+msgid "How many property to display"
+msgstr "كم عدد الملكية لعرضه"
+
+#: admin/components/shortcodes/view/list-properties.php:56
+#: admin/components/shortcodes/view/flexmls-list-properties.php:57
+#: admin/components/shortcodes/view/mls-list-properties.php:54
+msgid "Show Pagination?"
+msgstr "إظهار ترقيم الصفحات؟"
+
+#: admin/components/shortcodes/view/list-properties.php:62
+#: admin/components/shortcodes/view/get-locations.php:39
+#: admin/components/shortcodes/view/mls-get-locations.php:38
+#: admin/components/shortcodes/view/flexmls-list-properties.php:63
+#: admin/components/shortcodes/view/mls-list-properties.php:61
+msgid "Insert Shortcode"
+msgstr "إدراج رمز قصير"
+
+#: admin/components/shortcodes/view/get-locations.php:31
+#: admin/components/shortcodes/view/mls-get-locations.php:31
+msgid "List community locations base on City"
+msgstr "قائمة مواقع المجتمع على قاعدة مدينة"
+
+#: admin/components/shortcodes/view/mls-list-properties.php:57
+msgid "Include Office List?"
+msgstr "وتشمل قائمة مكتب؟"
+
+#: admin/components/flexmls/class-md-flexmls-entity.php:36
+#: admin/components/flexmls/class-md-flexmls-entity.php:37
+msgid "Flex MLS"
+msgstr "Flex MLS"
+
+#: admin/components/styling/class-styling-entity.php:61
+#: admin/components/styling/class-styling-entity.php:62
+#: admin/components/styling/view/index.php:10
+msgid "Styling"
+msgstr "تصميم"
+
+#: admin/components/styling/view/index.php:16
+msgid "Choose theme for the property listing"
+msgstr "حيث تمكنت قوائم الملكية؟"
+
+#: admin/components/styling/view/index.php:17
+msgid "Current color"
+msgstr "اللون الحالي"
+
+#: admin/components/styling/view/index.php:19
+msgid "Click to change into Default color"
+msgstr "انقر لتغيير في اللون الافتراضي"
+
+#: admin/components/styling/view/index.php:23
+msgid "Update Theme"
+msgstr "تحديث الصفحة"
+
+#: admin/components/general/class-general.php:95
+#: admin/components/general/class-general.php:96
+msgid "Settings"
+msgstr "إعدادات"
+
+#: admin/components/settings/class-settings.php:197
+msgid "Turn on, show popup after certain clicks?"
+msgstr "تشغيل، وتبين المنبثقة بعد بعض النقرات؟"
+
+#: admin/components/settings/class-settings.php:198
+msgid "Turn off, do not show popup after certain clicks?"
+msgstr "إيقاف، لا تظهر المنبثقة بعد بعض النقرات؟"
+
+#: admin/components/settings/class-settings.php:235
+msgid "Photo"
+msgstr "صور"
+
+#: admin/components/settings/class-settings.php:236
+msgid "Map"
+msgstr "رسم خريطة"
+
+#: admin/components/settings/class-settings.php:242
+msgid "Address"
+msgstr "العنوان"
+
+#: admin/components/settings/class-settings.php:243
+msgid "Tag Line"
+msgstr "الشعار"
+
+#: admin/components/settings/view/index.php:18
+msgid "Popup"
+msgstr "يظهر فجأة"
+
+#: admin/components/settings/view/index.php:19
+#: admin/components/settings/view/index.php:67
+msgid "Property"
+msgstr "الملكية"
+
+#: admin/components/settings/view/index.php:20
+msgid "Search Form / Result Page"
+msgstr "نموذج بحث / صفحة النتائج"
+
+#: admin/components/settings/view/index.php:21
+msgid "JS Plugin / Library"
+msgstr "JS المساعد / مكتبة"
+
+#: admin/components/settings/view/index.php:22
+#: admin/components/settings/view/index.php:144
+msgid "Client Lead"
+msgstr "الرصاص العميل"
+
+#: admin/components/settings/view/index.php:23
+#: admin/components/settings/view/index.php:136
+msgid "Mail"
+msgstr "بريد"
+
+#: admin/components/settings/view/index.php:24
+msgid "Template"
+msgstr "قالب"
+
+#: admin/components/settings/view/index.php:28
+msgid "Show pop-up on certain clicks?"
+msgstr "تظهر نافذة منبثقة على بعض النقرات؟"
+
+#: admin/components/settings/view/index.php:31
+msgid "How this works? When a visitor visits your website, you can "
+msgstr "كيف يعمل هذا؟ عندما يزور الزائر موقع الويب الخاص بك، يمكنك"
+
+#: admin/components/settings/view/index.php:32
+msgid "select how many properties they can view before forcing them "
+msgstr "تحديد عدد العقارات التي يمكن عرضها قبل إجبارهم"
+
+#: admin/components/settings/view/index.php:33
+msgid "to sign-up. When the visitors signs up the lead will "
+msgstr "إلى الاشتراك. عندما علامات الضيوف بنتيجة زمام المبادرة سوف"
+
+#: admin/components/settings/view/index.php:34
+msgid "automatically enter into your CRM account. You can "
+msgstr "دخول تلقائيا في الاعتبار CRM الخاص بك. انت تستطيع"
+
+#: admin/components/settings/view/index.php:35
+msgid "automatically create marketing campaigns within the CRM. "
+msgstr "إنشاء حملات التسويق داخل CRM تلقائيا"
+
+#: admin/components/settings/view/index.php:44
+msgid "Display close button? do you want the ability to close the popup?"
+msgstr "عرض زر الإغلاق؟ هل ترغب في القدرة على إغلاق منبثقة؟"
+
+#: admin/components/settings/view/index.php:52
+msgid ""
+"Show popup after certain clicks. This will show popup after certain click or "
+"view of individual property"
+msgstr ""
+"عرض المنبثقة بعد بعض النقرات. هذا وسوف تظهر المنبثقة بعد نقرة أو الرأي من "
+"الملكية الفردية معين"
+
+#: admin/components/settings/view/index.php:63
+msgid "Enable "
+msgstr "تمكين"
+
+#: admin/components/settings/view/index.php:68
+msgid ""
+"Search property by default search criteria, Default status, when visitor "
+"search property, they will see this search criteria status"
+msgstr ""
+"بحث الملكية وفقا لمعايير البحث الافتراضي، والوضع الافتراضي، عند البحث عن "
+"عقار الزوار، وسوف نرى هذا الوضع معايير البحث"
+
+#: admin/components/settings/view/index.php:74
+msgid "Display property address or tag-line"
+msgstr "عرض عنوان الملكية أو خط الوسم"
+
+#: admin/components/settings/view/index.php:87
+msgid "Search Result Page"
+msgstr "نتيجة البحث صفحة"
+
+#: admin/components/settings/view/index.php:88
+msgid "Display view"
+msgstr "عرض الشاشة"
+
+#: admin/components/settings/view/index.php:94
+msgid "Search Title"
+msgstr "عنوان بحث"
+
+#: admin/components/settings/view/index.php:95
+msgid "display search title in the search form"
+msgstr "عنوان البحث عرض في نموذج البحث"
+
+#: admin/components/settings/view/index.php:97
+msgid "Show For Sale Button"
+msgstr "إظهار للبيع زر"
+
+#: admin/components/settings/view/index.php:103
+msgid "Show For Rent Button"
+msgstr "مشاهدة للايجار زر"
+
+#: admin/components/settings/view/index.php:111
+msgid "Search Form"
+msgstr "نموذج بحث"
+
+#: admin/components/settings/view/index.php:113
+msgid "Price Range"
+msgstr "نطاق الأسعار"
+
+#: admin/components/settings/view/index.php:137
+msgid ""
+"Outgoing email.  Use this mail system to send an email from the mail server."
+msgstr ""
+"البريد الإلكتروني المنتهية ولايته. استخدام هذا النظام الإلكتروني لإرسال "
+"البريد الإلكتروني من خادم البريد."
+
+#: admin/components/settings/view/index.php:147
+msgid "This is use for the following lead forms"
+msgstr "هذا هو استخدام للأشكال الرائدة التالية"
+
+#: admin/components/settings/view/index.php:149
+msgid "User register form"
+msgstr "شكل تسجيل المستخدم"
+
+#: admin/components/settings/view/index.php:150
+msgid "Inquire form"
+msgstr "استفسار شكل"
+
+#: admin/components/settings/view/index.php:151
+msgid "Email to form"
+msgstr "ارسل إلى تشكيل"
+
+#: admin/components/settings/view/index.php:156
+msgid "This plugin uses the following javascript plugin / library"
+msgstr ""
+"يستخدم هذا البرنامج المساعد البرنامج المساعد جافا سكريبت / مكتبة التالية"
+
+#: admin/components/settings/view/index.php:157
+msgid "Warning! Uncheck them at your own risk!"
+msgstr "تحذير! قم بإلغاء لهم على مسؤوليتك الخاصة!"
+
+#: admin/components/settings/view/index.php:158
+msgid ""
+"The below are part of the MD plugin framework. The purpose is to disallow "
+"two instances of plugin/library which can cause conflicts."
+msgstr ""
+"أدناه هي جزء من إطار البرنامج المساعد MD. والغرض من ذلك هو عدم السماح مثيلين "
+"من المساعد / المكتبة التي يمكن أن تسبب الصراعات."
+
+#: admin/components/settings/view/index.php:159
+msgid "Template plugin / library"
+msgstr "المساعد قالب / مكتبة"
+
+#: admin/components/settings/view/lead.php:2
+msgid "Choose lead status"
+msgstr "اختيار وضع الرصاص"
+
+#: admin/components/settings/view/lead.php:3
+msgid "This will be the status of the lead in the CRM"
+msgstr "وسيكون هذا الوضع من الرصاص في CRM"
+
+#: admin/components/settings/view/lead.php:11
+msgid "Choose lead type"
+msgstr "اختر نوع الرصاص"
+
+#: admin/components/settings/view/lead.php:12
+msgid "This will be the type of the lead in the CRM"
+msgstr "وسوف يكون هذا النوع من الرصاص في CRM"
+
+#: admin/components/settings/view/lead.php:20
+msgid "Choose lead source"
+msgstr "اختيار وضع الرصاص"
+
+#: admin/components/dashboard/view/cache-property.php:5
+msgid "Delete All Cache"
+msgstr "حذف جميع الكاش"
+
+#: admin/components/greatschool/class-md-greatschool-entity.php:38
+#: admin/components/greatschool/class-md-greatschool-entity.php:39
+msgid "Greatschool API"
+msgstr "Greatschool API"
+
+#: admin/components/greatschool/view/index.php:10
+msgid "Cost = FREE"
+msgstr "التكلفة = مجانية"
+
+#: admin/components/greatschool/view/index.php:11
+msgid "If you live in the USA, go to"
+msgstr "إذا كنت تعيش في الولايات المتحدة الأمريكية، انتقل إلى"
+
+#: admin/components/greatschool/view/index.php:12
+msgid "Note: Please read Terms of Use"
+msgstr "ملاحظة: يرجى قراءة شروط الاستخدام"
+
+#: admin/components/faq/class-faq.php:45 admin/components/faq/class-faq.php:46
+msgid "FAQ"
+msgstr "التعليمات"
+
+#: admin/components/faq/view/faq.php:10 admin/components/faq/view/faq.php:41
+msgid "Is Masterdigm CRM a Saas? (Software as a Service)"
+msgstr "غير Masterdigm CRM على ساس؟ (البرمجيات كخدمة)"
+
+#: admin/components/faq/view/faq.php:11 admin/components/faq/view/faq.php:46
+msgid "Does Masterdigm offer automated auto responders?"
+msgstr "لا Masterdigm العرض الآلي السيارات المستجيبين؟"
+
+#: admin/components/faq/view/faq.php:12 admin/components/faq/view/faq.php:55
+msgid "Does Masterdigm send out property alerts?"
+msgstr "لا ترسل Masterdigm التنبيهات العقار؟"
+
+#: admin/components/faq/view/faq.php:13 admin/components/faq/view/faq.php:60
+msgid "Can I manage my documents inside of the CRM?"
+msgstr "يمكنني إدارة المستندات داخل CRM؟"
+
+#: admin/components/faq/view/faq.php:14 admin/components/faq/view/faq.php:29
+#: admin/components/faq/view/faq.php:66 admin/components/faq/view/faq.php:140
+msgid "Can I change Plans or cancel at any time?"
+msgstr "يمكنني تغيير الخطط أو إلغاء في أي وقت؟"
+
+#: admin/components/faq/view/faq.php:15 admin/components/faq/view/faq.php:27
+#: admin/components/faq/view/faq.php:71 admin/components/faq/view/faq.php:129
+msgid "Support Included?"
+msgstr "وشملت الدعم؟"
+
+#: admin/components/faq/view/faq.php:16 admin/components/faq/view/faq.php:77
+msgid "Does Masterdigm handle Franchises?"
+msgstr "لا Masterdigm التعامل مع الامتيازات؟"
+
+#: admin/components/faq/view/faq.php:17 admin/components/faq/view/faq.php:82
+msgid "How many emails can I send out of Masterdigm per month for Free?"
+msgstr "عدد رسائل البريد الإلكتروني يمكن أن أبعث من Masterdigm شهريا مجانا؟"
+
+#: admin/components/faq/view/faq.php:18 admin/components/faq/view/faq.php:88
+msgid "Want to know even more about Masterdigm?"
+msgstr "تريد أن تعرف أكثر عن Masterdigm؟"
+
+#: admin/components/faq/view/faq.php:19 admin/components/faq/view/faq.php:94
+msgid "Is there a Partnership/Affiliate program?"
+msgstr "هل هناك برنامج الشراكة / التابعة لها؟"
+
+#: admin/components/faq/view/faq.php:22
+msgid "About Masterdigm WordPress Plugin"
+msgstr "حول Masterdigm وورد البرنامج المساعد"
+
+#: admin/components/faq/view/faq.php:23 admin/components/faq/view/faq.php:100
+msgid "Is the WordPress Listings Plugin Mobile friendly?"
+msgstr "هو وورد القوائم إضافة Mobile دية؟"
+
+#: admin/components/faq/view/faq.php:24 admin/components/faq/view/faq.php:105
+msgid "Are there any pages I must not delete?"
+msgstr "هل هناك أية صفحات لا بد لي أن لا تحذف؟"
+
+#: admin/components/faq/view/faq.php:25 admin/components/faq/view/faq.php:119
+msgid "Can the site work with Commercial properties?"
+msgstr "يمكن أن الموقع يعمل مع الخصائص التجارية؟"
+
+#: admin/components/faq/view/faq.php:26 admin/components/faq/view/faq.php:124
+msgid "Can I host the website on any server?"
+msgstr "يمكنني استضافة الموقع على أي ملقم؟"
+
+#: admin/components/faq/view/faq.php:28 admin/components/faq/view/faq.php:135
+msgid "How much does the system cost?"
+msgstr "كم تبلغ تكلفة النظام؟"
+
+#: admin/components/faq/view/faq.php:30 admin/components/faq/view/faq.php:145
+msgid "What themes does Masterdigm Listing plugin work with?"
+msgstr "ما الموضوعات لا Masterdigm قائمة المساعد العمل معها؟"
+
+#: admin/components/faq/view/faq.php:31 admin/components/faq/view/faq.php:150
+msgid "Where are property listings managed?"
+msgstr "حيث تمكنت قوائم الملكية؟"
+
+#: admin/components/faq/view/faq.php:32 admin/components/faq/view/faq.php:155
+msgid "I am getting a 404 error when reviewing the property page?"
+msgstr "أنا على الحصول على خطأ 404 عند استعراض الصفحة العقار؟"
+
+#: admin/components/faq/view/faq.php:33 admin/components/faq/view/faq.php:160
+msgid "Are there additional costs?"
+msgstr "هل هناك تكاليف إضافية؟"
+
+#: admin/components/faq/view/faq.php:34 admin/components/faq/view/faq.php:166
+msgid "Do you hold Masterdigm Webinars?"
+msgstr "هل عقد Masterdigm ندوات عبر الإنترنت؟"
+
+#: admin/components/faq/view/faq.php:35 admin/components/faq/view/faq.php:172
+msgid "Does Masterdigm have an Affiliate Program?"
+msgstr "هل لديك Masterdigm التابعة لهذا البرنامج؟"
+
+#: admin/components/faq/view/faq.php:36 admin/components/faq/view/faq.php:178
+msgid "Does the listings plugin have property alert capability?"
+msgstr "هل المساعد القوائم لديهم ممتلكات القدرة التنبيه؟"
+
+#: admin/components/faq/view/faq.php:42
+msgid ""
+"Yes, Masterdigm is a cloud based CRM!  You can be anywhere and access your "
+"leads and properties and anytime.  Masterdigm has been around since 2007 and "
+"is happy to announce continued integrations throughout the last few years.  "
+"Some are Mailgun and Mailgun to name just two."
+msgstr ""
+"نعم، Masterdigm هو CRM القائمة على السحابة! يمكنك أن تكون في أي مكان والوصول "
+"يؤدي بك والممتلكات وزمان. وقد Masterdigm حولها منذ عام 2007، ويسعدها أن تعلن "
+"عن استمرار التكامل طوال السنوات القليلة الماضية.بعضها Mailgun وMailgun إلى "
+"اسم اثنين فقط."
+
+#: admin/components/faq/view/faq.php:43 admin/components/faq/view/faq.php:52
+#: admin/components/faq/view/faq.php:57 admin/components/faq/view/faq.php:63
+#: admin/components/faq/view/faq.php:68 admin/components/faq/view/faq.php:74
+#: admin/components/faq/view/faq.php:79 admin/components/faq/view/faq.php:85
+#: admin/components/faq/view/faq.php:91 admin/components/faq/view/faq.php:97
+#: admin/components/faq/view/faq.php:102 admin/components/faq/view/faq.php:116
+#: admin/components/faq/view/faq.php:121 admin/components/faq/view/faq.php:126
+#: admin/components/faq/view/faq.php:132 admin/components/faq/view/faq.php:137
+#: admin/components/faq/view/faq.php:142 admin/components/faq/view/faq.php:147
+#: admin/components/faq/view/faq.php:152 admin/components/faq/view/faq.php:157
+#: admin/components/faq/view/faq.php:163 admin/components/faq/view/faq.php:169
+#: admin/components/faq/view/faq.php:175 admin/components/faq/view/faq.php:180
+msgid "Go to top"
+msgstr "إذهب إلى أعلى الصفحة"
+
+#: admin/components/faq/view/faq.php:47
+msgid "Yes, we have a few ways the clients receive their updates."
+msgstr "نعم، لدينا عدد قليل من الطرق للعملاء تلقي التحديثات الخاصة بهم."
+
+#: admin/components/faq/view/faq.php:49
+msgid ""
+"Once they sign up, you create a marketing campaign that kicks of any emails "
+"you would like."
+msgstr ""
+"بمجرد الاشتراك، يمكنك إنشاء حملة التسويق التي تنطلق من أي رسائل البريد "
+"الإلكتروني التي ترغب."
+
+#: admin/components/faq/view/faq.php:50
+msgid ""
+"If you have a website with Masterdigm, i.e, utilizing the WordPress listing "
+"plugin, once a client saves a search, the system will automatically send out "
+"any new properties that match their criteria."
+msgstr ""
+"إذا كان لديك موقع على شبكة الانترنت مع Masterdigm، أي الاستفادة من وورد "
+"البرنامج المساعد القائمة، مرة واحدة في العميل يحفظ البحث، فإن النظام سوف "
+"ترسل تلقائيا من أي الخصائص الجديدة التي تطابق المعايير الخاصة بهم."
+
+#: admin/components/faq/view/faq.php:56
+msgid ""
+"Yes!  And the user can actually set up their own saved searches when the log "
+"into the website itself."
+msgstr ""
+"نعم فعلا! ويمكن للمستخدم تحديد فعلا عمليات البحث الخاصة بهم حفظها عندما سجل "
+"في الموقع نفسه."
+
+#: admin/components/faq/view/faq.php:61
+msgid ""
+"Yes, Masterdigm is designed to allow you an Intranet of sorts. You can "
+"upload your company documents and share them with your team. You can also "
+"keep your documents private and/or share them!"
+msgstr ""
+"نعم، تم تصميم Masterdigm للسماح لك إنترانت من نوع ما. يمكنك تحميل وثائق "
+"الشركة الخاصة بك ومشاركتها مع فريقك. يمكنك أيضا الاحتفاظ المستندات الخاصة "
+"و / أو مشاركتها!"
+
+#: admin/components/faq/view/faq.php:62
+msgid "Document types:"
+msgstr "أنواع الوثيقة:"
+
+#: admin/components/faq/view/faq.php:67
+msgid "Absolutely, we run month to month!"
+msgstr "على الاطلاق، ونحن تشغيل شهر لآخر!"
+
+#: admin/components/faq/view/faq.php:72
+msgid ""
+"Support is included for issues, bugs, etc.. Use the Support link inside the "
+"CRM. Needing support for your website? Blogs? Content writing? Email "
+"Marketing Materials?"
+msgstr ""
+"يتم تضمين الدعم للقضايا، والبق، وما إلى ذلك .. استخدم الرابط دعم داخل CRM. "
+"التي تحتاج إلى الدعم لموقع الويب الخاص بك؟ بلوق؟ كتابة المحتوى؟ مواد التسويق "
+"عبر البريد الإلكتروني؟"
+
+#: admin/components/faq/view/faq.php:73
+msgid "Please contact us or your Project/Web Design team."
+msgstr "يرجى الاتصال بنا أو فريق تصميم المشروع / ويب."
+
+#: admin/components/faq/view/faq.php:78
+msgid ""
+"Yes, Masterdigm is designed around a brokerage firm.  You can share leads "
+"via the share leads tab to other Franchises in your network.  Also, any "
+"properties within each Franchisees account can be shared to other "
+"franchisees websites.  Leads will flow into the site that is showing the "
+"property."
+msgstr ""
+"نعم، تم تصميم Masterdigm حول شركة وساطة مالية. يمكنك مشاركة يؤدي عبر حصة "
+"التبويب يؤدي إلى الامتيازات الأخرى في الشبكة. أيضا، حساب يمكن مشاركة أي عقار "
+"في كل الامتياز إلى الامتياز غيرها من مواقع. سوف يؤدي تتدفق إلى الموقع الذي "
+"تظهر الممتلكات."
+
+#: admin/components/faq/view/faq.php:83
+msgid ""
+"We use Mailgun to send out emails. They have a 10,000/month limit for free. "
+"20,000 emails for 5.00/month. Great deal!"
+msgstr ""
+"نحن نستخدم Mailgun لإرسال رسائل البريد الإلكتروني. لديهم الحد 10000 / شهر "
+"مجانا. 20000 رسائل البريد الإلكتروني لل5،00 / الشهر. صفقة رائعة!"
+
+#: admin/components/faq/view/faq.php:84
+msgid ""
+"Contact us more about helping you set up www.mailgun.com but they have great "
+"updates to help you too!"
+msgstr ""
+"الاتصال بنا المزيد عن مساعدتك في إعداد www.mailgun.com ولكن لديهم تحديثات "
+"كبيرة لتساعدك أيضا!"
+
+#: admin/components/faq/view/faq.php:89
+msgid "Click on our youtube channel and learn all about the Masterdigm CRM"
+msgstr "انقر على قناة يوتيوب لدينا ومعرفة كل شيء عن CRM Masterdigm"
+
+#: admin/components/faq/view/faq.php:90
+msgid "Masterdigm Training Videos"
+msgstr "فيديو Masterdigm التدريب"
+
+#: admin/components/faq/view/faq.php:95
+msgid "Yes, we actually do have one.. please review:"
+msgstr "نعم، ونحن نفعل فعلا واحد .. يرجى مراجعة:"
+
+#: admin/components/faq/view/faq.php:96
+msgid "Learn more about Masterdigm Partnership program"
+msgstr "معرفة المزيد عن برنامج الشراكة Masterdigm"
+
+#: admin/components/faq/view/faq.php:101
+msgid ""
+"Yes, we are built on bootstrap, so the Masterdigm real estate listings "
+"plugin will render accordingly."
+msgstr ""
+"نعم، نحن بنيت على التمهيد، وبالتالي فإن Masterdigm قوائم العقارات المساعد "
+"سوف تجعل وفقا لذلك."
+
+#: admin/components/faq/view/faq.php:106
+msgid "Yes.. Do not delete the following pages"
+msgstr "نعم .. لا تقم بحذف الصفحات التالية"
+
+#: admin/components/faq/view/faq.php:108
+msgid "display the single or full details of property."
+msgstr "عرض تفاصيل واحدة أو كاملة الممتلكات."
+
+#: admin/components/faq/view/faq.php:109
+msgid "Display the result of the searched properties"
+msgstr "عرض النتيجة من خصائص البحث"
+
+#: admin/components/faq/view/faq.php:110
+msgid "Display list of properties base in City"
+msgstr "عرض قائمة قاعدة العقارات في مدينة"
+
+#: admin/components/faq/view/faq.php:111
+msgid "Display list of properties base in State"
+msgstr "عرض قائمة قاعدة العقارات في الدولة"
+
+#: admin/components/faq/view/faq.php:112
+msgid "Display list of properties base in Community"
+msgstr "عرض قائمة قاعدة خصائص في المجتمع"
+
+#: admin/components/faq/view/faq.php:113
+msgid "Display list of properties base in Count"
+msgstr "عرض قائمة قاعدة العقارات في عدد"
+
+#: admin/components/faq/view/faq.php:115
+msgid ""
+"If you do, the property pages, city pages, etc. will not show! If you messed "
+"up, then re-add them!"
+msgstr ""
+"إذا قمت بذلك، صفحات الملكية، وصفحات المدينة، وما إلى ذلك سوف لا تظهر! إذا "
+"كنت عابث، ثم إضافته لهم!"
+
+#: admin/components/faq/view/faq.php:120
+msgid ""
+"Absolutely!  When you log into Masterdigm CRM, you will add your properties "
+"in there.  When you do, you will tag them as a commercial or residential "
+"property. Once you do this, the gallery on your website will show commercial "
+"aspects of the property."
+msgstr ""
+"على الاطلاق! عند تسجيل الدخول إلى Masterdigm CRM، وقمت بإضافة الممتلكات "
+"الخاصة بك في هناك. عندما قمت بذلك، سوف تقوم بتمييز لهم كخاصية تجارية أو "
+"سكنية. بمجرد القيام بذلك، فإن المعرض على موقع الويب الخاص بك تظهر الجوانب "
+"التجارية للعقار."
+
+#: admin/components/faq/view/faq.php:125
+msgid ""
+"Yes!  You can host the site or you we can host it for you!  Our cost to "
+"maintain your site is 18.00/month.  We keep care of your site and maintain "
+"your plugins and your WP revision."
+msgstr ""
+"نعم فعلا! يمكنك استضافة الموقع أو أنت نستطيع أن استضافة لانها لكم! التكلفة "
+"لدينا للحفاظ على موقع الويب الخاص بك هو 18.00 / شهر. ونحافظ على رعاية موقعك "
+"والحفاظ على الإضافات الخاصة بك وتنقيح WP بك."
+
+#: admin/components/faq/view/faq.php:130
+msgid ""
+"We do support the Masterdigm users! We have a support link inside the CRM to "
+"help! We also have Youtube videos we have made to help you through support "
+"issues. "
+msgstr ""
+"ونحن نفعل دعم المستخدمين Masterdigm! لدينا ارتباط الدعم داخل CRM للمساعدة! "
+"كما أن لدينا أشرطة فيديو يوتيوب حققنا لمساعدتك من خلال دعم القضايا."
+
+#: admin/components/faq/view/faq.php:131
+msgid ""
+"Regarding the plugin, if you need help with colors, fonts, and any layout "
+"issue, you can ask us to assist you. Are normal charges are 65.00/hour. We "
+"did design the plugin, however, to render on most WP Themes."
+msgstr ""
+"وفيما يتعلق المساعد، إذا كنت بحاجة إلى مساعدة مع الألوان، والخطوط، وأي قضية "
+"التخطيط، يمكنك أن تطلب منا لمساعدتكم. هي رسوم عادية يتم 65،00 / ساعة. ونحن "
+"لم تصميم البرنامج المساعد، ولكن، لتقديم على معظم الفسفور الابيض."
+
+#: admin/components/faq/view/faq.php:136
+msgid "If you go to our page"
+msgstr "إذا ذهبت إلى صفحتنا"
+
+#: admin/components/faq/view/faq.php:136
+msgid "it will show you our pricing!"
+msgstr "وسوف تظهر لك التسعير لدينا!"
+
+#: admin/components/faq/view/faq.php:141
+msgid ""
+"Yes, the nice thing about Masterdigm CRM and the WP listings plugin is that "
+"you are only paying month to month.  We believe in no yearly contracts!  "
+"Looking to cancel?  Contact us through the Support link inside the CRM.  We "
+"will respond immediately."
+msgstr ""
+"نعم، والشيء الجميل في Masterdigm CRM وWP قوائم البرنامج المساعد هو أنك تدفع "
+"فقط شهر لآخر. ونحن نعتقد في أي عقود سنوية! تبحث لإلغاء؟ الاتصال بنا من خلال "
+"الرابط دعم داخل CRM. وسوف نرد على الفور."
+
+#: admin/components/faq/view/faq.php:146
+msgid ""
+"We work well on the Enfold theme!  Though many clients are utilizing Avada, "
+"and many others!"
+msgstr ""
+"ونحن نعمل بشكل جيد على موضوع نلمس! على الرغم من العديد من العملاء وتستخدم "
+"Avada، وغيرها الكثير!"
+
+#: admin/components/faq/view/faq.php:151
+msgid ""
+"They are managed inside the CRM as opposed to the back of the WordPress "
+"CMS.  Why do we believe this is a much superior choice?  Because brokers and "
+"agents need to be in one platform, i.e., a customer relationship manager "
+"that manages leads, documents, contacts, properties and more!  Masterdigm "
+"does all that!  We believe that to have a regular agent log into the backend "
+"of the WordPress plugin is counterproductive to the workflow of a real "
+"estate agency.  Keeping the properties with the agents leads, documents, "
+"etc.. is forward thinking."
+msgstr ""
+"تدار تلك داخل CRM بدلا من الجزء الخلفي من وورد CMS. لماذا نحن نعتقد أن هذا "
+"هو الخيار الأفضل بكثير؟ لأن السماسرة ووكلاء يجب أن تكون في منصة واحدة، أي "
+"مدير علاقات العملاء التي تدير خيوط والوثائق، والاتصالات، والخصائص وأكثر! "
+"Masterdigm يفعل كل ذلك! ونحن نعتقد أن لتسجيل وكيل منتظم في الخلفية من "
+"البرنامج المساعد وورد هو عكسية على سير العمل في وكالة العقارات. الحفاظ على "
+"منشأة يؤدي كلاء والوثائق، وما إلى ذلك .. هي التفكير في المستقبل."
+
+#: admin/components/faq/view/faq.php:156
+msgid ""
+"If you are initially setting up the site, you will want to refresh your "
+"permalinks.  We have built our plugin now to no longer have this issue, but "
+"if for some reason it occurs, then refresh permalinks."
+msgstr ""
+"إذا كنت تقوم في البداية حتى الموقع، وسوف تحتاج لتحديث الثابتة Permalinks "
+"الخاص بك. لقد بنينا لدينا المساعد الآن لم يعد لدينا هذه المسألة، ولكن إذا "
+"كان لسبب حدوثه، ومن ثم تحديث الثابتة Permalinks."
+
+#: admin/components/faq/view/faq.php:161
+msgid "Costs are by user seats."
+msgstr "التكاليف التي المقاعد المستخدم."
+
+#: admin/components/faq/view/faq.php:162
+msgid ""
+"Now, if you are a broker or agent needing the CRM to be fully built out for "
+"you, we have a one time setup fee depending on what level of service.  "
+"Please contact us for more details!  You'll be glad you did."
+msgstr ""
+"الآن، إذا كنت وسيطا أو وكيل تحتاج الى CRM سيتم بناؤها بشكل كامل بالنسبة لك، "
+"لدينا رسوم الإعداد مرة واحدة اعتمادا على ما هو مستوى الخدمة. يرجى الاتصال "
+"بنا للحصول على مزيد من التفاصيل! عليك أن تكون سعيدا فعلتم."
+
+#: admin/components/faq/view/faq.php:167
+msgid "We sure do!  Sign up for one of our webinar's today!"
+msgstr ""
+"نحن على يقين من القيام به! الاشتراك في واحدة من اليوم لدينا الويبينار المفضل"
+
+#: admin/components/faq/view/faq.php:168
+msgid "Sign up for one of our webinars!"
+msgstr "الاشتراك في واحدة من ندوات لدينا!"
+
+#: admin/components/faq/view/faq.php:173
+msgid ""
+"Glad you asked!  We do! We would love to work with Web Developers around the "
+"world!  Great ideas come from you!"
+msgstr ""
+"سعيد لأنك سألت! نحن نفعل! كنا نحب أن نعمل مع مطوري الويب في جميع أنحاء "
+"العالم! الأفكار العظيمة تأتي من أنت!"
+
+#: admin/components/faq/view/faq.php:174
+msgid "Please contact us via the Vcita pop up box and make an appointment."
+msgstr "يرجى الاتصال بنا عبر مربع Vcita يطفو على السطح وجعل التعيين."
+
+#: admin/components/faq/view/faq.php:179
+msgid ""
+"Yes, when a client signs up through the website pop up box, they will have "
+"access to Saving properties that meet a certain criteria.  If a property "
+"matches the criteria, the system will automatically send out the property "
+"with a link back to your website!"
+msgstr ""
+"نعم، عندما يوقع العميل حتى من خلال الموقع يطفو على السطح مربع، سيكون لديهم "
+"فرص الحصول على حفظ الخصائص التي تلبي معايير معينة. إذا خاصية تطابق المعايير، "
+"فإن النظام سوف ترسل تلقائيا من العقار مع وصلة الى موقع الويب الخاص بك!"
+
+#: components/inquireform/class-inquire.php:102
+msgid "Inquiry from"
+msgstr "استفسار من"
+
+#: components/inquireform/class-inquire.php:104
+msgid "Name"
+msgstr "اسم"
+
+#: components/inquireform/class-inquire.php:106
+#: components/pdf/class-pdf.php:105
+#: public/templates/account/partials/profileform.php:22
+msgid "Phone"
+msgstr "الهاتف"
+
+#: components/inquireform/class-inquire.php:110
+#: components/signupform/class-signup-sign.php:115
+#: components/emailto/class-email-to.php:79
+msgid "Please input your name"
+msgstr "الرجاء إدخال اسمك"
+
+#: components/inquireform/class-inquire.php:114
+msgid "Please input your  last name"
+msgstr "الرجاء إدخال اسمك الأخير"
+
+#: components/inquireform/class-inquire.php:118
+msgid "Please input your Email Address"
+msgstr "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك"
+
+#: components/inquireform/class-inquire.php:127
+msgid ""
+"Inquiry successfully sent. Our staff will review it as soon as possible. "
+"Thank You."
+msgstr "أرسلت رسالتك بنجاح. سوف موظفينا مراجعة ذلك في أقرب وقت ممكن. شكرا."
+
+#: components/inquireform/class-inquire.php:129
+msgid "From"
+msgstr "من عند"
+
+#: components/inquireform/view/inquire.php:2
+msgid "Inquiry Form"
+msgstr "نموذج الاستفسار"
+
+#: components/inquireform/view/inquire.php:5
+msgid "Your First Name"
+msgstr "الاسم الأول"
+
+#: components/inquireform/view/inquire.php:8
+msgid "Your Last Name"
+msgstr "اسمك الاخير"
+
+#: components/inquireform/view/inquire.php:11
+msgid "Your Valid Email"
+msgstr "لديك بريد إلكتروني صالح"
+
+#: components/inquireform/view/inquire.php:14
+msgid "Your (Area Code) + Phone Number"
+msgstr "لديك (رمز المنطقة) + رقم الهاتف"
+
+#: components/inquireform/view/inquire.php:19
+#: components/emailto/view/emailto.php:43
+#: public/class-masterdigm-api-public.php:202
+msgid "Send"
+msgstr "إرسال"
+
+#: components/signupform/class-signup-sign.php:118
+msgid "Please input your last name"
+msgstr "الرجاء إدخال اسمك الأخير"
+
+#: components/signupform/class-signup-sign.php:121
+#: components/emailto/class-email-to.php:92
+msgid "Please input your email"
+msgstr "الرجاء إدخال البريد الإلكتروني الخاص بك"
+
+#: components/signupform/class-signup-sign.php:124
+#: components/emailto/class-email-to.php:88
+#: components/emailto/class-email-to.php:102
+msgid "Email Address is invalid"
+msgstr "عنوان البريد الإلكتروني غير صالح"
+
+#: components/signupform/class-signup-sign.php:174
+msgid "Successfully Registered. Thank You."
+msgstr "مسجل بنجاح. شكرا."
+
+#: components/signupform/class-signup-sign.php:228
+msgid "Successfully Loged In. Wait while we redirect you."
+msgstr "Loged بنجاح في. الانتظار بينما نحن توجيهك."
+
+#: components/signupform/view/signup.php:10
+msgid "No Account Yet? Sign Up Now!"
+msgstr "ليس لديك حساب حتى الآن؟ أفتح حساب الأن!"
+
+#: components/signupform/view/signup.php:18
+#: components/emailto/view/emailto.php:42
+msgid "Close"
+msgstr "إغلاق"
+
+#: components/signupform/view/form.php:1
+#: components/emailto/view/emailto.php:13
+#: public/templates/account/partials/profileform.php:6
+#: public/templates/account/partials/profileform.php:36
+#: public/templates/account/partials/passwordform.php:6
+msgid "Error"
+msgstr "خطأ"
+
+#: components/signupform/view/form.php:10
+msgid "Register"
+msgstr "سجل"
+
+#: components/signupform/view/form.php:18
+#: public/templates/account/partials/accessform.php:10
+#: public/templates/account/partials/profileform.php:19
+#: public/templates/account/partials/emailform.php:14
+msgid "Enter email"
+msgstr "ادخل بريدك"
+
+#: components/signupform/view/form.php:21
+#: public/templates/account/partials/accessform.php:13
+#: public/templates/account/partials/profileform.php:23
+#: public/templates/account/partials/emailform.php:17
+msgid "Phone Number"
+msgstr "رقم الهاتف"
+
+#: components/signupform/view/form.php:25
+#: public/class-masterdigm-api-public.php:194
+msgid "Sign Up"
+msgstr "سجل"
+
+#: components/signupform/view/form.php:32
+#: public/templates/account/partials/profileform.php:18
+msgid "Email Address"
+msgstr "عنوان البريد الإلكتروني"
+
+#: components/signupform/view/form.php:35
+#: public/templates/account/partials/profileform.php:33
+#: public/templates/account/partials/passwordform.php:3
+msgid "Password"
+msgstr "الرمز السري"
+
+#: components/signupform/view/form.php:38
+msgid "Forgot password"
+msgstr "هل نسيت كلمة المرور"
+
+#: components/signupform/view/form.php:42
+#: public/class-masterdigm-api-public.php:195
+msgid "Login"
+msgstr "تسجيل الدخول"
+
+#: components/buttonactions/class-action-buttons.php:117
+msgid "Favorite"
+msgstr "المفضل"
+
+#: components/buttonactions/class-action-buttons.php:157
+msgid "Must register or login to mark as favorite"
+msgstr "يجب التسجيل أو الدخول للاحتفال كمفضل"
+
+#: components/buttonactions/class-action-buttons.php:217
+msgid "Must register or login to mark as x-out"
+msgstr "يجب التسجيل أو الدخول إلى احتفالا ب س التدريجي"
+
+#: components/buttonactions/class-action-buttons.php:237
+msgid "Print PDF"
+msgstr "طباعة PDF"
+
+#: components/buttonactions/class-action-buttons.php:292
+msgid "Share"
+msgstr "حصة"
+
+#: components/buttonactions/view/xout-button.php:37
+msgid "Register or login to Xout property"
+msgstr "التسجيل أو الدخول إلى Xout الملكية"
+
+#: components/buttonactions/view/sort.php:4
+msgid "Sort"
+msgstr "فرز"
+
+#: components/buttonactions/view/sort.php:7
+msgid "Price (Highest)"
+msgstr "السعر (من الأعلى)"
+
+#: components/buttonactions/view/sort.php:8
+msgid "Price (Lowest)"
+msgstr "السعر (من الأقل)"
+
+#: components/buttonactions/view/sort.php:9
+msgid "Days on Site (Newest)"
+msgstr "أيام على الموقع (الأحدث)"
+
+#: components/buttonactions/view/sort.php:10
+msgid "Days on Site (Oldest)"
+msgstr "أيام على الموقع (الأقدم)"
+
+#: components/buttonactions/view/share-button.php:7
+msgid "Email to friend"
+msgstr "ارسل إلى صديق"
+
+#: components/buttonactions/view/favorite-button.php:10
+msgid "Remove to favorite"
+msgstr "إزالة للمفضلة"
+
+#: components/buttonactions/view/favorite-button.php:23
+msgid "Add to favorite"
+msgstr "أضف إلى المفضلة"
+
+#: components/buttonactions/view/favorite-button.php:37
+msgid "Register or login to add as favorites"
+msgstr "التسجيل أو الدخول لإضافة المفضلة"
+
+#: components/pdf/class-pdf.php:84
+#: components/savesearch/class-save-search.php:130
+msgid "Bed"
+msgstr "سرير"
+
+#: components/pdf/class-pdf.php:99
+msgid "Agent"
+msgstr "وكيل"
+
+#: components/pdf/class-pdf.php:106
+msgid "Mobile"
+msgstr "التليفون المحمول"
+
+#: components/showpopup/view/signup.php:11
+msgid "Sign-up now, to continue browsing properties"
+msgstr "الاشتراك الآن، لمواصلة خصائص التصفح"
+
+#: components/emailto/class-email-to.php:45
+msgid "Send to friend Form"
+msgstr "أرسل إلى صديق نموذج"
+
+#: components/emailto/class-email-to.php:84
+msgid "Please input friends email"
+msgstr "الرجاء إدخال البريد الإلكتروني الأصدقاء"
+
+#: components/emailto/class-email-to.php:134
+msgid "Successfully Send Email to Friend. Thank You."
+msgstr "بنجاح بارسال رسالة لصديقك. شكرا."
+
+#: components/emailto/class-email-to.php:139
+msgid "Send to friend from "
+msgstr "أرسل إلى صديق من"
+
+#: components/emailto/view/emailto.php:9
+msgid "Send this to a Friend"
+msgstr "إرسال إلى صديق"
+
+#: components/emailto/view/emailto.php:15
+msgid "Friends Email Address"
+msgstr "أصدقاء البريد الالكتروني"
+
+#: components/emailto/view/emailto.php:22
+msgid "Your Name"
+msgstr "اسمك"
+
+#: components/emailto/view/emailto.php:28
+msgid "Your Email Address"
+msgstr "عنوان بريدك الإلكتروني"
+
+#: components/savesearch/class-save-search.php:472
+msgid "Need to login or register before saving this search"
+msgstr "تحتاج إلى تسجيل الدخول أو التسجيل قبل حفظ هذا البحث"
+
+#: components/savesearch/class-save-search.php:531
+msgid "Save This Search"
+msgstr "حفظ هذا البحث"
+
+#: components/savesearch/class-save-search.php:533
+#: public/class-masterdigm-api-public.php:192
+msgid "Saved Search"
+msgstr "البحث المحفوظة"
+
+#: components/account/class-dashboard.php:248
+msgid "Edit Profile"
+msgstr "تعديل الملف الشخصي"
+
+#: components/account/class-dashboard.php:255
+msgid "Log Out"
+msgstr "تسجيل خروج"
+
+#: components/account/class-dashboard.php:278
+#: public/templates/account/partials/favorite-list.php:1
+#: public/templates/account/partials/nav.php:6
+msgid "Favorites"
+msgstr "المفضلة"
+
+#: components/account/class-dashboard.php:294
+#: public/templates/account/partials/save-search-list.php:1
+#: public/templates/account/partials/nav.php:12
+msgid "Save Search"
+msgstr "حفظ البحث"
+
+#: components/account/class-profile.php:221
+msgid "Please Confirm password"
+msgstr "الرجاء تأكيد كلمة السر"
+
+#: components/account/class-profile.php:225
+msgid "Successfully Change Password"
+msgstr "بنجاح تغيير كلمة المرور"
+
+#: public/class-masterdigm-api-public.php:190
+msgid "Please wait while we get current location coordinates"
+msgstr "يرجى الانتظار بينما نحصل على إحداثيات الموقع الحالي"
+
+#: public/class-masterdigm-api-public.php:191
+msgid "Check this property located at"
+msgstr "تحقق هذا العقار يقع في"
+
+#: public/class-masterdigm-api-public.php:193
+msgid "Saving search"
+msgstr "البحث إنقاذ"
+
+#: public/class-masterdigm-api-public.php:196
+msgid "Please wait signing-up"
+msgstr "يرجى الانتظار توقيع المتابعة"
+
+#: public/class-masterdigm-api-public.php:197
+msgid "Processing"
+msgstr "معالجة"
+
+#: public/class-masterdigm-api-public.php:198
+msgid "Loading"
+msgstr "تحميل"
+
+#: public/class-masterdigm-api-public.php:199
+msgid "Fetching property details, please wait"
+msgstr "جلب تفاصيل الملكية، يرجى الانتظار"
+
+#: public/class-masterdigm-api-public.php:200
+msgid "Please wait while getting data"
+msgstr "الرجاء الانتظار لحين الحصول على البيانات"
+
+#: public/class-masterdigm-api-public.php:201
+msgid "Sending Inquiry"
+msgstr "ارسال رسالتك"
+
+#: public/class-masterdigm-api-public.php:203
+msgid "Please wait, updating profile"
+msgstr "يرجى الانتظار، وتحديث الملف الشخصي"
+
+#: public/class-masterdigm-api-public.php:204
+msgid "Please wait, updating password"
+msgstr "يرجى الانتظار، تحديث كلمة السر"
+
+#: public/templates/single/single-property-page.php:104
+msgid "Map on"
+msgstr "خريطة على"
+
+#: public/templates/single/partials/property-details/right-content.php:23
+msgid "Similar Homes"
+msgstr "منازل مماثلة"
+
+#: public/templates/single/partials/property-details/left-content.php:7
+msgid "Listing Information"
+msgstr "معلومات الإدراج"
+
+#: public/templates/crm/template/single/single-property-more-details.php:5
+msgid "Transaction Type"
+msgstr "نوع الصفقة"
+
+#: public/templates/crm/template/single/single-property-more-details.php:7
+#: public/templates/mls/template/single/single-property-more-details.php:6
+msgid "Location"
+msgstr "موقع"
+
+#: public/templates/crm/template/single/single-property-more-details.php:9
+msgid "Community"
+msgstr "مجتمع"
+
+#: public/templates/crm/template/single/single-property-more-details.php:23
+#: public/templates/mls/template/single/single-property-more-details.php:7
+msgid "Bedroom"
+msgstr "غرفة نوم"
+
+#: public/templates/crm/template/single/single-property-more-details.php:26
+#: public/templates/mls/template/single/single-property-more-details.php:15
+msgid "Bathroom"
+msgstr "حمام"
+
+#: public/templates/crm/template/single/single-property-more-details.php:44
+#: public/templates/mls/template/single/single-property-more-details.php:23
+msgid "Details on"
+msgstr "التفاصيل حول"
+
+#: public/templates/crm/template/searchresult/search-result.php:78
+#: public/templates/crm/template/list/default/list-default.php:82
+#: public/templates/list/default/list-similar-homes.php:43
+#: public/templates/list/default/featured-list-default.php:62
+#: public/templates/list/default/list-default.php:65
+msgid "No Properties Found"
+msgstr "لا خصائص العثور"
+
+#: public/templates/agent/html-agent.php:10
+msgid "Real Estate Agent"
+msgstr "وكيل عقارات"
+
+#: public/templates/agent/html-agent.php:15
+msgid "Click to Email"
+msgstr "انقر على البريد الالكتروني"
+
+#: public/templates/agent/html-agent.php:17
+msgid "Work Phone"
+msgstr "هاتف عمل"
+
+#: public/templates/agent/html-agent.php:18
+msgid "Mobile Phone"
+msgstr "هاتف محمول"
+
+#: public/templates/agent/html-agent.php:22
+msgid "Connect With Us"
+msgstr "اتصل بنا"
+
+#: public/templates/list/default/get-locations.php:2
+msgid "List of Communities"
+msgstr "قائمة المجتمعات"
+
+#: public/templates/mls/template/single/single-property-more-details.php:4
+msgid "Property ID"
+msgstr "رقم العقار"
+
+#: public/templates/mls/template/single/single-property-more-details.php:8
+msgid "Living Sq. Ft"
+msgstr "الذين يعيشون ميدان. قدم"
+
+#: public/templates/mls/template/single/single-property-more-details.php:30
+msgid "Location Information"
+msgstr "معلومات الموقع"
+
+#: public/templates/mls/template/single/single-property-more-details.php:32
+msgid "County"
+msgstr "مقاطعة"
+
+#: public/templates/mls/template/single/single-property-more-details.php:34
+msgid "Subdivision"
+msgstr "التقسيم"
+
+#: public/templates/mls/template/single/single-property-more-details.php:40
+#: public/templates/mls/template/single/single-property-more-details.php:42
+msgid "Interior Features"
+msgstr "الميزات الداخلية"
+
+#: public/templates/mls/template/single/single-property-more-details.php:43
+msgid "Fireplace"
+msgstr "مدفأة"
+
+#: public/templates/mls/template/single/single-property-more-details.php:44
+msgid "Heating and Fuel"
+msgstr "التدفئة والوقود"
+
+#: public/templates/mls/template/single/single-property-more-details.php:45
+msgid "Flooring"
+msgstr "أرضية"
+
+#: public/templates/mls/template/single/single-property-more-details.php:46
+msgid "Full Baths"
+msgstr "الحمامات كاملة"
+
+#: public/templates/mls/template/single/single-property-more-details.php:47
+msgid "Air Conditioning"
+msgstr "تكييف الهواء"
+
+#: public/templates/mls/template/single/single-property-more-details.php:48
+msgid "Heat / Air Conditioning"
+msgstr "الحرارة / تكييف الهواء"
+
+#: public/templates/mls/template/single/single-property-more-details.php:49
+msgid "Appliances Included"
+msgstr "وشملت الأجهزة"
+
+#: public/templates/mls/template/single/single-property-more-details.php:55
+#: public/templates/mls/template/single/single-property-more-details.php:62
+msgid "Exterior Features"
+msgstr "المواصفات الخارجية"
+
+#: public/templates/mls/template/single/single-property-more-details.php:57
+msgid "Construction"
+msgstr "إنشاءات"
+
+#: public/templates/mls/template/single/single-property-more-details.php:58
+msgid "Foundation"
+msgstr "أساس"
+
+#: public/templates/mls/template/single/single-property-more-details.php:59
+msgid "Garage Features"
+msgstr "المرآب الميزات"
+
+#: public/templates/mls/template/single/single-property-more-details.php:60
+msgid "Garage / Carport"
+msgstr "المرآب / مرآب"
+
+#: public/templates/mls/template/single/single-property-more-details.php:61
+msgid "Lot Size Sq Ft"
+msgstr "قدم مربع مساحة"
+
+#: public/templates/mls/template/single/single-property-more-details.php:63
+msgid "Roof"
+msgstr "سقف"
+
+#: public/templates/mls/template/single/single-property-more-details.php:64
+msgid "Utilities"
+msgstr "المرافق"
+
+#: public/templates/mls/template/single/single-property-more-details.php:65
+msgid "Lot Size Acres"
+msgstr "مساحة دونم"
+
+#: public/templates/mls/template/single/single-property-more-details.php:66
+msgid "Water Frontage"
+msgstr "المياه المحلية الموازية"
+
+#: public/templates/mls/template/single/single-property-more-details.php:67
+msgid "Pool"
+msgstr "حوض السباحة"
+
+#: public/templates/mls/template/single/single-property-more-details.php:68
+msgid "Pool Type"
+msgstr "تجمع نوع"
+
+#: public/templates/mls/template/single/single-property-more-details.php:74
+msgid "Additional Information"
+msgstr "معلومات اضافية"
+
+#: public/templates/mls/template/single/single-property-more-details.php:77
+msgid "Property SubType"
+msgstr "النوع الفرعي الملكية"
+
+#: public/templates/mls/template/single/single-property-more-details.php:78
+msgid "Taxes"
+msgstr "الضرائب"
+
+#: public/templates/mls/template/single/single-property-more-details.php:79
+msgid "Tax Year"
+msgstr "ضريبة السنة"
+
+#: public/templates/mls/template/single/single-property-more-details.php:80
+msgid "Listing Office"
+msgstr "قائمة مكتب"
+
+#: public/templates/account/partials/accessform.php:2
+#: public/templates/account/partials/nav.php:3
+msgid "Profile"
+msgstr "الملف الشخصي"
+
+#: public/templates/account/partials/profileform.php:3
+#: public/templates/account/partials/emailform.php:3
+msgid "Personal Info"
+msgstr "معلومات شخصية"
+
+#: public/templates/account/partials/profileform.php:39
+#: public/templates/account/partials/passwordform.php:9
+msgid "New Password"
+msgstr "كلمة سر جديدة"
+
+#: public/templates/account/partials/profileform.php:42
+#: public/templates/account/partials/passwordform.php:12
+msgid "Confirm New Password"
+msgstr "تأكيد كلمة السر الجديدة"
+
+#: public/templates/account/partials/save-search-list.php:1
+msgid "You have"
+msgstr "تملك"
+
+#: public/templates/account/partials/save-search-list.php:10
+msgid "delete"
+msgstr "حذف"
+
+#: public/templates/account/partials/save-search-list.php:13
+msgid "Subscribe to property alert"
+msgstr "الاشتراك في تنبيه الملكية"
+
+#: public/templates/account/partials/save-search-list.php:16
+msgid "Run this search"
+msgstr "تشغيل هذا البحث"
+
+#: public/templates/account/partials/passwordform.php:15
+msgid "Save"
+msgstr "حفظ"
+
+#~ msgid "Your Mobile Phone"
+#~ msgstr "الهاتف المحمول الخاص بك"
+
+#~ msgid "if 'turn on' it will display after certain click of property pages"
+#~ msgstr "إذا 'تشغيل' أنه سيتم عرض بعد نقرة معين من الصفحات الملكية"
+
+#~ msgid ""
+#~ "these are the individual property page. The popup will force the visitor "
+#~ "to register to continue browsing."
+#~ msgstr ""
+#~ "هذه هي الصفحة الملكية الفردية. سوف المنبثقة تجبر الزائر للتسجيل لمواصلة "
+#~ "التصفح."
+
+#~ msgid ""
+#~ "Outgoing email.  Use this mail system to send an email from the mail "
+#~ "server"
+#~ msgstr ""
+#~ "البريد الإلكتروني المنتهية ولايته. استخدام هذا النظام الإلكتروني لإرسال "
+#~ "البريد الإلكتروني من خادم البريد."

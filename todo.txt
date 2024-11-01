@@ -1,0 +1,35 @@
+﻿0) Dennis Agulo: you may tell Allan that transaction types can be hardcoded since 
+its the same for all accounts and just add 'To Let' on it... nothing needed from API
+- done
+
+1.) Facebook Share is Not working:  https://www.screencast.com/t/JeHCGNq2s - fixed
+
+2.) Allan, still getting complaints something is slow when our plugin is installed.  
+Are we still calling out to any home junction scripts?  Like search forms, etc? - fixed
+
+4.) https://www.screencast.com/t/j0vhiCqCyB Search Option does not work properly.. (Big Issue!) - fixed
+
+3.) Photos on top of on another: Media received. To view it, go to: 
+https://login.skype.com/login/sso?go=xmmfallback?pic=0-eus-d3-06536f6e4fe57c14d786b24e259bfddd
+- Jolo, to fix this one as this is template issue and the plugin the choose to use header and footer of the theme
+
+5.) On Property Page, it shows values even though for example Lot area are sq ft  = 0.  
+We need to not show 0 values.  See video: https://www.screencast.com/t/A1jCbow9Y2
+- fixed
+
+6.) On Property Page, “Type” and “Community” shows no value but should:https://www.screencast.com/t/ZbkkzdvyoZV
+- type is fixed
+- community, its working, if its not showing, need to reset the cache
+
+7.) Google Map link (that you added does not work)  See video: https://www.screencast.com/t/VZQGbfoxd7Q
+- The CRM Map let you drag and drop it, thus it gets the coordinate, the map in the property details, get the address in the CRM
+- if that is the case, what I did is geocode the coordinates to formatted address.
+- BUT this is not a permanent fix, since the google map api to convert coordinate to formatted address
+IS LIMITED to certain request only. I suggest to put exact formatted address in the CRM
+- The Link on the "Open Google Map" must be address, as it will not accept coordinates, 
+please we need exact formatted address to get exact google map when clicked. 
+- For now I convert coordinates (from CRM) and get formatted address, im not sure if its accurate
+
+8.) When “No Properties meet the Search Criteria. Please Search Again” 
+we need to maintain the Search script on top:  https://www.screencast.com/t/2uTLqLalv
+- fix

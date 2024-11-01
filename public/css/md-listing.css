@@ -1,0 +1,201 @@
+/*------------ listing css starts here -----------------------*/
+
+.md-listing-contain {
+	font-family: Arial, Helvetica, sans-serif;
+	overflow: hidden;
+	border: 10px #fff solid;
+}
+.md-listing-contain .inline-block {
+    display: -moz-inline-box;
+    display: inline-block;
+    vertical-align: top;
+    zoom: 1;
+    *display: inline;
+}
+.md-listing-image {
+	height: 300px;
+	background-size:cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+.md-listing-info {
+	color: #fff;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	text-decoration: none;
+	padding: 30px 10px 5px 10px;
+	background: linear-gradient(180deg,transparent 0,rgba(0,0,0,.8));
+	box-sizing: border-box;
+	transition: opacity .3s linear 0s;
+}
+.md-listing-info a {
+	color: #fff;
+}
+.md-listing-price {
+	font-size: 20px;
+	font-weight: bold;
+}
+.md-listing-address {
+	width: 45%;
+	font-size: 11px;
+	height: 33px;
+	overflow: hidden;
+	line-height:15px;
+}
+.md-listings-stats {
+	position: absolute;
+	top: 18px;
+	right: 10px;
+	width: 50%;
+	text-align: right;
+	border-bottom: 1px solid #fff;
+	padding-bottom: 2px;
+}
+.md-listings-stats2 {
+	position: absolute;
+	top: 50px;
+	right: 0px;
+	width: 80%;
+	text-align: right;
+}
+.md-listings-stats-label {
+	font-size: 12px;
+	border-right-color: hsla(0,0%,100%,.5);
+	padding-right: 5px;
+	padding-left: 5px;
+	box-sizing: border-box;
+	border-right: 1px solid #ccc;
+	text-align: center;
+	line-height: 1;
+	width: 31%;
+}
+.md-listings-stats-label .label {
+	font-size: 9px;
+	text-transform: uppercase;
+	white-space: nowrap;
+}
+.md-listings-stats-label .value {
+	font-size: 15px;
+	font-weight: bold;
+}
+.md-listings-stats-label .value>span {
+	font-size: 10px;
+	font-weight: normal;
+}
+.md-listings-stats .last, .md-listings-stats2 .last {
+	border: none;
+}
+.inline-block {
+    display: -moz-inline-box;
+    display: inline-block;
+    vertical-align: top;
+    zoom: 1;
+    *display: inline;
+}
+/*.md-listing-sash {width: 90%;}
+.md-listing-sash .active {display: inline-block; opacity: .7;}
+.md-listing-sash .sash {margin-right: 0px !important;}*/
+
+.md-listing-sash {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 90%;
+}
+.md-listing-sash .sash {
+	color: #fff;
+	padding: 2px 10px;
+	margin: 5px;
+	font-size: 9px;
+	text-align: center;
+	text-transform: uppercase;
+	border-radius: 2px;
+	margin-right: 0px !important
+}
+.md-listing-sash .active {
+	background-color: #060;
+	display: inline-block; opacity: .7;
+}
+.md-listing-sash .new {
+	background-color: #09F;
+}
+.md-listing-btn {
+	color: #fff;
+	position: absolute;
+	top: 10px;
+	right: 10px;
+}
+.md-listing-btn a {
+	font-size: 20px;
+	color: #fff;
+	text-decoration: none;
+	text-shadow: 0px 0px 5px #000;
+}
+
+/*---------- FORM CSS STARTS HERE ----------*/
+.mwp-bootstrap #advanced_search {
+    width: 1300px;
+    margin: auto;
+    padding-top: 20px;
+}
+.mwp-bootstrap #advanced_search select {
+	margin-bottom: 0px;
+}
+#advanced_search .mwp-theme-bk-color {
+	background-color: #09F;
+	color: #fff;
+	border-color: #fff;
+}
+.md-form-contract {
+	margin: auto;
+	padding: 10px;
+	width: 100%;
+}
+.md-form-contract .form-group {
+	text-align: center;
+}
+.md-form-contract .location {
+	width: 100%;
+	margin-bottom: 5px;
+}
+.md-form-contract select {
+	margin: 0px;
+}
+.md-form-contract form input {
+	margin: 0px;
+}
+#more-search-options select {
+	margin: 5px 0;
+	width: 100%;
+}
+
+/*------ for md-listing.css -----*/
+.navbar-fixed-top {
+    position: inherit;
+}
+.mwp-search-result-page .mwp-list-properties {
+    margin-top: 20px;
+}
+.md-listing-contain a {
+    color: #ffffff !important;
+}
+@media only screen and (max-width: 1024px) {
+.mwp-header-contain {
+	width: 100%;
+}
+.mwp-bootstrap #advanced_search {
+    width: 100%;
+}
+}
+@media only screen and (max-width: 768px) {
+.mwp-header-contain {
+	width: 100%;
+}
+.mwp-bootstrap #advanced_search {
+    width: 100%;
+}
+}
+/*------ for md-listing.css -----*/
+
